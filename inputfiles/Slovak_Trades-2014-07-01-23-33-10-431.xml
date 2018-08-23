@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HEML>
+  <Transactions ReportName="Slovak_Trades">
+    <Transaction Date="1/07/2014">
+      <Record RecordId="0">
+        <COLUMN FormalName="date" DisplayName="Date">1/07/2014</COLUMN>
+        <COLUMN FormalName="period" DisplayName="Period">Day-ahead Baseload</COLUMN>
+        <COLUMN FormalName="volume" DisplayName="Volume">2</COLUMN>
+        <COLUMN FormalName="total" DisplayName="Total">48</COLUMN>
+        <COLUMN FormalName="price" DisplayName="Price">36.1</COLUMN>
+        <COLUMN FormalName="time" DisplayName="Time">09:29:30</COLUMN>
+      </Record>
+      <Record RecordId="1">
+        <COLUMN FormalName="date" DisplayName="Date">1/07/2014</COLUMN>
+        <COLUMN FormalName="period" DisplayName="Period">Day-ahead Baseload</COLUMN>
+        <COLUMN FormalName="volume" DisplayName="Volume">2</COLUMN>
+        <COLUMN FormalName="total" DisplayName="Total">48</COLUMN>
+        <COLUMN FormalName="price" DisplayName="Price">36.1</COLUMN>
+        <COLUMN FormalName="time" DisplayName="Time">09:29:30</COLUMN>
+      </Record>
+      <Record RecordId="2">
+        <COLUMN FormalName="date" DisplayName="Date">1/07/2014</COLUMN>
+        <COLUMN FormalName="period" DisplayName="Period">Day-ahead Baseload</COLUMN>
+        <COLUMN FormalName="volume" DisplayName="Volume">5</COLUMN>
+        <COLUMN FormalName="total" DisplayName="Total">120</COLUMN>
+        <COLUMN FormalName="price" DisplayName="Price">36.1</COLUMN>
+        <COLUMN FormalName="time" DisplayName="Time">08:10:00</COLUMN>
+      </Record>
+      <Record RecordId="3">
+        <COLUMN FormalName="date" DisplayName="Date">1/07/2014</COLUMN>
+        <COLUMN FormalName="period" DisplayName="Period">Day-ahead Baseload</COLUMN>
+        <COLUMN FormalName="volume" DisplayName="Volume">5</COLUMN>
+        <COLUMN FormalName="total" DisplayName="Total">120</COLUMN>
+        <COLUMN FormalName="price" DisplayName="Price">36.1</COLUMN>
+        <COLUMN FormalName="time" DisplayName="Time">08:10:00</COLUMN>
+      </Record>
+    </Transaction>
+  </Transactions>
+</HEML>

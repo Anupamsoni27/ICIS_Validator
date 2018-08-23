@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HEML>
+  <Transactions ReportName="Slovak_Trades">
+    <Transaction Date="25/07/2016">
+      <Record RecordId="0">
+        <COLUMN FormalName="date" DisplayName="Date">25/07/2016</COLUMN>
+        <COLUMN FormalName="period" DisplayName="Period">August '16 Baseload</COLUMN>
+        <COLUMN FormalName="volume" DisplayName="Volume">5</COLUMN>
+        <COLUMN FormalName="total" DisplayName="Total">3720</COLUMN>
+        <COLUMN FormalName="price" DisplayName="Price">31</COLUMN>
+        <COLUMN FormalName="time" DisplayName="Time">14:18:48</COLUMN>
+      </Record>
+      <Record RecordId="1">
+        <COLUMN FormalName="date" DisplayName="Date">25/07/2016</COLUMN>
+        <COLUMN FormalName="period" DisplayName="Period">August '16 Baseload</COLUMN>
+        <COLUMN FormalName="volume" DisplayName="Volume">10</COLUMN>
+        <COLUMN FormalName="total" DisplayName="Total">7440</COLUMN>
+        <COLUMN FormalName="price" DisplayName="Price">31.25</COLUMN>
+        <COLUMN FormalName="time" DisplayName="Time">10:54:41</COLUMN>
+      </Record>
+    </Transaction>
+  </Transactions>
+</HEML>

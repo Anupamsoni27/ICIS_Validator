@@ -1,0 +1,3687 @@
+Date,Period,Volume,total,price
+29/07/2015,Q4 '15 Baseload,5,11045,34.9
+20/03/2014,Year 2015 Baseload,5,43800,35
+13/07/2015,Day-ahead Baseload,25,600,46
+2/12/2014,January '15 Baseload,25,18600,38.75
+21/10/2015,Day-ahead Baseload,10,240,36
+12/08/2013,September '13 Baseload,5,3600,36.5
+31/07/2013,Day-ahead Baseload,4,96,38.5
+23/09/2015,Q4 '15 Baseload,5,11045,34.75
+16/06/2016,Year 2017 Baseload,5,43800,29.75
+13/07/2016,Year 2017 Baseload,10,87600,29.9
+12/11/2013,Day-ahead Baseload,5,120,50
+8/11/2013,December '13 Baseload,10,7440,38.2
+7/08/2014,Year 2015 Baseload,10,87600,36.2
+4/04/2014,Day-ahead Baseload,10,240,36.5
+23/09/2015,Day-ahead Baseload,15,360,37.25
+22/05/2014,Day-ahead Baseload,10,240,39.2
+23/12/2015,Week 53 '15 Baseload,5,840,26.75
+9/01/2015,Sunday Baseload,10,240,6.5
+10/12/2015,Week 52 '15 Baseload,15,2520,24
+13/10/2015,Year 2016 Baseload,5,43920,32.3
+28/01/2015,Day-ahead Baseload,10,240,33.5
+9/06/2014,Day-ahead Baseload,5,120,36.25
+3/12/2013,Day-ahead Baseload,25,600,43.5
+17/12/2014,Day-ahead Baseload,20,480,38
+28/08/2013,Day-ahead Baseload,10,240,51.5
+2/08/2013,Year 2015 Baseload,5,43800,35.3
+10/04/2014,Day-ahead Baseload,10,240,39.2
+13/01/2015,Day-ahead Baseload,10,240,32.3
+12/08/2015,September '15 Baseload,5,3600,33.9
+13/11/2013,Day-ahead Baseload,10,240,47.75
+15/12/2015,Thursday Baseload,30,720,39
+7/01/2016,Year 2017 Baseload,10,87600,28.5
+18/04/2016,Day-ahead Baseload,10,240,24
+7/08/2013,Day-ahead Baseload,10,240,48
+13/01/2016,February '16 Baseload,73,50808,33.75
+14/10/2015,Day-ahead Baseload,50,1200,48.25
+19/11/2015,Day-ahead Baseload,10,240,39.75
+11/12/2014,Day-ahead Baseload,10,240,37
+16/04/2014,Day-ahead Baseload,5,120,37.85
+20/11/2014,Q1 '15 Baseload,25,53975,38
+7/05/2014,Year 2016 Baseload,2,17568,34
+30/01/2015,February '15 Baseload,10,6720,37
+21/10/2014,November '14 Baseload,25,18000,35.9
+31/07/2015,Day-ahead Baseload,15,360,36
+9/02/2016,Day-ahead Baseload,15,360,28
+3/10/2013,Day-ahead Baseload,5,120,37.75
+29/10/2015,December '15 Baseload,25,18600,34
+12/11/2015,Week 47 '15 Baseload,75,12600,36
+23/03/2016,April '16 Baseload,5,3600,25.9
+10/11/2014,Day-ahead Baseload,10,240,35.25
+7/11/2014,Sunday Baseload,10,240,25.75
+13/02/2015,Q2 '15 Baseload,5,10920,34.35
+28/10/2013,Day-ahead Baseload,50,1200,34
+26/08/2014,Weekend Baseload,25,1200,28
+12/02/2015,Day-ahead Baseload,10,240,39.9
+12/02/2015,Day-ahead Baseload,5,120,39.9
+18/12/2013,Week 52 '13 Baseload,10,1680,14.75
+25/11/2013,Day-ahead Baseload,5,120,51.6
+22/12/2015,Week 53 '15 Baseload,5,840,28
+11/09/2013,Day-ahead Baseload,5,120,49.95
+14/10/2015,Day-ahead Baseload,25,600,48.75
+23/03/2016,April '16 Baseload,25,18000,25.6
+9/04/2014,Day-ahead Baseload,10,240,41.75
+22/10/2013,Weekend Baseload,10,490,21
+19/05/2015,June '15 Baseload,5,3600,30.5
+1/09/2014,October '14 Baseload,10,7450,37
+7/01/2016,Year 2018 Baseload,10,87600,27.5
+24/02/2015,Day-ahead Baseload,20,480,43
+7/10/2015,Friday Baseload,20,480,46.5
+4/09/2015,Weekend Baseload,10,480,22.5
+5/03/2014,Day-ahead Extended-Peaks,10,160,45
+4/02/2016,Week 6 '16 Baseload,10,1680,29
+18/10/2013,November '13 Baseload,10,7200,41.85
+6/02/2015,Year 2017 Baseload,5,43800,34
+7/08/2013,Day-ahead Baseload,5,120,49.6
+5/12/2013,Weekend Baseload,30,1440,29.5
+9/01/2014,Day-ahead Baseload,5,120,28.75
+19/01/2015,February '15 Baseload,10,6720,34.5
+16/10/2013,Week 43 '13 Baseload,10,1690,38
+27/12/2013,Day-ahead Baseload,10,240,27
+22/05/2014,Day-ahead Baseload,5,120,39.6
+8/06/2016,Day-ahead Baseload,10,240,37.6
+11/12/2014,Week 52 '14 Peaks,10,600,32
+7/01/2016,Year 2017 Baseload,5,43800,28.4
+24/08/2015,Q4 '15 Baseload,25,55225,33.75
+15/12/2015,Thursday Baseload,10,240,38.25
+16/08/2016,September '16 Baseload,5,3600,30.6
+15/06/2016,Year 2017 Baseload,5,43800,29.8
+7/07/2014,Day-ahead Baseload,5,120,35.35
+14/10/2014,Day-ahead Baseload,10,240,42
+18/12/2014,Day-ahead Baseload,10,240,37.45
+17/07/2015,Weekend Baseload,5,240,36
+28/04/2014,Year 2015 Baseload,5,43800,35.55
+14/10/2015,Day-ahead Baseload,10,240,49.25
+15/10/2015,Day-ahead Baseload,10,240,49.25
+27/09/2013,Sunday Baseload,35,840,24.5
+25/09/2014,October '14 Baseload,20,14900,36.4
+6/11/2014,Year 2015 Baseload,10,87600,35.35
+27/11/2014,December '14 Baseload,10,7440,37.55
+18/06/2014,Week 26 '14 Baseload,10,1680,34.5
+23/10/2015,Q1 '16 Baseload,5,10915,33.2
+19/09/2016,December '16 Baseload,20,14880,31
+5/08/2016,September '16 Baseload,5,3600,31.25
+3/01/2014,Saturday Baseload,10,240,23
+30/09/2015,November '15 Baseload,10,7200,36
+20/08/2015,Week 35 '15 Baseload,50,8400,32.85
+9/12/2014,Day-ahead Baseload,25,600,34.5
+29/03/2016,April '16 Baseload,15,10800,26
+2/10/2014,Week 41 '14 Baseload,10,1680,36
+8/10/2013,Day-ahead Peaks,10,120,58.9
+24/07/2014,Week 31 '14 Baseload,25,4200,32.6
+9/01/2014,Day-ahead Baseload,5,120,28.95
+27/01/2014,Day-ahead Baseload,5,120,42.85
+27/11/2014,Day-ahead Baseload,5,120,35.5
+12/02/2014,Day-ahead Baseload,5,120,34.2
+13/10/2015,November '15 Baseload,10,7200,36.65
+1/04/2014,Day-ahead Baseload,10,240,41
+6/06/2016,July '16 Baseload,10,7440,30.5
+16/01/2014,Day-ahead Baseload,5,120,39.6
+27/04/2015,Day-ahead Baseload,10,240,37
+13/08/2013,September '13 Baseload,10,7200,36.15
+5/02/2014,Year 2015 Baseload,5,43800,36.35
+4/09/2014,October '14 Baseload,5,3725,35.4
+12/08/2014,Week 34 '14 Baseload,15,2520,29.75
+10/03/2015,April '15 Baseload,15,10800,34.15
+22/10/2014,Year 2016 Baseload,25,219600,33.65
+17/06/2015,Q3 '15 Baseload,25,55200,31.1
+9/07/2015,Day-ahead Baseload,10,240,37
+9/07/2015,Day-ahead Baseload,15,360,37.5
+29/10/2015,December '15 Baseload,10,7440,33.5
+12/11/2015,Week 47 '15 Baseload,25,4200,35.8
+14/09/2015,Day-ahead Baseload,10,240,33
+20/02/2014,March '14 Baseload,10,7430,32.4
+12/10/2015,Day-ahead Baseload,10,240,50.75
+16/10/2014,Week 43 '14 Baseload,10,1690,29.4
+30/06/2016,Day-ahead Baseload,5,120,34.3
+11/12/2014,Weekend Baseload,5,240,32
+31/03/2014,Year 2015 Baseload,10,87600,33.85
+7/04/2014,Day-ahead Baseload,10,240,32
+3/02/2015,March '15 Baseload,10,7430,33
+15/08/2014,Week 35 '14 Baseload,5,840,33.25
+9/02/2015,Day-ahead Baseload,25,600,41.25
+25/10/2013,Day-ahead Baseload,25,600,22.75
+7/02/2014,March '14 Baseload,10,7430,33.95
+14/01/2015,Day-ahead Baseload,5,120,27
+6/07/2015,August '15 Baseload,10,7440,31.3
+10/05/2016,Week 20 '16 Baseload,20,3360,27
+30/09/2015,Year 2016 Baseload,25,219600,32.4
+31/07/2013,Day-ahead Baseload,10,240,38.25
+30/10/2015,December '15 Baseload,20,14880,33.9
+9/04/2014,May '14 Baseload,25,18600,31
+24/06/2014,Day-ahead Baseload,10,240,39.5
+8/01/2015,Day-ahead Baseload,10,240,35
+17/12/2014,Friday Baseload,25,600,37
+4/08/2014,September '14 Baseload,25,18000,34.85
+12/08/2014,September '14 Baseload,10,7200,34.5
+18/06/2014,Week 26 '14 Baseload,5,840,34.5
+28/03/2014,Day-ahead Baseload,5,120,35
+20/03/2015,Week 13 '15 Baseload,25,4175,34.75
+17/09/2015,Day-ahead Baseload,10,240,42
+11/06/2015,Day-ahead Baseload,15,360,34.25
+1/12/2015,Weekend Baseload,5,240,26
+16/12/2013,Day-ahead Baseload,10,240,53.25
+19/09/2014,October '14 Baseload,10,7450,35.15
+12/06/2014,Day-ahead Baseload,5,120,33
+7/10/2015,Day-ahead Baseload,10,240,48.5
+19/08/2013,Day-ahead Baseload,10,240,46.3
+16/04/2015,Week 17 '15 Baseload,10,1680,28.75
+7/07/2015,August '15 Baseload,15,11160,29.75
+1/09/2015,Day-ahead Baseload,50,1200,39
+23/10/2015,Year 2018 Baseload,10,87600,30.3
+27/11/2013,Day-ahead Baseload,10,240,39.35
+31/01/2014,Day-ahead Baseload,3,72,43.75
+22/02/2016,March '16 Baseload,10,7430,23.5
+14/08/2014,Week 34 '14 Baseload,5,840,28.75
+4/09/2015,Weekend Baseload,10,480,24
+4/05/2016,Weekend Baseload,20,960,19.75
+13/05/2014,Day-ahead Baseload,5,120,35
+9/06/2014,Day-ahead Baseload,5,120,36.1
+14/12/2015,Day-ahead Baseload,25,600,45
+14/06/2016,July '16 Baseload,55,40920,30.5
+27/10/2014,Day-ahead Baseload,10,240,34.5
+12/11/2015,Year 2016 Baseload,10,87840,32.35
+8/04/2015,Day-ahead Baseload,10,240,41.25
+18/11/2015,Day-ahead Baseload,10,240,35
+15/04/2014,Day-ahead Baseload,5,120,40.8
+19/02/2015,Day-ahead Baseload,10,240,37
+24/09/2014,October '14 Baseload,10,7450,36.1
+16/08/2013,Weekend Baseload,10,480,28.5
+29/10/2015,Week 46 '15 Baseload,25,4200,39.25
+6/08/2014,Q1 '15 Baseload,10,21590,38.65
+23/08/2016,Q4 '16 Baseload,25,55225,32.25
+22/09/2014,Q4 '14 Baseload,45,99405,36.5
+18/12/2014,Day-ahead Baseload,10,240,35
+22/01/2015,Week 5 '15 Baseload,5,840,33
+22/10/2013,Day-ahead Baseload,5,120,33.4
+4/11/2015,December '15 Baseload,10,7440,33.1
+2/12/2015,Day-ahead Baseload,10,240,42.5
+18/06/2014,Week 26 '14 Baseload,20,3360,34
+27/04/2015,Week 19 '15 Baseload,25,4200,30.75
+10/10/2013,Weekend Baseload,35,1680,32.25
+6/08/2013,Day-ahead Baseload,5,120,45.75
+12/10/2015,Day-ahead Baseload,10,240,54.25
+28/10/2014,Day-ahead Baseload,10,240,41.25
+13/10/2015,Thursday Baseload,10,240,48.5
+19/10/2015,Day-ahead Baseload,10,240,49
+10/04/2014,Weekend Baseload,10,480,27
+13/11/2015,Week 47 '15 Baseload,5,840,36.8
+12/08/2014,Q4 '14 Baseload,30,66270,37.65
+9/12/2014,Day-ahead Baseload,5,120,34.8
+23/02/2015,Day-ahead Baseload,5,120,33.5
+17/02/2014,Day-ahead Baseload,5,120,40.7
+2/04/2015,Week 15 '15 Baseload,5,840,33.75
+6/06/2016,Q3 '16 Baseload,5,11040,31.15
+18/01/2016,Day-ahead Baseload,5,120,42.5
+11/12/2014,Day-ahead Baseload,10,240,36.8
+22/12/2014,Weekend Baseload,20,960,21.75
+8/08/2013,Day-ahead Baseload,5,120,51
+1/08/2013,Weekend Baseload,10,480,29.5
+2/06/2014,Day-ahead Baseload,5,120,39
+16/11/2015,December '15 Baseload,10,7440,34.75
+6/06/2016,Q3 '16 Baseload,5,11040,31.25
+16/08/2016,September '16 Baseload,10,7200,30.6
+8/08/2013,Day-ahead Baseload,10,240,50.75
+16/08/2013,Day-ahead Baseload,10,240,44.7
+28/11/2013,Year 2014 Baseload,5,43800,36.8
+24/04/2014,Year 2016 Baseload,25,219600,34
+26/02/2015,April '15 Baseload,10,7200,34.25
+11/04/2014,May '14 Baseload,25,18600,31.15
+11/12/2014,Day-ahead Baseload,10,240,36.75
+23/12/2014,Weekend Baseload,10,480,26.5
+12/11/2013,Day-ahead Baseload,10,240,49.75
+17/10/2014,Sunday Baseload,10,240,16.5
+2/04/2014,Year 2017 Baseload,10,87600,32.55
+22/10/2015,Weekend Baseload,10,490,27.5
+14/05/2014,June '14 Baseload,15,10800,31.35
+9/09/2016,Year 2017 Baseload,5,43800,27.3
+8/11/2013,December '13 Baseload,10,7440,38.1
+18/12/2013,Friday Baseload,20,480,37
+25/04/2014,Day-ahead Baseload,10,240,40.5
+26/06/2015,July '15 Baseload,5,3720,34
+2/11/2015,Day-ahead Baseload,5,120,43.5
+18/11/2015,Day-ahead Baseload,10,240,35.5
+17/09/2014,Year 2015 Baseload,10,87600,35.25
+28/05/2015,Q3 '15 Baseload,5,11040,30.75
+10/12/2014,Day-ahead Baseload,25,600,38
+22/06/2015,Day-ahead Baseload,10,240,33.5
+23/12/2013,26/12/2013 Baseload,15,360,2
+19/06/2015,Q3 '15 Baseload,5,11040,31.45
+8/07/2015,August '15 Baseload,20,14880,30.85
+15/01/2016,Weekend Baseload,20,960,31
+31/05/2016,June '16 Baseload,200,144000,28.45
+19/08/2013,Day-ahead Baseload,10,240,46.25
+16/03/2015,Week 13 '15 Baseload,10,1670,33
+15/10/2013,November '13 Baseload,2,1440,42
+6/10/2015,November '15 Baseload,25,18000,36.3
+30/04/2015,Weekend Baseload,10,480,22.25
+14/06/2016,July '16 Baseload,3,2232,30.5
+29/07/2014,Year 2015 Baseload,5,43800,36.6
+30/03/2016,April '16 Baseload,5,3600,26.15
+8/01/2015,Day-ahead Baseload,30,720,34.75
+20/02/2015,March '15 Baseload,10,7430,33.4
+10/04/2015,Q3 '15 Baseload,5,11040,33.85
+17/02/2015,Weekend Baseload,25,1200,27.5
+15/06/2015,Day-ahead Baseload,5,120,36.25
+30/10/2014,December '14 Baseload,50,37200,34.8
+3/09/2015,Day-ahead Extended-Peaks,10,160,47
+12/10/2015,Day-ahead Baseload,20,480,52
+7/07/2014,Year 2015 Baseload,5,43800,34.85
+27/02/2015,Sunday Baseload,5,120,14
+15/12/2014,Year 2017 Baseload,10,87600,33.7
+2/01/2015,Weekend Baseload,5,240,18.5
+7/02/2014,March '14 Baseload,10,7430,34
+28/03/2014,Sunday Baseload,10,230,21.4
+11/10/2013,Day-ahead Baseload,25,600,49
+31/01/2014,Day-ahead Baseload,5,120,44.2
+3/07/2015,Tuesday Baseload,10,240,50
+9/09/2013,Week 38 '13 Baseload,10,1680,38.75
+1/07/2016,Weekend Baseload,25,1200,25
+9/09/2014,Year 2015 Baseload,10,87600,35.7
+17/12/2013,Day-ahead Baseload,10,240,49.25
+25/06/2015,Day-ahead Baseload,5,120,36.6
+13/07/2015,Day-ahead Baseload,25,600,45.75
+15/01/2015,Year 2017 Baseload,5,43800,32.9
+23/10/2014,November '14 Baseload,10,7200,35.15
+30/11/2015,Wednesday Baseload,25,600,38
+9/10/2013,Day-ahead Baseload,10,240,55.5
+28/10/2013,Day-ahead Baseload,5,120,34.5
+15/04/2014,Day-ahead Baseload,10,240,40.8
+30/09/2014,December '14 Baseload,10,7440,35.5
+19/12/2013,Weekend Baseload,5,240,21
+11/02/2015,Year 2016 Baseload,5,43920,34.75
+29/10/2014,November '14 Baseload,3,2160,35.5
+25/03/2014,Q2 '14 Baseload,10,21840,30.55
+21/10/2014,Week 44 '14 Baseload,25,4200,34.5
+4/02/2014,Day-ahead Baseload,10,240,36.25
+29/10/2013,Day-ahead Baseload,25,600,41
+30/09/2014,Day-ahead Baseload,10,240,46.9
+22/05/2015,June '15 Baseload,5,3600,30.05
+6/10/2015,November '15 Baseload,20,14400,36.3
+15/01/2016,Weekend Baseload,10,480,31
+28/10/2013,Day-ahead Peaks,5,60,41
+9/08/2013,Week 33 '13 Baseload,5,840,37
+9/01/2014,Day-ahead Baseload,5,120,29
+1/08/2014,Week 32 '14 Baseload,10,1680,32
+23/12/2014,Weekend Baseload,10,480,27
+10/01/2014,February '14 Baseload,10,6720,41.65
+29/01/2016,February '16 Baseload,10,6960,32.6
+8/01/2014,Day-ahead Baseload,5,120,29.75
+30/10/2014,November '14 Baseload,10,7200,35.8
+2/09/2014,Weekend Baseload,30,1440,26.5
+2/04/2015,Week 15 '15 Baseload,10,1680,33.75
+8/06/2015,July '15 Baseload,10,7440,30
+12/11/2014,December '14 Baseload,10,7440,34.5
+29/09/2014,Day-ahead Peaks,5,60,54.75
+17/12/2014,Friday Baseload,50,1200,37
+23/10/2013,Week 44 '13 Baseload,10,1680,31
+7/11/2014,Sunday Baseload,10,240,26
+21/01/2014,Day-ahead Baseload,10,240,47.25
+4/08/2014,September '14 Baseload,10,7200,34.85
+13/07/2015,August '15 Baseload,5,3720,31.7
+16/02/2015,Day-ahead Baseload,10,240,44.1
+5/09/2013,October '13 Baseload,5,3725,39.5
+15/09/2014,Year 2015 Baseload,5,43800,35.6
+9/04/2015,Day-ahead Baseload,25,600,37.5
+15/01/2015,Weekend Baseload,5,240,31.5
+18/08/2015,September '15 Baseload,10,7200,34.35
+13/09/2016,Day-ahead Baseload,10,240,38
+8/01/2015,Week 3 '15 Baseload,20,3360,31.75
+30/01/2014,Week 6 '14 Baseload,12,2016,35.75
+26/03/2014,Q2 '14 Baseload,10,21840,30.55
+23/10/2015,Year 2016 Baseload,5,43920,32.25
+11/06/2014,Week 25 '14 Baseload,5,840,34
+10/02/2015,Year 2017 Baseload,5,43800,34.2
+7/04/2015,Day-ahead Baseload,15,360,39.5
+13/11/2015,Week 47 '15 Baseload,5,840,37
+10/10/2013,Weekend Baseload,55,2640,32
+27/12/2013,Day-ahead Baseload,10,240,27.5
+29/09/2015,Year 2016 Baseload,15,131760,32.6
+7/10/2013,November '13 Baseload,10,7200,44
+6/07/2015,August '15 Baseload,5,3720,31.1
+5/01/2015,Weekend Baseload,10,480,10.5
+22/07/2015,Day-ahead Baseload,20,480,50
+8/08/2013,Day-ahead Baseload,10,240,51.5
+20/08/2013,Day-ahead Baseload,10,240,43
+24/03/2016,Weekend Baseload,10,470,15.5
+17/12/2013,Week 52 '13 Baseload,40,6720,14.75
+7/08/2013,Day-ahead Peaks,10,120,60
+17/04/2014,18/04/2014 Baseload,10,240,31
+31/07/2015,Day-ahead Baseload,10,240,35.5
+4/08/2014,Day-ahead Baseload,10,240,33.5
+10/07/2015,Week 29 '15 Baseload,5,840,35
+8/01/2015,Day-ahead Baseload,25,600,34.25
+19/08/2014,Week 35 '14 Baseload,10,1680,31.75
+8/10/2013,Day-ahead Baseload,5,120,50
+17/03/2016,April '16 Baseload,10,7200,25.75
+13/10/2015,Day-ahead Baseload,15,360,49.5
+17/10/2013,Day-ahead Baseload,5,120,42
+23/01/2014,Day-ahead Peaks,5,60,59
+14/01/2014,February '14 Baseload,5,3360,40.5
+7/04/2014,May '14 Baseload,10,7440,30.95
+16/10/2014,Week 43 '14 Baseload,50,8450,29.6
+21/10/2015,Year 2016 Peaks,10,31320,40.25
+16/07/2014,Week 30 '14 Baseload,10,1680,32.75
+19/09/2013,Year 2014 Baseload,3,26280,38.55
+9/11/2015,Wednesday Baseload,70,1680,40
+18/02/2016,Day-ahead Baseload,10,240,26
+8/12/2015,Day-ahead Baseload,10,240,35.5
+9/10/2014,November '14 Baseload,5,3600,36.55
+11/09/2014,October '14 Baseload,25,18625,35.25
+27/01/2014,Day-ahead Baseload,5,120,42.9
+29/08/2014,Day-ahead Baseload,50,1200,36
+8/12/2015,Day-ahead Baseload,15,360,35.5
+8/08/2013,Week 33 '13 Baseload,5,840,36
+8/04/2015,Q3 '15 Baseload,10,22080,34
+20/03/2014,Day-ahead Extended-Peaks,5,80,32.4
+18/12/2014,Day-ahead Baseload,10,240,37.39
+25/03/2015,April '15 Baseload,10,7200,33.4
+14/12/2015,Day-ahead Baseload,15,360,45
+16/12/2013,Year 2014 Baseload,2,17520,37.2
+20/12/2013,Sunday Baseload,10,240,14
+16/04/2014,Day-ahead Baseload,10,240,38
+28/01/2015,Day-ahead Baseload,13,312,33.25
+5/02/2014,Day-ahead Extended-Peaks,5,80,38.3
+7/05/2014,Year 2015 Baseload,1,8760,35.3
+16/10/2015,Q1 '16 Baseload,5,10915,33.35
+9/07/2015,Day-ahead Baseload,5,120,37
+3/12/2015,Weekend Baseload,10,480,24
+23/07/2014,Year 2015 Baseload,5,43800,35.8
+6/10/2015,November '15 Baseload,25,18000,36.5
+12/12/2013,Weekend Baseload,40,1920,35.75
+19/11/2015,Week 48 '15 Baseload,15,2520,39
+29/10/2015,November '15 Baseload,10,7200,38.5
+9/01/2015,Week 3 '15 Baseload,20,3360,31.25
+10/02/2014,April '14 Baseload,5,3600,32.85
+2/10/2014,Week 41 '14 Baseload,10,1680,36.15
+21/10/2014,Day-ahead Baseload,10,240,39.75
+1/08/2014,September '14 Baseload,10,7200,36.7
+17/12/2015,Week 52 '15 Baseload,5,840,24.75
+17/12/2013,Thursday Baseload,15,360,40
+8/06/2016,Day-ahead Baseload,10,240,37.25
+30/07/2014,Week 32 '14 Baseload,5,840,31.75
+9/10/2015,Day-ahead Baseload,10,240,43.5
+25/09/2015,Weekend Baseload,15,720,30
+17/09/2015,Day-ahead Baseload,10,240,41.5
+19/08/2014,Year 2015 Baseload,5,43800,35.8
+5/08/2014,Q1 '15 Baseload,5,10795,38.25
+5/11/2014,Day-ahead Baseload,10,240,44.5
+19/09/2016,Year 2017 Baseload,10,87600,28.7
+9/12/2015,Day-ahead Baseload,40,960,36
+10/02/2016,Year 2017 Baseload,10,87600,25
+7/01/2014,February '14 Baseload,10,6720,41.55
+10/03/2014,Q2 '14 Baseload,10,21840,31.15
+22/10/2015,Year 2016 Peaks,5,15660,40.25
+27/05/2016,June '16 Baseload,10,7200,28.75
+28/09/2015,Day-ahead Baseload,5,120,37
+14/01/2015,Day-ahead Baseload,5,120,26.5
+8/12/2014,Day-ahead Baseload,10,240,50
+9/01/2015,March '15 Baseload,25,18575,34
+11/06/2015,Day-ahead Baseload,10,240,34.5
+24/09/2014,Year 2015 Baseload,25,219000,35
+25/04/2016,May '16 Baseload,5,3720,27.9
+19/12/2014,Weekend Baseload,15,720,17
+9/01/2015,Day-ahead Baseload,20,480,32
+22/07/2014,Day-ahead Baseload,5,120,32.5
+8/07/2015,August '15 Baseload,10,7440,30.4
+16/10/2015,November '15 Baseload,10,7200,36.2
+10/06/2015,Day-ahead Baseload,10,240,34
+17/12/2014,Day-ahead Baseload,10,240,39
+9/01/2014,Day-ahead Baseload,5,120,28.8
+2/08/2013,Weekend Baseload,10,480,27
+20/01/2014,Day-ahead Baseload,10,240,52
+5/11/2015,Q2 '16 Baseload,10,21840,31
+15/01/2014,February '14 Baseload,10,6720,39.65
+29/06/2015,Week 28 '15 Baseload,10,1680,36.75
+6/04/2016,May '16 Baseload,5,3720,24.8
+9/12/2013,January '14 Baseload,10,7440,40.3
+25/01/2016,Year 2017 Baseload,15,131400,26.45
+16/04/2014,Day-ahead Baseload,10,240,41
+12/08/2013,Day-ahead Baseload,5,120,51.5
+21/01/2015,February '15 Baseload,5,3360,35
+19/12/2013,January '14 Baseload,10,7440,40.55
+23/09/2013,Day-ahead Baseload,5,120,48.4
+22/09/2014,Q4 '14 Baseload,10,22090,1.1
+12/05/2015,Year 2016 Baseload,15,131760,32.8
+19/12/2014,Week 52 '14 Baseload,10,1680,21.5
+29/10/2015,Week 45 '15 Baseload,5,840,40.5
+7/08/2015,Week 33 '15 Baseload,20,3360,34.5
+14/05/2014,Day-ahead Baseload,5,120,38.3
+28/09/2015,Day-ahead Baseload,30,720,37
+6/10/2014,November '14 Baseload,10,7200,37.05
+24/10/2013,Week 44 '13 Baseload,25,4200,31.25
+6/01/2015,Weekend Baseload,10,480,10
+21/10/2014,Day-ahead Baseload,5,120,38
+20/08/2015,Weekend Baseload,50,2400,22.5
+30/09/2015,Day-ahead Baseload,10,240,43
+27/08/2014,Weekend Baseload,13,624,28
+30/10/2015,Sunday Baseload,30,720,32.35
+24/08/2015,Year 2016 Baseload,10,87840,31.3
+29/06/2015,Day-ahead Baseload,5,120,38
+29/01/2015,Day-ahead Baseload,10,240,38.75
+13/11/2015,Weekend Baseload,50,2400,22.5
+13/08/2013,September '13 Baseload,10,7200,36.05
+7/12/2015,Year 2016 Baseload,5,43920,31.9
+11/05/2015,June '15 Baseload,10,7200,30.6
+21/12/2015,Q2 '16 Baseload,50,109200,30
+3/06/2014,Week 24 '14 Baseload,10,1680,31.25
+11/03/2015,April '15 Baseload,20,14400,34.2
+12/12/2014,Week 51 '14 Baseload,10,1680,36.25
+16/04/2014,Year 2015 Baseload,25,219000,35.25
+12/04/2016,May '16 Baseload,10,7440,25.5
+10/06/2015,Q3 '15 Baseload,30,66240,30.55
+10/12/2015,Week 51 '15 Baseload,10,1680,35.25
+25/08/2015,September '15 Baseload,10,7200,33.45
+1/06/2015,Day-ahead Baseload,5,120,25.5
+6/10/2014,December '14 Baseload,10,7440,35.7
+18/06/2014,Q3 '14 Baseload,10,22080,35.45
+9/02/2016,Day-ahead Baseload,25,600,27.5
+18/12/2014,Week 52 '14 Baseload,5,840,23.6
+4/02/2015,Week 7 '15 Baseload,25,4200,37.4
+25/11/2013,Day-ahead Baseload,10,240,51.75
+1/04/2014,Year 2015 Baseload,5,43800,34.3
+5/09/2013,Week 37 '13 Baseload,10,1680,42
+19/10/2015,Day-ahead Baseload,5,120,49
+4/09/2015,Weekend Baseload,25,1200,24.75
+4/07/2014,August '14 Baseload,25,18600,34
+4/06/2014,Week 24 '14 Baseload,10,1680,31.25
+13/10/2015,Day-ahead Baseload,10,240,49
+1/10/2014,Week 41 '14 Baseload,25,4200,35
+10/11/2014,Day-ahead Baseload,10,240,37.25
+8/10/2015,December '15 Baseload,5,3720,32.35
+24/03/2014,Day-ahead Baseload,5,120,37.4
+8/04/2015,Day-ahead Baseload,10,240,41
+10/11/2015,Q3 '16 Baseload,50,110400,33
+14/12/2015,Day-ahead Baseload,10,240,44
+11/02/2016,Day-ahead Baseload,25,600,30.7
+26/02/2015,April '15 Baseload,10,7200,34.3
+2/12/2015,January '16 Baseload,10,7440,32.85
+9/07/2014,August '14 Baseload,5,3720,34
+17/04/2015,Year 2016 Baseload,5,43920,33.85
+1/06/2015,Day-ahead Baseload,10,240,25.5
+7/09/2015,Q4 '15 Baseload,10,22090,33.65
+3/07/2015,Week 28 '15 Baseload,10,1680,38.2
+23/03/2016,April '16 Baseload,5,3600,26
+16/07/2014,Year 2015 Baseload,10,87600,34.95
+6/10/2014,Day-ahead Baseload,5,120,34
+6/02/2015,Week 8 '15 Baseload,10,1680,34.25
+3/02/2015,March '15 Baseload,25,18575,33
+22/12/2014,Wednesday Baseload,10,240,9
+23/07/2015,Day-ahead Baseload,35,840,49
+10/04/2014,May '14 Baseload,25,18600,31
+22/01/2015,Week 5 '15 Baseload,25,4200,33
+29/01/2015,Day-ahead Baseload,5,120,39.25
+29/10/2015,Day-ahead Baseload,10,240,45
+1/04/2014,Day-ahead Baseload,10,240,40
+14/12/2015,Day-ahead Baseload,10,240,44.4
+23/04/2014,May '14 Baseload,25,18600,32.25
+22/10/2014,Week 44 '14 Baseload,10,1680,34
+31/10/2013,November '13 Baseload,10,7200,40.8
+16/07/2015,Day-ahead Baseload,10,240,46
+10/10/2013,Day-ahead Baseload,5,120,44.5
+20/08/2013,September '13 Baseload,5,3600,36.85
+5/03/2015,April '15 Baseload,10,7200,34.25
+20/09/2013,Weekend Baseload,10,480,35.3
+18/12/2013,Day-ahead Baseload,10,240,38.5
+24/04/2015,Weekend Baseload,10,480,25.25
+7/02/2014,Sunday Baseload,5,120,12
+14/07/2016,Year 2017 Baseload,5,43800,30.1
+9/06/2016,Day-ahead Baseload,10,240,35
+31/01/2014,Weekend Baseload,10,480,29.3
+4/08/2014,September '14 Baseload,5,3600,34.8
+28/07/2016,Year 2017 Baseload,10,87600,30
+14/10/2014,November '14 Baseload,5,3600,35.35
+6/02/2014,Day-ahead Baseload,5,120,28.6
+21/04/2016,May '16 Baseload,5,3720,26.35
+5/03/2015,April '15 Baseload,10,7200,34
+9/10/2015,Year 2017 Baseload,5,43800,31.35
+13/01/2015,February '15 Baseload,10,6720,38.5
+7/10/2013,Day-ahead Baseload,10,240,55
+7/08/2013,Day-ahead Baseload,4,96,50.5
+7/05/2015,June '15 Baseload,10,7200,30.6
+12/11/2015,Week 47 '15 Baseload,10,1680,36
+6/11/2015,Week 46 '15 Baseload,10,1680,33.5
+7/08/2013,Day-ahead Baseload,10,240,47.5
+4/12/2015,Weekend Baseload,30,1440,28
+26/09/2014,Day-ahead Baseload,50,1200,42.75
+30/07/2015,Day-ahead Baseload,40,960,33.25
+4/04/2014,Day-ahead Baseload,10,240,35.5
+18/11/2015,Day-ahead Baseload,5,120,37
+19/01/2016,Day-ahead Baseload,15,360,47.5
+7/11/2014,Year 2016 Baseload,5,43920,34.15
+16/09/2013,October '13 Baseload,15,11175,39.9
+10/02/2015,Year 2016 Baseload,5,43920,34.95
+8/10/2015,Weekend Baseload,15,720,29.5
+17/03/2016,April '16 Baseload,75,54000,25.75
+6/10/2014,Day-ahead Baseload,10,240,33
+4/11/2015,Weekend Baseload,10,480,28
+13/01/2015,Week 4 '15 Baseload,25,4200,41
+31/01/2014,Day-ahead Baseload,3,72,44
+14/02/2014,Year 2015 Baseload,10,87600,36.4
+9/09/2015,October '15 Baseload,10,7450,34.25
+8/08/2013,Day-ahead Baseload,10,240,56
+24/02/2015,Day-ahead Baseload,10,240,42.75
+2/12/2015,Week 50 '15 Baseload,100,16800,33.5
+23/12/2014,Weekend Baseload,10,480,27.05
+1/07/2016,Year 2017 Baseload,25,219000,29.05
+13/07/2016,Year 2017 Baseload,10,87600,30.1
+12/10/2015,Day-ahead Baseload,10,240,54
+13/07/2015,August '15 Baseload,25,18600,31.7
+7/04/2014,Day-ahead Baseload,5,120,32.5
+8/07/2015,August '15 Baseload,10,7440,30.55
+22/10/2014,Year 2017 Baseload,10,87600,32.35
+19/10/2015,Week 44 '15 Baseload,10,1680,36
+7/01/2015,Week 3 '15 Baseload,25,4200,32
+23/12/2015,Year 2018 Baseload,10,87600,28.3
+15/06/2016,Year 2017 Baseload,5,43800,29.75
+1/08/2014,Weekend Baseload,10,480,25.3
+6/07/2015,Day-ahead Baseload,20,480,48.5
+11/02/2016,Year 2017 Baseload,5,43800,24.6
+26/02/2014,April '14 Baseload,5,3600,30.05
+9/02/2015,Day-ahead Baseload,10,240,41.4
+23/07/2015,Day-ahead Baseload,10,240,48.5
+23/05/2014,June '14 Baseload,15,10800,32.3
+18/12/2013,Week 52 '13 Baseload,10,1680,14.5
+23/10/2013,Day-ahead Baseload,10,240,41
+1/12/2015,Weekend Baseload,10,480,26
+2/08/2013,Day-ahead Baseload,10,240,41.6
+10/02/2016,Q2 '16 Baseload,25,54600,27
+22/12/2014,Day-ahead Baseload,10,240,18.25
+1/07/2016,Week 27 '16 Baseload,10,1680,31
+16/12/2015,Week 53 '15 Baseload,100,16800,26.15
+23/09/2016,Day-ahead Baseload,5,120,35.2
+26/09/2013,October '13 Baseload,25,18625,41.2
+30/10/2013,Day-ahead Baseload,10,240,36
+19/08/2016,Year 2017 Baseload,5,43800,28.25
+4/08/2016,Year 2017 Baseload,5,43800,28.9
+3/12/2014,Week 50 '14 Baseload,10,1680,38
+10/11/2014,Day-ahead Baseload,5,120,37.25
+29/09/2014,Day-ahead Baseload,10,240,46.25
+7/07/2014,August '14 Baseload,20,14880,33.6
+7/07/2015,Day-ahead Baseload,5,120,48
+2/07/2015,Day-ahead Baseload,15,360,40.75
+16/04/2014,Day-ahead Baseload,10,240,39
+9/09/2015,Year 2016 Baseload,10,87840,31.95
+19/02/2015,March '15 Baseload,10,7430,33.25
+1/08/2014,Weekend Baseload,20,960,25
+24/11/2015,Day-ahead Baseload,10,240,45
+26/02/2014,Day-ahead Baseload,5,120,37.8
+22/10/2015,Weekend Baseload,5,245,27.6
+27/11/2014,Day-ahead Baseload,5,120,35.1
+19/08/2013,Day-ahead Baseload,10,240,48
+9/01/2015,Day-ahead Baseload,25,600,32
+31/07/2015,Day-ahead Baseload,10,240,35.75
+14/09/2015,Day-ahead Baseload,10,240,34
+2/10/2015,Weekend Baseload,5,240,32
+10/04/2015,Q3 '15 Baseload,10,22080,33.7
+21/07/2015,Day-ahead Baseload,35,840,53
+23/05/2014,June '14 Baseload,5,3600,32.4
+13/09/2013,Day-ahead Baseload,5,120,36.4
+14/11/2013,December '13 Baseload,5,3720,38.1
+2/01/2015,Weekend Baseload,5,240,17
+2/10/2013,Day-ahead Baseload,5,120,26.5
+25/06/2015,Day-ahead Baseload,25,600,36.5
+5/12/2013,Weekend Baseload,20,960,30
+19/12/2013,Weekend Baseload,15,720,21
+29/10/2013,December '13 Baseload,30,22320,39.1
+10/01/2014,February '14 Baseload,10,6720,41.35
+8/09/2014,October '14 Baseload,15,11175,35.6
+24/08/2015,September '15 Baseload,5,3600,33.45
+24/07/2014,Day-ahead Baseload,5,120,35.4
+21/10/2013,Weekend Baseload,10,490,24
+14/07/2016,Year 2018 Baseload,10,87600,28.35
+10/12/2015,Week 52 '15 Baseload,20,3360,24
+6/08/2015,Weekend Baseload,25,1200,24.5
+26/08/2015,Day-ahead Baseload,40,960,33.5
+2/04/2015,Week 15 '15 Baseload,10,1680,33.5
+27/03/2015,Weekend Baseload,10,470,20
+7/01/2014,Day-ahead Baseload,10,240,34.25
+10/07/2015,Weekend Baseload,40,1920,31
+15/09/2014,Week 39 '14 Baseload,10,1680,36.5
+16/09/2015,Day-ahead Baseload,10,240,42
+27/06/2014,Sunday Baseload,25,600,25.5
+22/10/2015,Year 2018 Baseload,5,43800,30.3
+15/04/2014,Weekend Baseload,70,3360,19.5
+31/05/2016,Q3 '16 Baseload,10,22080,30.6
+7/04/2015,June '15 Baseload,40,28800,32.75
+2/07/2014,Day-ahead Baseload,5,120,34.75
+5/02/2014,Day-ahead Extended-Peaks,5,80,38.1
+29/01/2015,Day-ahead Baseload,10,240,38.25
+25/08/2015,October '15 Baseload,25,18625,33.95
+4/11/2015,Day-ahead Baseload,10,240,42.5
+27/04/2016,Q3 '16 Baseload,20,44160,29.5
+1/04/2014,Day-ahead Baseload,5,120,40.85
+5/01/2016,February '16 Baseload,10,6960,34.3
+11/06/2015,Day-ahead Baseload,10,240,33.8
+16/12/2014,Thursday Baseload,20,480,40
+19/12/2014,Weekend Baseload,10,480,18
+15/07/2014,Week 30 '14 Baseload,5,840,32.25
+18/07/2014,Day-ahead Baseload,10,240,34.75
+12/08/2014,Week 34 '14 Baseload,10,1680,29.75
+6/02/2014,Day-ahead Peaks,5,60,33.5
+11/06/2015,Day-ahead Baseload,5,120,34
+18/12/2014,Day-ahead Baseload,10,240,37.5
+28/11/2013,Year 2015 Baseload,5,43800,35.9
+30/10/2013,Day-ahead Baseload,10,240,35.8
+29/01/2015,Q4 '15 Baseload,5,11045,37.4
+10/11/2014,Year 2015 Baseload,25,219000,35.75
+4/08/2014,Q1 '15 Baseload,25,53975,38.25
+8/01/2015,Week 3 '15 Baseload,2,336,32
+21/04/2015,Q3 '15 Baseload,10,22080,32.75
+16/09/2013,Day-ahead Baseload,5,120,42
+17/08/2015,Week 35 '15 Baseload,10,1680,34.5
+7/07/2015,Q4 '15 Baseload,20,44180,34.5
+16/10/2015,Weekend Baseload,5,240,36.5
+6/08/2015,Day-ahead Baseload,10,240,36.75
+7/09/2015,Year 2016 Baseload,10,87840,31.7
+5/11/2015,Day-ahead Baseload,15,360,37.75
+2/09/2015,Day-ahead Baseload,5,120,50
+3/12/2015,Year 2016 Baseload,5,43920,32.15
+23/12/2015,January '16 Baseload,20,14880,33.4
+4/04/2016,May '16 Baseload,10,7440,25
+13/10/2015,Day-ahead Baseload,5,120,49
+26/08/2015,Day-ahead Baseload,10,240,34
+11/11/2015,December '15 Baseload,5,3720,33.25
+26/10/2015,Week 45 '15 Baseload,10,1680,37.5
+1/10/2015,Day-ahead Baseload,10,240,44
+11/12/2013,Week 52 '13 Baseload,10,1680,20.5
+20/01/2016,February '16 Baseload,10,6960,33.25
+10/10/2014,November '14 Baseload,10,7200,36.5
+7/06/2016,Q3 '16 Baseload,15,33120,30.9
+28/02/2014,Day-ahead Baseload,5,120,32.8
+7/02/2014,Day-ahead Baseload,10,240,37.5
+20/04/2015,May '15 Baseload,50,37200,30.5
+4/04/2016,Year 2017 Baseload,5,43800,25.25
+15/04/2016,Weekend Baseload,10,480,17.2
+19/06/2015,Q3 '15 Baseload,10,22080,31.35
+25/05/2016,Day-ahead Baseload,35,840,28.5
+3/01/2014,Day-ahead Baseload,5,120,28.75
+11/09/2015,Day-ahead Baseload,35,840,35.5
+5/09/2013,Year 2015 Baseload,5,43800,37.05
+26/08/2015,Day-ahead Baseload,9,216,33.25
+6/08/2014,Q4 '14 Baseload,10,22090,37.75
+31/07/2015,Day-ahead Baseload,10,240,36
+13/08/2014,Week 34 '14 Baseload,10,1680,30.25
+4/08/2016,Q4 '16 Baseload,5,11045,33.3
+4/02/2015,Q2 '15 Baseload,5,10920,32.9
+22/12/2014,Day-ahead Baseload,10,240,18.5
+19/01/2016,Year 2018 Baseload,5,43800,25.75
+18/09/2013,Day-ahead Baseload,5,120,46.5
+28/04/2014,May '14 Baseload,15,11160,34.2
+2/10/2014,Week 41 '14 Baseload,5,840,36
+26/06/2014,Day-ahead Baseload,10,240,37.85
+31/07/2015,Week 32 '15 Baseload,10,1680,35
+19/01/2015,February '15 Baseload,10,6720,34.75
+3/12/2015,Weekend Baseload,25,1200,24
+1/12/2014,Day-ahead Baseload,5,120,52.75
+13/01/2014,Day-ahead Baseload,5,120,51.4
+31/12/2013,Day-ahead Baseload,5,120,28.25
+17/07/2014,Day-ahead Baseload,10,240,34.35
+22/04/2016,Day-ahead Baseload,10,240,28
+26/11/2013,Year 2014 Baseload,5,43800,37.15
+27/11/2013,Q1 '14 Baseload,5,10795,39.7
+15/10/2013,Week 43 '13 Baseload,15,2535,38.25
+23/09/2014,Day-ahead Baseload,5,120,37.5
+20/05/2014,Day-ahead Baseload,10,240,38.4
+31/07/2013,Day-ahead Baseload,5,120,38.5
+25/09/2014,Weekend Baseload,20,960,31
+25/09/2015,Weekend Baseload,25,1200,30.5
+9/10/2013,Weekend Baseload,25,1200,32.5
+25/11/2015,Weekend Baseload,20,960,24
+22/09/2014,Day-ahead Baseload,10,240,42.25
+30/11/2015,Day-ahead Baseload,30,720,38.5
+1/07/2015,Weekend Baseload,25,1200,32.5
+5/09/2014,Year 2015 Baseload,5,43800,35.7
+7/10/2013,Day-ahead Baseload,5,120,54.3
+2/07/2015,Day-ahead Baseload,10,240,40.75
+30/10/2013,November '13 Baseload,15,10800,41
+30/01/2015,Day-ahead Baseload,5,120,34.75
+26/11/2015,Weekend Baseload,35,1680,23
+28/05/2015,Q3 '15 Baseload,5,11040,30.8
+4/12/2013,Day-ahead Baseload,10,240,31
+15/10/2015,Year 2016 Baseload,1,8784,32.3
+5/06/2015,July '15 Baseload,50,37200,30.45
+6/08/2013,Day-ahead Baseload,5,120,45.25
+14/06/2016,Year 2017 Baseload,10,87600,29.05
+21/09/2016,Year 2017 Baseload,5,43800,28.8
+8/08/2016,September '16 Baseload,10,7200,31.05
+27/08/2014,Weekend Baseload,10,480,28
+19/02/2016,March '16 Baseload,10,7430,24
+12/11/2015,Week 47 '15 Baseload,8,1344,35.8
+7/09/2015,October '15 Baseload,50,37250,33.5
+6/11/2013,Day-ahead Baseload,10,240,36.5
+29/06/2015,August '15 Baseload,10,7440,30.2
+22/05/2015,June '15 Baseload,15,10800,30
+23/08/2016,September '16 Baseload,5,3600,30.5
+17/04/2014,18/04/2014 Baseload,20,480,29.5
+12/06/2015,Weekend Baseload,10,480,21
+2/09/2015,Day-ahead Baseload,10,240,50
+1/10/2013,Day-ahead Baseload,10,240,49
+22/08/2014,Year 2015 Baseload,10,87600,35.85
+6/10/2015,November '15 Baseload,10,7200,36.3
+25/10/2013,Week 45 '13 Baseload,10,1680,38.5
+23/10/2015,Q1 '16 Baseload,10,21830,33.3
+30/11/2015,Day-ahead Baseload,10,240,38.75
+30/12/2013,Day-ahead Baseload,15,360,26.25
+2/12/2014,Year 2016 Baseload,1,8784,35.7
+9/01/2015,February '15 Baseload,10,6720,36.95
+27/02/2015,March '15 Baseload,10,7430,34.2
+18/02/2014,Day-ahead Baseload,5,120,42
+11/12/2013,Week 52 '13 Baseload,10,1680,20.35
+10/06/2016,July '16 Baseload,5,3720,30.4
+29/08/2014,Weekend Baseload,10,480,26
+7/11/2014,Year 2015 Baseload,5,43800,35.5
+9/01/2014,Day-ahead Baseload,5,120,28.5
+24/02/2016,Q2 '16 Baseload,5,10920,25.35
+4/01/2016,Wednesday Baseload,10,240,36
+29/10/2013,December '13 Baseload,10,7440,39.1
+28/02/2014,Year 2016 Baseload,5,43920,34.9
+10/06/2014,Day-ahead Baseload,10,240,42
+10/12/2013,January '14 Baseload,10,7440,40.25
+14/01/2014,February '14 Baseload,10,6720,40.65
+6/08/2014,September '14 Baseload,20,14400,34.9
+16/10/2013,Day-ahead Baseload,5,120,34.5
+31/01/2014,Weekend Baseload,10,480,29
+14/04/2015,May '15 Baseload,10,7440,31.45
+13/07/2016,Year 2017 Baseload,5,43800,30.1
+22/10/2015,Weekend Baseload,5,245,27.65
+11/02/2015,Week 8 '15 Baseload,10,1680,35.5
+27/09/2013,October '13 Baseload,25,18625,41.25
+22/09/2015,October '15 Baseload,70,52150,36
+6/08/2014,Day-ahead Baseload,10,240,33
+5/06/2014,Day-ahead Baseload,5,120,32.5
+9/11/2015,Year 2016 Baseload,5,43920,32.45
+8/08/2013,Week 33 '13 Baseload,10,1680,36
+18/11/2015,Day-ahead Baseload,50,1200,36
+11/05/2015,Q3 '15 Baseload,15,33120,31.3
+31/05/2016,Year 2017 Baseload,5,43800,28.9
+9/12/2014,Day-ahead Baseload,10,240,35
+20/11/2014,Day-ahead Baseload,10,240,44.25
+13/10/2014,Day-ahead Baseload,5,120,42.65
+25/02/2015,Weekend Baseload,25,1200,25.75
+2/07/2015,Weekend Baseload,25,1200,33
+6/11/2015,December '15 Baseload,5,3720,33.4
+22/12/2014,Day-ahead Baseload,5,120,19
+24/01/2014,Week 5 '14 Baseload,10,1680,43.5
+,,,,
+31/07/2015,Weekend Baseload,10,480,26
+17/10/2013,Day-ahead Baseload,10,240,43
+21/12/2015,January '16 Baseload,10,7440,33.75
+20/07/2015,Day-ahead Baseload,10,240,45
+11/07/2016,August '16 Baseload,25,18600,31.45
+13/09/2013,November '13 Baseload,10,7200,41.9
+23/12/2014,25/12/2014 Baseload,10,240,14.3
+31/12/2013,01/01/2014 Baseload,25,600,19.5
+2/09/2015,Day-ahead Baseload,10,240,47
+7/04/2014,Year 2015 Baseload,10,87600,33.9
+2/09/2014,Year 2015 Baseload,5,43800,36.2
+23/01/2014,Week 5 '14 Baseload,5,840,42
+23/10/2014,November '14 Baseload,15,10800,35.25
+1/07/2014,Day-ahead Baseload,2,48,36.1
+19/08/2016,October '16 Baseload,5,3725,32.75
+10/12/2014,Day-ahead Baseload,25,600,35.5
+3/09/2014,November '14 Baseload,1,720,39.6
+29/01/2014,Day-ahead Baseload,5,120,46.75
+28/08/2014,Year 2015 Baseload,5,43800,36.2
+14/01/2016,February '16 Baseload,35,24360,33.6
+18/08/2016,September '16 Baseload,10,7200,30.6
+13/09/2013,November '13 Baseload,5,3600,41.9
+20/12/2013,Year 2015 Baseload,5,43800,36.4
+2/08/2013,Weekend Baseload,15,720,28
+6/10/2015,Day-ahead Baseload,10,240,45.25
+15/01/2014,February '14 Baseload,30,20160,39.85
+29/04/2014,Day-ahead Baseload,10,240,39.25
+16/02/2015,Year 2016 Baseload,5,43920,35.65
+11/12/2014,Day-ahead Baseload,50,1200,36.9
+19/01/2016,Day-ahead Baseload,5,120,48
+23/01/2014,Day-ahead Extended-Peaks,5,80,56.4
+18/12/2014,Weekend Baseload,10,480,19.25
+7/10/2013,Week 42 '13 Baseload,10,1680,47
+5/09/2013,Day-ahead Baseload,5,120,41.5
+6/11/2013,Day-ahead Baseload,5,120,36.5
+21/01/2015,March '15 Baseload,35,26005,32.8
+16/10/2014,December '14 Baseload,10,7440,34.45
+3/09/2015,Day-ahead Baseload,10,240,40
+30/12/2014,Week 2 '15 Baseload,25,4200,30.1
+13/01/2016,Day-ahead Baseload,10,240,34
+7/07/2014,Day-ahead Peaks,5,60,41.25
+18/02/2016,Day-ahead Baseload,10,240,26.5
+30/12/2014,January '15 Baseload,30,22320,34.6
+2/09/2015,Day-ahead Baseload,10,240,49
+2/06/2015,Day-ahead Baseload,10,240,27.5
+4/05/2016,Q3 '16 Baseload,5,11040,28.75
+29/05/2014,Week 23 '14 Baseload,25,4200,33.75
+29/09/2014,Day-ahead Baseload,10,240,46.5
+17/12/2014,Friday Baseload,10,240,36.75
+6/01/2015,Weekend Baseload,5,240,10
+12/11/2014,December '14 Baseload,10,7440,34.7
+6/10/2015,Day-ahead Baseload,20,480,45.25
+7/10/2015,Day-ahead Baseload,10,240,48.3
+16/10/2015,Day-ahead Baseload,5,120,47.5
+7/09/2015,Day-ahead Baseload,3,72,40.3
+5/02/2016,Week 6 '16 Baseload,5,840,28
+22/04/2015,May '15 Baseload,10,7440,30.2
+3/10/2013,Day-ahead Baseload,10,240,38
+16/07/2015,Weekend Baseload,10,480,34
+10/12/2015,Week 51 '15 Baseload,10,1680,35.5
+18/12/2014,Day-ahead Baseload,15,360,36.75
+4/02/2014,Day-ahead Peaks,5,60,42.1
+27/10/2015,Year 2016 Baseload,5,43920,32.5
+8/04/2015,Day-ahead Baseload,5,120,40.9
+28/10/2014,Day-ahead Baseload,5,120,41.8
+22/09/2015,Day-ahead Baseload,5,120,42.15
+5/02/2014,Q2 '14 Baseload,27,58968,32
+16/10/2015,November '15 Baseload,5,3600,36.2
+23/12/2014,26/12/2014 Baseload,10,240,29
+23/06/2015,July '15 Baseload,5,3720,32.25
+31/07/2013,Day-ahead Baseload,10,240,38.3
+23/01/2015,Day-ahead Baseload,5,120,36.25
+6/09/2013,Day-ahead Baseload,9,216,52
+25/06/2015,Week 27 '15 Baseload,10,1680,34
+11/08/2016,September '16 Baseload,10,7200,30.8
+21/01/2014,Day-ahead Baseload,5,120,47.5
+23/09/2014,Day-ahead Baseload,10,240,38
+7/08/2013,Day-ahead Baseload,3,72,49.7
+3/02/2015,March '15 Baseload,10,7430,32.75
+13/11/2014,Week 47 '14 Baseload,5,840,38
+21/01/2015,Week 5 '15 Baseload,10,1680,34.5
+11/09/2015,Week 38 '15 Baseload,5,840,33.5
+13/05/2015,June '15 Baseload,5,3600,30.8
+20/04/2015,Q3 '15 Baseload,10,22080,32.8
+4/11/2013,Day-ahead Baseload,5,120,35
+1/04/2014,Day-ahead Baseload,5,120,42
+1/10/2013,Day-ahead Baseload,10,240,48
+13/08/2015,September '15 Baseload,10,7200,34.25
+19/08/2016,Year 2017 Baseload,5,43800,28.2
+5/11/2015,Day-ahead Baseload,10,240,37.8
+29/01/2015,Day-ahead Baseload,25,600,38.5
+27/11/2014,Day-ahead Baseload,20,480,35.5
+11/12/2013,January '14 Baseload,10,7440,40.1
+6/12/2013,Day-ahead Baseload,5,120,47
+5/02/2015,Day-ahead Baseload,10,240,40
+11/10/2013,Week 42 '13 Baseload,10,1680,43.5
+3/09/2015,Day-ahead Baseload,20,480,40.5
+20/07/2015,August '15 Baseload,5,3720,32.6
+22/12/2015,January '16 Baseload,5,3720,33.5
+10/12/2015,Day-ahead Baseload,25,600,32.5
+15/12/2015,Day-ahead Baseload,10,240,38
+17/04/2014,18/04/2014 Baseload,10,240,29.45
+28/05/2014,Day-ahead Baseload,5,120,28.75
+28/08/2014,Q4 '14 Baseload,5,11045,38
+25/02/2016,March '16 Baseload,5,3715,23.25
+5/01/2015,Wednesday Baseload,10,240,41
+2/04/2014,Day-ahead Baseload,5,120,39.25
+30/01/2014,March '14 Baseload,10,7430,34.7
+8/01/2014,February '14 Baseload,10,6720,41.8
+23/01/2015,Day-ahead Baseload,25,600,36.5
+26/02/2014,Weekend Baseload,5,240,28
+20/01/2016,February '16 Baseload,5,3480,33.5
+9/10/2013,Day-ahead Baseload,10,240,55
+16/01/2014,February '14 Baseload,10,6720,40
+23/10/2014,Weekend Baseload,10,490,28
+14/01/2015,Day-ahead Baseload,10,240,26.75
+2/12/2014,Q1 '15 Baseload,10,21590,37.8
+21/11/2014,Weekend Baseload,10,480,29.2
+31/07/2013,Day-ahead Baseload,10,240,38.4
+15/01/2014,Week 4 '14 Baseload,3,504,39.5
+17/09/2013,Year 2014 Baseload,5,43800,38.55
+19/06/2015,Q3 '15 Baseload,10,22080,31.3
+10/11/2015,Weekend Baseload,10,480,20
+17/09/2013,Weekend Baseload,5,240,33.25
+15/10/2013,Friday Baseload,25,600,40.5
+20/05/2015,June '15 Baseload,5,3600,30.5
+16/07/2015,August '15 Baseload,30,22320,32.1
+16/10/2013,Friday Baseload,10,240,40
+19/02/2015,Day-ahead Peaks,20,240,42.6
+18/02/2015,Day-ahead Baseload,5,120,37
+12/11/2013,Day-ahead Baseload,10,240,50
+4/12/2014,Year 2015 Baseload,5,43800,36.2
+20/01/2015,Week 5 '15 Peaks,10,600,48.5
+28/05/2014,Year 2017 Baseload,5,43800,32.05
+1/09/2015,Year 2016 Baseload,10,87840,31.75
+10/09/2014,Week 39 '14 Baseload,10,1680,34.75
+2/04/2015,Weekend Baseload,10,480,28
+9/04/2014,May '14 Baseload,20,14880,31.05
+22/06/2015,Q3 '15 Baseload,5,11040,31.75
+3/02/2014,Day-ahead Baseload,5,120,44
+28/09/2015,Year 2016 Baseload,10,87840,32.45
+4/07/2016,Year 2017 Baseload,5,43800,30.4
+14/05/2014,June '14 Baseload,20,14400,31.4
+5/08/2015,Day-ahead Baseload,25,600,35.5
+8/07/2014,Day-ahead Baseload,5,120,33.9
+8/12/2014,Week 52 '14 Baseload,20,3360,22.5
+7/07/2014,Day-ahead Baseload,10,240,35.25
+23/06/2015,July '15 Baseload,10,7440,32.15
+18/05/2016,June '16 Baseload,10,7200,30
+11/02/2016,Day-ahead Baseload,10,240,30.7
+24/02/2014,Day-ahead Baseload,5,120,33.75
+17/09/2014,Week 40 '14 Baseload,10,1680,33.25
+10/02/2015,Year 2017 Baseload,10,87600,34.2
+12/11/2015,December '15 Baseload,5,3720,33.4
+19/11/2015,Day-ahead Baseload,10,240,40.25
+15/08/2014,Week 35 '14 Peaks,10,600,39.5
+11/09/2014,Week 39 '14 Baseload,10,1680,35.25
+24/06/2015,Day-ahead Baseload,5,120,36.75
+26/08/2015,Weekend Baseload,50,2400,27.5
+9/07/2015,August '15 Baseload,5,3720,30.35
+27/09/2013,November '13 Baseload,15,10800,42.7
+9/02/2015,March '15 Baseload,10,7430,33.25
+22/01/2016,Year 2017 Baseload,30,262800,26.4
+6/11/2015,Week 46 '15 Baseload,50,8400,33.8
+16/04/2014,Day-ahead Baseload,15,360,39
+4/12/2013,Year 2014 Baseload,5,43800,37.05
+7/04/2014,May '14 Baseload,10,7440,31.1
+2/12/2014,Day-ahead Baseload,5,120,55
+22/05/2014,June '14 Baseload,10,7200,32.3
+20/02/2015,Day-ahead Baseload,5,120,30
+10/07/2015,Day-ahead Baseload,40,960,41
+10/07/2015,Week 29 '15 Baseload,15,2520,35
+17/12/2015,Day-ahead Baseload,15,360,37.25
+13/01/2016,Day-ahead Baseload,10,240,34.25
+17/09/2014,Day-ahead Baseload,5,120,37.25
+13/05/2015,June '15 Baseload,10,7200,30.6
+27/03/2015,April '15 Baseload,10,7200,34.25
+19/06/2014,Day-ahead Baseload,25,600,28.25
+16/06/2014,Day-ahead Baseload,25,600,36.3
+6/07/2015,Day-ahead Baseload,10,240,48
+12/09/2013,Week 38 '13 Baseload,25,4200,38
+10/09/2015,Day-ahead Baseload,25,600,32.25
+9/08/2013,Day-ahead Baseload,10,240,38.5
+17/11/2015,Thursday Peaks,15,180,51
+27/11/2014,January '15 Baseload,10,7440,39
+12/02/2016,Weekend Baseload,10,480,20.5
+1/10/2013,Thursday Baseload,10,240,30
+5/03/2015,April '15 Baseload,10,7200,34.1
+9/04/2015,Week 16 '15 Baseload,10,1680,31.25
+17/12/2015,Day-ahead Baseload,10,240,37.25
+14/11/2014,Year 2015 Baseload,10,87600,35.7
+18/09/2013,Weekend Baseload,10,480,34.25
+7/03/2014,Weekend Baseload,5,240,22.8
+9/01/2015,February '15 Baseload,5,3360,37.25
+7/09/2015,Q4 '15 Baseload,25,55225,33.7
+23/03/2015,April '15 Baseload,10,7200,33.45
+3/11/2015,Day-ahead Baseload,10,240,40.75
+2/09/2015,Year 2017 Baseload,5,43800,30.75
+12/10/2015,Day-ahead Baseload,10,240,53.25
+29/03/2016,April '16 Baseload,25,18000,26
+5/08/2016,September '16 Baseload,5,3600,31.55
+11/02/2016,Q2 '16 Baseload,5,10920,26.6
+27/08/2014,Week 36 '14 Baseload,10,1680,33.85
+25/03/2014,Day-ahead Baseload,5,120,35.75
+29/04/2016,May '16 Baseload,40,29760,27.75
+8/04/2015,Q3 '15 Baseload,10,22080,33.85
+16/09/2013,Day-ahead Baseload,10,240,42
+14/10/2015,Day-ahead Baseload,10,240,48.75
+5/03/2015,April '15 Baseload,20,14400,34
+28/11/2014,Weekend Baseload,3,144,31
+11/09/2015,Weekend Baseload,10,480,28.25
+23/11/2015,Year 2016 Baseload,20,175680,32.6
+16/09/2015,Day-ahead Baseload,5,120,42.75
+29/10/2015,December '15 Baseload,10,7440,34
+9/10/2013,November '13 Baseload,10,7200,44
+4/03/2014,Day-ahead Baseload,5,120,45.3
+16/02/2015,Day-ahead Baseload,13,312,44
+10/02/2016,Year 2017 Baseload,5,43800,25
+11/08/2014,Week 34 '14 Baseload,10,1680,29.35
+5/01/2015,February '15 Baseload,10,6720,37.4
+11/05/2015,Year 2016 Baseload,5,43920,32.9
+16/02/2016,March '16 Baseload,5,3715,24.35
+12/04/2016,May '16 Baseload,5,3720,25.5
+6/10/2015,Day-ahead Baseload,25,600,44
+10/12/2015,Day-ahead Baseload,15,360,32.5
+22/06/2016,Year 2017 Baseload,10,87600,30.1
+1/04/2015,Day-ahead Baseload,10,240,32
+18/12/2014,Day-ahead Peaks,20,240,48.5
+30/10/2015,Sunday Baseload,25,600,32.35
+23/12/2014,25/12/2014 Baseload,20,480,14.5
+9/02/2015,March '15 Baseload,5,3715,33
+7/07/2015,Day-ahead Baseload,10,240,48
+9/09/2015,Day-ahead Baseload,25,600,34
+7/06/2016,Year 2019 Baseload,5,43800,29.1
+24/04/2014,Day-ahead Baseload,5,120,35.5
+13/02/2015,Weekend Baseload,20,960,28
+23/09/2016,October '16 Baseload,5,3725,33
+12/06/2015,Weekend Baseload,10,480,21.25
+1/08/2013,Week 32 '13 Baseload,5,840,35.4
+17/07/2015,Weekend Baseload,10,480,36
+5/08/2015,Day-ahead Baseload,30,720,35.5
+3/06/2014,Day-ahead Baseload,5,120,37.9
+12/09/2014,Week 39 '14 Baseload,10,1680,35.75
+20/05/2014,Day-ahead Baseload,5,120,38.5
+20/10/2015,December '15 Baseload,5,3720,32.25
+15/09/2015,Year 2017 Baseload,10,87600,30.6
+4/12/2014,Week 50 '14 Baseload,5,840,38.25
+1/10/2015,November '15 Baseload,10,7200,36
+20/01/2014,Day-ahead Peaks,20,240,64.5
+9/04/2014,May '14 Baseload,1,744,31.25
+22/08/2014,Week 35 '14 Baseload,25,4200,31.5
+21/08/2015,Saturday Baseload,20,480,27.25
+14/10/2015,Day-ahead Baseload,10,240,48.25
+4/08/2014,September '14 Baseload,20,14400,35.25
+22/12/2014,Wednesday Baseload,10,240,8
+8/04/2015,Year 2016 Baseload,25,219600,34.05
+2/08/2013,Weekend Baseload,20,960,28
+14/11/2013,December '13 Baseload,10,7440,38.05
+9/10/2015,Year 2018 Baseload,5,43800,30.3
+25/08/2015,Day-ahead Baseload,10,240,32.25
+27/01/2015,Day-ahead Baseload,20,480,35.25
+2/09/2015,Day-ahead Baseload,10,240,48
+20/04/2016,Q3 '16 Baseload,10,22080,27.7
+18/05/2015,June '15 Baseload,50,36000,30.8
+3/06/2015,Day-ahead Peaks,60,720,30
+30/05/2014,Week 23 '14 Baseload,10,1680,33.75
+6/11/2013,December '13 Baseload,5,3720,38
+1/10/2013,Year 2015 Baseload,5,43800,37.7
+13/09/2016,Week 38 '16 Baseload,10,1680,32.25
+27/09/2013,Q4 '13 Baseload,5,11045,41
+17/05/2016,Year 2017 Baseload,5,43800,27.75
+25/02/2015,Weekend Baseload,75,3600,25.5
+24/03/2015,April '15 Baseload,5,3600,33.45
+6/06/2016,Year 2019 Baseload,5,43800,29.3
+2/06/2015,Year 2016 Baseload,10,87840,32.85
+16/02/2015,Day-ahead Baseload,10,240,44.75
+4/12/2015,Weekend Baseload,10,480,28
+6/01/2016,Q2 '16 Baseload,10,21840,30
+2/04/2015,Weekend Baseload,10,480,27.5
+10/10/2013,Week 42 '13 Baseload,10,1680,45
+20/11/2015,Week 48 '15 Baseload,5,840,38.5
+2/01/2014,Day-ahead Baseload,5,120,27.7
+24/10/2013,Week 44 '13 Baseload,25,4200,30.5
+10/02/2016,Q2 '16 Baseload,10,21840,26.85
+1/09/2015,Year 2016 Baseload,10,87840,31.7
+6/01/2015,Week 4 '15 Baseload,20,3360,35.5
+13/08/2013,Day-ahead Baseload,5,120,39
+10/04/2015,Week 16 '15 Baseload,50,8400,31
+30/01/2014,February '14 Baseload,5,3360,37.4
+19/01/2015,February '15 Baseload,5,3360,34.5
+18/09/2015,October '15 Baseload,10,7450,36
+22/04/2016,Q3 '16 Baseload,50,110400,28.5
+10/02/2014,March '14 Baseload,20,14860,33.85
+8/08/2013,Day-ahead Baseload,5,120,52
+5/08/2015,Day-ahead Baseload,10,240,35.5
+2/01/2015,Day-ahead Baseload,10,240,40.25
+20/08/2015,Day-ahead Baseload,10,240,33.65
+18/12/2013,Week 52 '13 Baseload,20,3360,14.5
+6/11/2015,Week 46 '15 Baseload,5,840,33.25
+25/04/2014,Saturday Baseload,10,240,29.2
+11/02/2014,March '14 Baseload,10,7430,34.35
+23/04/2014,Week 18 '14 Baseload,25,4200,32
+9/07/2015,August '15 Baseload,10,7440,30.35
+3/02/2015,March '15 Baseload,10,7430,33.05
+6/06/2016,Q3 '16 Baseload,5,11040,31
+4/12/2014,Day-ahead Baseload,5,120,53.6
+16/06/2015,Day-ahead Baseload,40,960,33.15
+5/01/2016,Year 2017 Baseload,5,43800,28.6
+13/03/2014,Day-ahead Peaks,5,60,36.5
+19/08/2015,Day-ahead Baseload,5,120,39.5
+8/07/2015,Day-ahead Baseload,20,480,41.75
+19/08/2016,Year 2017 Baseload,10,87600,28.25
+23/10/2013,Day-ahead Baseload,10,240,41.25
+12/08/2015,Year 2016 Baseload,5,43920,32.3
+8/09/2015,Day-ahead Baseload,25,600,37
+23/10/2015,Weekend Baseload,10,490,29.35
+13/12/2013,Year 2014 Baseload,5,43800,37.15
+27/11/2014,Day-ahead Baseload,10,240,35
+12/12/2013,Day-ahead Peaks,5,60,75.15
+12/06/2014,July '14 Baseload,12,8928,34.6
+29/09/2014,November '14 Baseload,25,18000,37.45
+7/02/2014,Day-ahead Baseload,5,120,37.7
+23/10/2014,Weekend Baseload,10,490,28.25
+13/01/2016,Day-ahead Baseload,20,480,35
+25/09/2015,Year 2016 Baseload,5,43920,32.55
+4/02/2015,Weekend Baseload,20,960,25.75
+28/07/2016,Year 2017 Baseload,10,87600,30.1
+13/01/2015,Week 4 '15 Baseload,5,840,41
+11/03/2014,Year 2016 Peaks,10,31320,45.8
+5/08/2014,Year 2016 Baseload,10,87840,34.15
+17/01/2014,Saturday Baseload,10,240,31.1
+19/12/2014,Week 52 '14 Baseload,10,1680,22.25
+7/08/2013,Day-ahead Baseload,5,120,50.25
+9/10/2013,Day-ahead Baseload,10,240,56
+15/10/2015,Day-ahead Baseload,10,240,48.5
+14/07/2015,Q4 '15 Baseload,50,110450,35.45
+24/08/2015,September '15 Baseload,5,3600,33.5
+23/04/2014,Day-ahead Baseload,5,120,39
+14/05/2014,Day-ahead Baseload,5,120,38.2
+17/05/2016,Year 2017 Baseload,5,43800,28
+18/09/2013,November '13 Baseload,10,7200,43.3
+13/10/2014,Year 2015 Baseload,10,87600,34.7
+7/11/2013,Day-ahead Peaks,5,60,55.5
+22/12/2015,Q3 '16 Baseload,10,22080,32.5
+15/01/2016,Day-ahead Baseload,20,480,41.5
+27/11/2014,December '14 Baseload,5,3720,37.5
+12/09/2014,Week 40 '14 Baseload,10,1680,33
+7/10/2015,Day-ahead Baseload,20,480,48.5
+10/08/2016,Day-ahead Baseload,10,240,29.6
+23/12/2014,Day-ahead Baseload,5,120,10.5
+21/10/2014,Day-ahead Baseload,10,240,35
+19/12/2014,Year 2015 Baseload,5,43800,36.1
+15/08/2014,Week 34 '14 Peaks,5,300,37.25
+17/12/2015,Week 52 '15 Baseload,20,3360,24.75
+13/10/2014,Year 2016 Baseload,10,87840,33.3
+15/08/2014,Week 35 '14 Baseload,10,1680,33.25
+9/10/2014,Day-ahead Baseload,5,120,39.85
+29/10/2015,December '15 Baseload,10,7440,33.4
+16/02/2016,March '16 Baseload,10,7430,24.5
+5/02/2014,Day-ahead Baseload,10,240,33.4
+13/01/2015,Week 4 '15 Baseload,40,6720,40.5
+16/06/2014,Day-ahead Baseload,5,120,36.35
+10/02/2015,Year 2016 Baseload,5,43920,35
+7/06/2016,Year 2018 Baseload,5,43800,28.95
+11/02/2016,Week 7 '16 Baseload,5,840,27
+15/10/2013,Weekend Baseload,5,240,27.75
+9/01/2014,Day-ahead Baseload,10,240,28.5
+9/11/2015,Day-ahead Baseload,5,120,35.7
+20/01/2016,Year 2017 Baseload,5,43800,26.55
+8/10/2013,November '13 Baseload,5,3600,44
+5/03/2014,Day-ahead Extended-Peaks,5,80,45.5
+24/03/2014,Day-ahead Baseload,10,240,37.25
+15/07/2014,August '14 Baseload,5,3720,33.3
+29/01/2014,Week 6 '14 Baseload,3,504,36.5
+20/08/2013,Day-ahead Baseload,5,120,43.25
+8/10/2013,Day-ahead Baseload,25,600,50
+10/09/2014,Week 39 '14 Baseload,5,840,35
+16/12/2015,Year 2016 Baseload,5,43920,31.65
+1/02/2016,March '16 Baseload,10,7430,28.1
+10/11/2015,Day-ahead Baseload,25,600,40
+1/12/2015,Weekend Baseload,30,1440,25
+10/11/2014,Day-ahead Baseload,10,240,37.5
+8/09/2014,October '14 Baseload,5,3725,35.45
+9/09/2014,October '14 Baseload,5,3725,35.2
+29/04/2015,Q3 '15 Baseload,15,33120,32.35
+15/10/2013,Day-ahead Baseload,5,120,51
+20/09/2013,Week 39 '13 Baseload,5,840,44.5
+7/12/2015,Year 2016 Baseload,5,43920,32
+25/09/2015,Day-ahead Baseload,10,240,38.5
+16/12/2014,Weekend Baseload,45,2160,22
+12/10/2015,Day-ahead Baseload,25,600,52.5
+24/11/2014,Year 2016 Baseload,10,87840,35.9
+2/10/2013,Week 41 '13 Baseload,10,1680,47.5
+24/09/2014,Year 2015 Baseload,5,43800,35.1
+27/07/2015,Day-ahead Baseload,5,120,28.25
+1/08/2013,Day-ahead Baseload,10,240,38
+4/10/2013,Weekend Baseload,10,480,37
+14/10/2013,Day-ahead Baseload,10,240,48.5
+16/10/2014,December '14 Baseload,10,7440,34.5
+5/02/2015,Day-ahead Baseload,10,240,39.5
+16/12/2013,Year 2014 Baseload,5,43800,37.2
+13/03/2014,Weekend Baseload,10,480,15.5
+13/08/2013,September '13 Baseload,10,7200,36.2
+1/10/2013,Day-ahead Baseload,10,240,51
+1/12/2014,Day-ahead Baseload,10,240,51.75
+10/06/2015,Q3 '15 Baseload,20,44160,30.55
+4/09/2015,Q4 '15 Baseload,5,11045,33.9
+23/09/2015,Day-ahead Baseload,10,240,37.5
+12/11/2015,December '15 Baseload,50,37200,33.75
+14/01/2016,February '16 Baseload,10,6960,33.9
+14/06/2016,Year 2019 Baseload,5,43800,28
+14/04/2015,Day-ahead Baseload,10,240,27.75
+16/06/2014,July '14 Baseload,10,7440,35.1
+8/04/2015,May '15 Baseload,10,7440,31.75
+1/10/2013,Day-ahead Baseload,10,240,52.75
+3/01/2014,Tuesday Baseload,5,120,38.5
+7/04/2014,Day-ahead Baseload,5,120,31.5
+24/11/2014,Year 2017 Baseload,10,87600,34.7
+9/09/2015,Day-ahead Baseload,5,120,33.25
+24/03/2014,Year 2015 Baseload,5,43800,35
+19/12/2014,Weekend Baseload,10,480,17.5
+15/10/2015,Day-ahead Baseload,10,240,49.15
+23/04/2014,Week 18 '14 Baseload,15,2520,31.5
+6/04/2016,June '16 Baseload,5,3600,26.5
+14/07/2015,Day-ahead Baseload,10,240,51
+8/09/2016,Q4 '16 Baseload,25,55225,30.65
+9/06/2015,July '15 Baseload,10,7440,29.75
+13/11/2014,Day-ahead Baseload,10,240,36.75
+6/10/2015,Day-ahead Baseload,40,960,45
+13/08/2013,Day-ahead Baseload,10,240,38
+7/04/2015,Day-ahead Baseload,5,120,39.5
+10/11/2014,Day-ahead Baseload,10,240,37
+19/12/2014,January '15 Baseload,20,14880,38.1
+25/03/2014,Year 2015 Baseload,25,219000,34.75
+10/04/2015,Week 16 '15 Baseload,25,4200,31
+20/08/2015,September '15 Baseload,10,7200,33.85
+8/09/2014,Day-ahead Baseload,10,240,36.75
+2/10/2014,Weekend Baseload,25,1200,30
+19/11/2015,Week 48 '15 Baseload,10,1680,39
+9/01/2014,Day-ahead Peaks,5,60,38.95
+21/04/2016,June '16 Baseload,10,7200,28.5
+28/11/2014,Weekend Baseload,10,480,32
+31/12/2013,01/01/2014 Baseload,20,480,19
+11/11/2013,December '13 Baseload,10,7440,38.75
+12/08/2013,Day-ahead Baseload,10,240,51.7
+13/10/2014,Day-ahead Baseload,10,240,42.25
+17/03/2015,Week 13 '15 Baseload,15,2505,33.75
+24/09/2013,Day-ahead Baseload,2,48,53
+3/02/2015,March '15 Baseload,10,7430,32.8
+17/09/2013,October '13 Baseload,5,3725,40.55
+8/01/2015,Q4 '15 Baseload,25,55225,36.5
+29/10/2013,Day-ahead Baseload,10,240,41
+23/09/2013,Year 2014 Baseload,5,43800,38.1
+12/04/2016,May '16 Baseload,25,18600,25.6
+5/12/2013,Day-ahead Baseload,10,240,25.8
+1/10/2015,Day-ahead Baseload,5,120,43
+15/01/2016,Q2 '16 Baseload,5,10920,29
+20/10/2015,Day-ahead Baseload,5,120,43.2
+12/10/2015,Day-ahead Peaks,5,60,66
+27/04/2016,May '16 Baseload,25,18600,27.75
+9/07/2015,Day-ahead Baseload,10,240,37.5
+24/01/2014,Weekend Baseload,5,240,30.9
+13/01/2015,February '15 Baseload,10,6720,37.75
+7/11/2014,Saturday Baseload,10,240,28.5
+12/08/2014,Week 34 '14 Baseload,5,840,29
+19/12/2013,Week 52 '13 Baseload,5,840,16.25
+20/05/2015,Q3 '15 Baseload,5,11040,31
+11/09/2015,Day-ahead Baseload,50,1200,35.5
+14/01/2016,Year 2017 Baseload,25,219000,27.85
+7/01/2015,Week 4 '15 Baseload,20,3360,36
+22/07/2016,August '16 Baseload,5,3720,31.4
+12/09/2016,Day-ahead Baseload,10,240,34.85
+25/04/2014,Day-ahead Baseload,10,240,42
+8/08/2014,Weekend Baseload,10,480,19.5
+19/12/2014,January '15 Baseload,5,3720,38.1
+11/09/2015,Sunday Baseload,5,120,28.8
+28/09/2015,Day-ahead Baseload,10,240,36.6
+15/04/2015,Day-ahead Baseload,5,120,34.7
+11/11/2013,December '13 Baseload,10,7440,38.8
+30/01/2015,March '15 Baseload,10,7430,33.1
+23/03/2015,April '15 Baseload,10,7200,33.25
+29/10/2015,November '15 Baseload,5,3600,38.75
+10/04/2015,Day-ahead Baseload,5,120,31.5
+7/01/2016,Q2 '16 Baseload,10,21840,30.1
+16/07/2015,Day-ahead Baseload,20,480,46
+27/10/2015,Week 46 '15 Baseload,25,4200,38
+7/02/2014,Sunday Baseload,5,120,11.5
+28/07/2015,August '15 Baseload,10,7440,31.8
+18/08/2015,Day-ahead Baseload,45,1080,40.75
+27/01/2015,February '15 Baseload,10,6720,35.5
+11/12/2014,Day-ahead Baseload,5,120,36.5
+17/09/2015,Week 39 '15 Baseload,10,1680,39
+15/10/2013,Week 43 '13 Baseload,5,845,38.25
+10/11/2014,Day-ahead Baseload,5,120,37.5
+5/04/2016,May '16 Baseload,5,3720,24.6
+26/09/2014,October '14 Baseload,50,37250,36.4
+24/11/2015,Day-ahead Baseload,10,240,45.5
+28/10/2014,Day-ahead Baseload,5,120,41.6
+30/09/2014,October '14 Baseload,3,2235,35.9
+15/10/2015,Day-ahead Peaks,50,600,59.5
+18/11/2014,Year 2015 Baseload,5,43800,36.2
+12/08/2013,Day-ahead Baseload,5,120,52.25
+5/12/2013,Day-ahead Baseload,10,240,25.5
+16/12/2014,Day-ahead Peaks,10,120,50
+18/11/2015,Day-ahead Baseload,10,240,36
+27/09/2013,Day-ahead Baseload,10,240,40.5
+11/08/2014,Week 34 '14 Baseload,10,1680,29.5
+23/09/2014,Day-ahead Baseload,10,240,39.5
+15/04/2014,Day-ahead Baseload,15,360,38.75
+15/08/2014,Weekend Baseload,10,480,13.6
+30/10/2014,November '14 Baseload,20,14400,35.9
+2/10/2015,Weekend Baseload,15,720,31.5
+10/02/2015,Year 2016 Baseload,10,87840,34.85
+26/03/2015,April '15 Baseload,10,7200,33.9
+16/12/2014,Weekend Baseload,25,1200,22
+16/08/2016,September '16 Baseload,40,28800,30.6
+21/01/2016,Week 4 '16 Baseload,10,1680,34
+28/10/2013,November '13 Baseload,10,7200,40.5
+14/01/2016,Year 2018 Baseload,10,87600,26.5
+18/10/2013,Weekend Baseload,15,720,27.5
+22/11/2013,Year 2014 Baseload,20,175200,36.95
+19/12/2013,Weekend Baseload,10,480,20.5
+28/03/2014,Day-ahead Baseload,10,240,34.25
+10/02/2015,Year 2016 Baseload,10,87840,34.9
+10/10/2014,November '14 Baseload,5,3600,36.2
+11/12/2015,Year 2016 Baseload,5,43920,31.7
+27/05/2016,Week 22 '16 Baseload,5,840,28.75
+14/06/2016,July '16 Baseload,5,3720,30.5
+5/09/2013,Day-ahead Baseload,5,120,41.65
+25/07/2016,August '16 Baseload,10,7440,31.25
+9/08/2013,Saturday Baseload,10,240,32
+30/06/2014,August '14 Baseload,10,7440,34.3
+18/12/2014,January '15 Baseload,10,7440,38.25
+6/10/2015,Day-ahead Baseload,10,240,44.9
+22/06/2016,July '16 Baseload,25,18600,31
+30/10/2013,Day-ahead Baseload,5,120,36
+8/02/2016,Year 2017 Baseload,5,43800,25.6
+12/11/2015,Year 2016 Baseload,5,43920,32.4
+16/04/2014,Day-ahead Peaks,5,60,38.45
+23/10/2015,Weekend Baseload,10,490,29.4
+23/03/2016,May '16 Baseload,5,3720,24.8
+12/11/2013,Day-ahead Baseload,5,120,50.25
+14/01/2016,March '16 Baseload,10,7430,30
+19/05/2014,June '14 Baseload,5,3600,31.45
+1/07/2014,Day-ahead Baseload,5,120,36.1
+18/11/2015,Day-ahead Baseload,100,2400,36.75
+19/11/2015,Day-ahead Baseload,10,240,40.75
+18/12/2014,Week 52 '14 Baseload,5,840,24.5
+20/11/2013,Year 2015 Baseload,5,43800,36.2
+24/04/2015,Week 18 '15 Baseload,25,4200,27
+2/12/2015,Week 50 '15 Baseload,5,840,33.5
+16/10/2013,Day-ahead Baseload,5,120,36.5
+30/12/2014,Week 3 '15 Baseload,10,1680,34.5
+23/10/2014,November '14 Baseload,10,7200,35
+29/11/2013,Day-ahead Baseload,10,240,52.5
+25/03/2015,Week 14 '15 Baseload,10,1680,27
+18/10/2013,November '13 Baseload,15,10800,41.85
+28/07/2015,Day-ahead Baseload,10,240,29
+25/10/2013,November '13 Baseload,10,7200,41.75
+28/09/2015,Day-ahead Baseload,25,600,36.5
+28/01/2015,Day-ahead Baseload,20,480,33.25
+12/08/2014,Week 34 '14 Baseload,5,840,29.6
+4/11/2013,December '13 Baseload,10,7440,37.65
+18/06/2015,Day-ahead Baseload,10,240,31.85
+3/02/2015,March '15 Baseload,5,3715,33
+15/06/2016,Q3 '16 Baseload,5,11040,31.5
+7/06/2016,Year 2019 Baseload,5,43800,29.05
+28/09/2015,Day-ahead Baseload,10,240,37
+10/09/2014,Week 39 '14 Baseload,10,1680,34.65
+27/08/2015,September '15 Baseload,10,7200,33.4
+10/02/2015,March '15 Baseload,5,3715,33.6
+11/10/2013,November '13 Baseload,10,7200,42.9
+27/12/2013,Day-ahead Baseload,10,240,27.75
+8/07/2015,Day-ahead Baseload,30,720,38
+2/01/2015,Day-ahead Baseload,5,120,41
+19/08/2013,Day-ahead Baseload,5,120,47.25
+11/09/2015,Week 38 '15 Baseload,10,1680,33
+15/10/2015,Day-ahead Baseload,15,360,49.15
+20/10/2015,Week 44 '15 Baseload,25,4200,35.5
+30/06/2015,Day-ahead Baseload,5,120,34.5
+14/10/2015,Day-ahead Baseload,10,240,49.4
+23/12/2015,Week 53 '15 Baseload,10,1680,27.5
+16/06/2015,Week 28 '15 Baseload,25,4200,31.35
+23/09/2014,Day-ahead Baseload,5,120,39.25
+25/06/2015,July '15 Baseload,15,11160,32.75
+11/10/2013,Day-ahead Offpeaks,25,300,39.25
+24/10/2013,Weekend Baseload,5,245,18
+9/09/2014,October '14 Baseload,10,7450,35.2
+28/10/2013,December '13 Baseload,10,7440,38.1
+26/01/2015,February '15 Baseload,25,16800,35.4
+16/04/2014,Day-ahead Peaks,5,60,38.5
+31/07/2013,Day-ahead Baseload,5,120,37.9
+19/09/2013,Year 2015 Baseload,5,43800,37.9
+25/02/2015,March '15 Baseload,5,3715,34.05
+31/10/2013,Week 45 '13 Baseload,10,1680,37
+28/02/2014,Weekend Baseload,10,480,29.75
+18/06/2014,Weekend Baseload,30,1440,22.75
+31/01/2014,Saturday Baseload,10,240,28
+30/07/2014,August '14 Baseload,15,11160,33.1
+18/12/2015,Weekend Baseload,55,2640,29.5
+8/08/2014,Year 2015 Baseload,10,87600,36.25
+25/02/2015,Weekend Baseload,10,480,25.5
+8/01/2015,Day-ahead Baseload,25,600,33
+20/06/2014,Weekend Baseload,3,144,21
+12/05/2015,Year 2016 Baseload,10,87840,32.8
+8/12/2015,Year 2016 Baseload,25,219600,31.7
+25/03/2014,Year 2015 Baseload,5,43800,34.75
+30/10/2015,November '15 Baseload,10,7200,37.75
+5/09/2016,October '16 Baseload,10,7450,31.5
+23/12/2013,25/12/2013 Baseload,15,360,10
+26/09/2014,November '14 Baseload,1,720,37.8
+23/01/2015,Week 5 '15 Baseload,3,504,32.25
+26/09/2014,Week 40 '14 Baseload,5,840,37.5
+12/10/2015,Day-ahead Baseload,10,240,52
+25/07/2014,Week 31 '14 Baseload,10,1680,32.4
+11/01/2016,Year 2018 Baseload,10,87600,27
+16/02/2015,Year 2017 Baseload,5,43800,35.05
+1/12/2015,Year 2016 Baseload,5,43920,32.55
+14/04/2015,May '15 Baseload,10,7440,31.4
+11/02/2014,March '14 Baseload,10,7430,34.4
+23/09/2015,Year 2017 Baseload,25,219000,31
+27/09/2013,November '13 Baseload,10,7200,42.75
+18/06/2014,Week 26 '14 Baseload,10,1680,34
+2/12/2015,January '16 Baseload,10,7440,33.25
+3/11/2015,Weekend Baseload,25,1200,24
+19/12/2014,January '15 Baseload,10,7440,38.1
+23/09/2015,Year 2017 Baseload,80,700800,31
+23/10/2014,Year 2017 Baseload,10,87600,32.5
+24/08/2015,Year 2017 Baseload,5,43800,30.25
+24/09/2014,October '14 Baseload,5,3725,35.85
+21/10/2014,Day-ahead Baseload,25,600,36
+26/09/2013,October '13 Baseload,10,7450,41.15
+27/11/2013,December '13 Baseload,5,3720,36.6
+19/02/2015,Day-ahead Baseload,10,240,37.1
+30/09/2013,Weekend Baseload,20,960,33
+16/12/2013,Year 2014 Peaks,10,31320,48.8
+9/11/2015,Week 47 '15 Baseload,5,840,38
+22/05/2015,June '15 Baseload,5,3600,30
+28/07/2014,September '14 Baseload,10,7200,36.5
+20/10/2014,December '14 Baseload,10,7440,34.25
+29/10/2014,November '14 Baseload,5,3600,35.3
+16/09/2015,Q1 '16 Baseload,25,54575,33.55
+18/01/2016,Q2 '16 Baseload,10,21840,29
+12/07/2016,August '16 Baseload,5,3720,32.5
+2/01/2014,Day-ahead Baseload,10,240,27
+24/11/2015,December '15 Baseload,25,18600,32.9
+16/12/2013,Year 2014 Baseload,5,43800,37.1
+30/09/2014,November '14 Baseload,10,7200,37
+26/11/2015,Year 2016 Baseload,10,87840,33
+11/05/2015,Q3 '15 Baseload,5,11040,31.4
+22/12/2015,Q4 '16 Baseload,10,22090,32.25
+1/10/2015,Year 2017 Baseload,10,87600,31.35
+28/05/2014,Day-ahead Baseload,9,216,28.7
+15/05/2014,Weekend Baseload,20,960,27.25
+15/10/2015,Day-ahead Baseload,30,720,49
+6/08/2014,Day-ahead Peaks,5,60,35.7
+15/09/2014,Q4 '14 Baseload,10,22090,36.6
+5/09/2013,November '13 Baseload,50,36000,41.95
+26/06/2014,Q3 '14 Baseload,5,11040,35.25
+11/12/2013,January '14 Baseload,10,7440,40.15
+19/01/2015,February '15 Baseload,15,10080,34.6
+16/06/2015,Day-ahead Baseload,10,240,33.2
+30/09/2014,Year 2015 Baseload,10,87600,35
+11/03/2016,April '16 Baseload,10,7200,24.65
+12/06/2014,July '14 Baseload,10,7440,34.6
+2/08/2013,Day-ahead Peaks,10,120,46
+29/07/2015,August '15 Baseload,10,7440,31.7
+25/11/2015,December '15 Baseload,10,7440,33
+1/10/2013,Day-ahead Baseload,10,240,52
+17/10/2014,Saturday Baseload,10,240,30
+2/01/2014,Day-ahead Baseload,5,120,28.3
+19/05/2014,Day-ahead Baseload,5,120,39
+23/06/2014,August '14 Baseload,10,7440,34.1
+23/07/2015,Day-ahead Baseload,10,240,48.75
+3/09/2015,Weekend Baseload,10,480,21
+17/12/2013,Year 2014 Baseload,5,43800,37.35
+7/11/2014,Saturday Baseload,50,1200,29.75
+12/09/2014,Week 39 '14 Baseload,5,840,35.6
+21/11/2013,January '14 Baseload,10,7440,41
+8/01/2015,Week 3 '15 Baseload,10,1680,31.75
+5/03/2014,Day-ahead Baseload,5,120,40.9
+10/06/2015,August '15 Baseload,25,18600,27.6
+17/02/2016,Day-ahead Baseload,10,240,27.8
+16/04/2014,Day-ahead Baseload,10,240,37.9
+17/09/2013,Day-ahead Baseload,5,120,48.25
+16/09/2014,October '14 Baseload,5,3725,35.15
+26/09/2013,Day-ahead Peaks,10,120,59.2
+5/12/2013,Day-ahead Peaks,5,60,35.8
+4/07/2014,Week 28 '14 Baseload,10,1680,32.85
+7/01/2015,Weekend Baseload,10,480,16
+17/02/2015,Q2 '15 Baseload,10,21840,34
+29/06/2015,Week 28 '15 Baseload,10,1680,36.4
+7/09/2015,Day-ahead Baseload,10,240,41.25
+13/10/2014,Year 2016 Baseload,5,43920,33.3
+13/11/2014,December '14 Baseload,5,3720,34
+11/12/2013,Day-ahead Baseload,5,120,59.45
+24/10/2014,Weekend Baseload,10,490,28.75
+26/10/2015,November '15 Baseload,10,7200,37
+21/03/2016,April '16 Baseload,5,3600,26
+25/10/2013,November '13 Baseload,15,10800,41.5
+4/12/2015,Weekend Baseload,1,48,27.5
+4/06/2014,Day-ahead Baseload,10,240,34.1
+20/08/2014,Week 35 '14 Peaks,10,600,38.5
+20/04/2016,Year 2018 Baseload,10,87600,24.8
+30/06/2015,Day-ahead Baseload,10,240,34.5
+19/07/2016,August '16 Baseload,5,3720,32.1
+9/01/2015,Day-ahead Baseload,10,240,32
+30/10/2013,Day-ahead Baseload,5,120,35.75
+6/08/2013,Day-ahead Peaks,10,120,51
+18/12/2013,Day-ahead Baseload,10,240,39.5
+4/09/2015,Weekend Baseload,10,480,23.5
+8/10/2013,Day-ahead Baseload,10,240,50.1
+27/11/2014,Day-ahead Peaks,10,120,42.5
+25/04/2014,Day-ahead Baseload,15,360,40.5
+22/03/2016,April '16 Baseload,10,7200,26.25
+27/09/2013,November '13 Baseload,10,7200,42.65
+27/02/2015,March '15 Baseload,15,11145,34.2
+27/01/2016,Day-ahead Baseload,10,240,35
+16/10/2014,December '14 Baseload,10,7440,34.35
+18/12/2014,Week 52 '14 Baseload,25,4200,24.5
+28/05/2014,Q3 '14 Baseload,25,55200,35.9
+8/11/2013,Weekend Baseload,10,480,26.25
+29/10/2014,November '14 Baseload,10,7200,35.35
+2/02/2016,Day-ahead Baseload,10,240,28.75
+24/09/2014,Year 2015 Baseload,5,43800,35
+3/01/2014,Week 2 '14 Baseload,10,1680,34.75
+10/12/2014,Day-ahead Baseload,5,120,37.3
+13/01/2014,Day-ahead Baseload,10,240,51
+13/01/2016,Day-ahead Baseload,10,240,33
+7/07/2015,Week 29 '15 Baseload,5,840,35
+22/10/2015,Year 2016 Baseload,5,43920,31.95
+25/11/2015,Weekend Baseload,25,1200,23.5
+18/06/2014,Week 26 '14 Baseload,15,2520,34.5
+22/01/2014,Day-ahead Peaks,5,60,56.2
+15/10/2015,Day-ahead Baseload,10,240,49.1
+1/12/2015,Q1 '16 Baseload,25,54575,33.5
+15/01/2015,Day-ahead Baseload,5,120,35.75
+10/03/2015,Q2 '15 Baseload,10,21840,33.3
+1/09/2015,Year 2016 Baseload,5,43920,31.75
+20/10/2015,November '15 Baseload,5,3600,36.25
+27/01/2014,Week 6 '14 Baseload,25,4200,40.5
+12/02/2015,Day-ahead Baseload,5,120,40.1
+13/09/2016,October '16 Baseload,10,7450,31.5
+10/12/2013,Day-ahead Baseload,5,120,59.5
+20/01/2014,Day-ahead Baseload,5,120,52.25
+26/02/2015,Weekend Baseload,25,1200,22
+21/10/2013,Weekend Baseload,5,245,24
+31/01/2014,Day-ahead Baseload,10,240,43.5
+22/12/2015,Q2 '16 Baseload,10,21840,30.1
+26/01/2016,Day-ahead Baseload,10,240,33
+27/05/2014,June '14 Baseload,10,7200,32.6
+20/03/2014,Weekend Baseload,10,480,24.4
+3/10/2013,Day-ahead Baseload,5,120,38
+6/10/2015,November '15 Baseload,10,7200,36.35
+24/11/2015,Year 2016 Baseload,5,43920,33
+19/09/2014,October '14 Baseload,5,3725,35.4
+2/10/2014,November '14 Baseload,10,7200,37.2
+3/03/2016,Day-ahead Baseload,5,120,24
+12/03/2014,Day-ahead Peaks,5,60,38.75
+6/10/2015,Day-ahead Baseload,5,120,44
+11/09/2014,Week 39 '14 Baseload,10,1680,35.2
+13/11/2013,Day-ahead Baseload,10,240,48.5
+22/09/2014,Q4 '14 Baseload,10,22090,36.5
+10/11/2015,December '15 Baseload,10,7440,33.25
+15/01/2016,Q2 '16 Baseload,25,54600,29.15
+14/04/2015,Week 17 '15 Baseload,50,8400,29.5
+27/11/2013,December '13 Baseload,10,7440,36.6
+19/02/2016,March '16 Baseload,10,7430,23.75
+19/12/2013,January '14 Baseload,5,3720,40.5
+8/04/2015,Day-ahead Baseload,10,240,40.5
+14/09/2016,October '16 Baseload,5,3725,32
+26/02/2014,Day-ahead Baseload,5,120,38.2
+25/09/2014,October '14 Baseload,10,7450,36.25
+26/02/2014,Day-ahead Baseload,5,120,37.6
+17/12/2015,Week 52 '15 Baseload,25,4200,24.75
+13/10/2014,November '14 Baseload,5,3600,35.8
+3/07/2014,Day-ahead Baseload,5,120,33.9
+2/07/2015,Week 28 '15 Baseload,10,1680,38.5
+28/04/2015,Friday Baseload,10,240,21
+13/01/2015,Day-ahead Baseload,10,240,32.5
+5/06/2014,Day-ahead Baseload,5,120,32.65
+3/01/2014,Day-ahead Baseload,10,240,28.5
+17/07/2015,August '15 Baseload,10,7440,32.15
+10/11/2015,Day-ahead Baseload,10,240,40
+12/03/2014,Q2 '14 Baseload,5,10920,30.75
+5/01/2016,Day-ahead Baseload,10,240,35.5
+20/04/2015,Week 18 '15 Baseload,10,1680,26.7
+17/09/2014,October '14 Baseload,10,7450,35.15
+26/03/2015,April '15 Baseload,25,18000,33.9
+7/09/2015,Year 2017 Baseload,10,87600,30.6
+15/07/2014,Day-ahead Baseload,3,72,36.5
+13/12/2013,January '14 Baseload,20,14880,39.4
+27/04/2015,Weekend Baseload,10,480,22.5
+24/10/2013,November '13 Baseload,10,7200,41.8
+15/12/2014,Day-ahead Baseload,10,240,47.25
+27/01/2016,February '16 Baseload,15,10440,33
+3/10/2013,Day-ahead Baseload,10,240,37
+15/10/2013,Day-ahead Baseload,15,360,51
+17/12/2014,Day-ahead Baseload,10,240,38
+4/01/2016,Wednesday Baseload,10,240,35.75
+17/03/2016,April '16 Baseload,42,30240,25.75
+18/11/2014,December '14 Baseload,10,7440,35.45
+20/04/2015,Week 18 '15 Baseload,25,4200,26.75
+20/10/2015,Year 2016 Peaks,10,31320,40.3
+20/03/2014,Weekend Baseload,10,480,24.25
+13/10/2015,Day-ahead Baseload,10,240,49.5
+23/09/2016,Week 39 '16 Baseload,10,1680,29
+8/01/2015,Day-ahead Baseload,5,120,34.75
+16/07/2015,Day-ahead Baseload,10,240,46.5
+7/08/2014,Weekend Baseload,28,1344,20.2
+2/08/2013,Year 2014 Baseload,5,43800,35.7
+9/12/2014,Day-ahead Baseload,10,240,34.75
+3/12/2014,Q1 '15 Baseload,10,21590,37.5
+26/08/2015,Day-ahead Baseload,5,120,33
+29/10/2014,November '14 Baseload,10,7200,35.4
+14/08/2014,Week 34 '14 Baseload,5,840,28.9
+13/08/2013,September '13 Baseload,10,7200,35.85
+9/01/2015,February '15 Baseload,5,3360,37
+1/12/2015,Q1 '16 Baseload,10,21830,33.5
+25/04/2014,Weekend Baseload,3,144,27
+17/12/2015,Year 2016 Baseload,10,87840,31.65
+10/10/2014,December '14 Baseload,10,7440,34.7
+9/01/2015,March '15 Baseload,5,3715,34
+15/12/2015,Friday Baseload,30,720,37
+9/01/2015,Sunday Baseload,25,600,5
+6/11/2014,Day-ahead Baseload,5,120,38.7
+11/11/2015,Week 47 '15 Baseload,10,1680,37
+12/04/2016,Year 2018 Baseload,5,43800,24
+25/02/2015,March '15 Baseload,5,3715,33.75
+6/12/2013,Year 2014 Baseload,5,43800,37.6
+12/02/2016,Q3 '16 Baseload,20,44160,27.1
+2/09/2014,October '14 Baseload,5,3725,36.5
+23/12/2014,25/12/2014 Baseload,10,240,14.5
+13/07/2016,Year 2018 Baseload,10,87600,28
+25/04/2016,Year 2017 Baseload,5,43800,27.65
+12/10/2015,Year 2016 Baseload,5,43920,32.45
+31/10/2013,Day-ahead Baseload,5,120,28
+15/09/2015,Day-ahead Baseload,10,240,42.95
+17/12/2015,Day-ahead Baseload,55,1320,37.5
+13/01/2015,February '15 Baseload,35,23520,37.85
+26/02/2015,Day-ahead Baseload,10,240,39.25
+21/02/2014,Week 9 '14 Baseload,12,2016,32.75
+24/09/2014,October '14 Baseload,10,7450,35.9
+27/07/2015,Day-ahead Baseload,10,240,29
+25/01/2016,February '16 Baseload,10,6960,32.85
+7/06/2016,Q3 '16 Baseload,10,22080,30.9
+29/11/2013,Weekend Baseload,5,240,30.25
+19/01/2016,Thursday Baseload,10,240,52.25
+20/11/2015,Year 2017 Baseload,10,87600,31.25
+16/10/2015,Saturday Baseload,10,240,40
+11/12/2014,Week 52 '14 Baseload,10,1680,24.25
+17/12/2013,Day-ahead Baseload,20,480,50.5
+14/06/2016,Q3 '16 Baseload,5,11040,31
+30/01/2015,February '15 Baseload,15,10080,37
+17/12/2013,February '14 Baseload,25,16800,43.4
+26/09/2013,October '13 Baseload,10,7450,41
+7/10/2013,Day-ahead Baseload,10,240,54.5
+24/04/2014,Day-ahead Baseload,10,240,35
+23/12/2014,25/12/2014 Baseload,10,240,14
+27/04/2016,May '16 Baseload,10,7440,27.7
+31/07/2015,Weekend Baseload,10,480,25.75
+21/11/2013,Day-ahead Baseload,5,120,45.75
+25/01/2016,February '16 Baseload,5,3480,32.85
+19/09/2013,Day-ahead Baseload,10,240,50.25
+4/07/2014,August '14 Baseload,25,18600,34.05
+20/12/2013,Weekend Baseload,5,240,20.5
+10/09/2013,October '13 Baseload,10,7450,39.5
+7/11/2013,Day-ahead Baseload,10,240,45.7
+22/01/2015,February '15 Baseload,10,6720,35.25
+31/12/2013,Day-ahead Baseload,10,240,28.5
+7/09/2015,Day-ahead Baseload,100,2400,41.5
+25/07/2014,Year 2015 Baseload,25,219000,36.15
+9/02/2015,Week 8 '15 Baseload,25,4200,33.25
+11/06/2014,Day-ahead Baseload,25,600,44
+16/10/2015,Day-ahead Baseload,10,240,47.5
+28/04/2016,Q3 '16 Baseload,10,22080,29
+15/08/2014,Week 34 '14 Peaks,10,600,37.6
+30/01/2015,Day-ahead Baseload,10,240,34
+6/11/2013,Day-ahead Baseload,5,120,36.4
+12/09/2014,October '14 Baseload,10,7450,35.5
+14/10/2015,Day-ahead Baseload,10,240,48.5
+8/09/2014,Week 38 '14 Baseload,28,4704,35.1
+2/10/2013,Day-ahead Baseload,10,240,26
+16/10/2015,Day-ahead Baseload,50,1200,47.5
+31/07/2013,Week 32 '13 Baseload,25,4200,34.95
+15/10/2013,December '13 Baseload,10,7440,38.95
+3/09/2013,Day-ahead Baseload,5,120,50.9
+1/03/2016,Year 2017 Baseload,10,87600,25
+6/11/2013,Day-ahead Peaks,5,60,45.5
+28/01/2015,Day-ahead Baseload,25,600,33.5
+6/08/2013,Day-ahead Baseload,10,240,45
+17/07/2015,Day-ahead Baseload,20,480,47
+22/04/2016,Q3 '16 Baseload,10,22080,28.5
+16/04/2014,Year 2016 Baseload,25,219600,34.05
+26/06/2014,Q3 '14 Baseload,25,55200,35.25
+31/07/2014,Day-ahead Baseload,10,240,31.8
+23/08/2016,October '16 Baseload,5,3725,32.25
+1/10/2015,Day-ahead Baseload,50,1200,43.5
+3/02/2015,Year 2017 Baseload,10,87600,33.5
+22/12/2014,25/12/2014 Baseload,20,480,14.5
+15/04/2015,May '15 Baseload,20,14880,31.1
+23/09/2016,Week 39 '16 Baseload,25,4200,29.25
+8/01/2015,Day-ahead Baseload,10,240,34.5
+7/03/2014,Week 11 '14 Baseload,5,840,32.25
+6/08/2013,Day-ahead Baseload,10,240,45.25
+7/01/2015,Day-ahead Baseload,32,768,34
+14/10/2015,November '15 Baseload,10,7200,36
+14/07/2016,Year 2017 Baseload,20,175200,30.1
+27/08/2014,September '14 Baseload,5,3600,35.4
+13/08/2013,Day-ahead Baseload,5,120,38
+8/01/2015,Week 3 '15 Baseload,15,2520,32
+29/10/2013,Thursday Baseload,15,360,36
+23/12/2013,25/12/2013 Baseload,10,240,10
+7/11/2013,Day-ahead Baseload,5,120,45.5
+6/09/2013,Weekend Baseload,5,240,32.75
+9/12/2013,Day-ahead Baseload,5,120,57
+24/09/2014,Friday Baseload,10,240,39
+11/09/2015,Weekend Baseload,10,480,28.75
+19/12/2013,February '14 Peaks,10,2400,57.75
+22/03/2016,April '16 Baseload,6,4320,26.25
+23/03/2016,April '16 Baseload,5,3600,25.6
+9/01/2015,Sunday Baseload,5,120,6.5
+9/06/2015,August '15 Baseload,5,3720,27.9
+11/10/2013,Day-ahead Baseload,65,1560,48.75
+8/09/2014,October '14 Baseload,10,7450,35.4
+9/02/2015,Day-ahead Baseload,10,240,41.5
+7/05/2014,Day-ahead Baseload,10,240,30.2
+15/11/2013,Weekend Baseload,15,720,32.9
+20/11/2014,December '14 Baseload,10,7440,35
+23/04/2014,Day-ahead Baseload,5,120,38.5
+16/09/2014,Week 40 '14 Baseload,10,1680,33.55
+15/10/2013,Weekend Baseload,5,240,27.5
+9/10/2014,November '14 Baseload,10,7200,36.7
+16/04/2014,Year 2016 Baseload,25,219600,33.95
+13/07/2015,Day-ahead Baseload,5,120,46.25
+8/10/2013,Day-ahead Peaks,25,300,58.9
+12/12/2014,Saturday Baseload,5,120,34.75
+3/10/2013,Weekend Baseload,20,960,38
+2/11/2015,Day-ahead Baseload,10,240,43.5
+15/04/2014,May '14 Baseload,10,7440,31.6
+25/10/2013,Year 2014 Baseload,5,43800,37.1
+11/01/2016,Wednesday Baseload,25,600,38.75
+7/06/2016,Q3 '16 Baseload,25,55200,30.9
+18/10/2013,Year 2014 Baseload,5,43800,37.55
+27/04/2016,May '16 Baseload,10,7440,28
+14/11/2014,Year 2016 Baseload,10,87840,34.2
+24/03/2015,Day-ahead Baseload,25,600,37
+20/10/2015,Day-ahead Baseload,5,120,43.25
+11/12/2014,Day-ahead Baseload,5,120,36.85
+15/01/2016,Q2 '16 Baseload,20,43680,28.65
+14/01/2016,Day-ahead Baseload,20,480,36
+3/11/2015,Weekend Baseload,25,1200,23.5
+20/04/2016,Q3 '16 Baseload,10,22080,27.6
+7/05/2015,June '15 Baseload,10,7200,30.4
+12/08/2015,September '15 Baseload,25,18000,34
+8/04/2014,Day-ahead Baseload,10,240,31
+9/08/2013,Weekend Baseload,30,1440,28
+4/08/2016,Q4 '16 Baseload,20,44180,33.3
+7/01/2015,Week 3 '15 Baseload,5,840,32
+15/04/2014,Day-ahead Baseload,5,120,39.25
+6/01/2015,Week 4 '15 Baseload,50,8400,35.5
+1/08/2014,Week 32 '14 Baseload,5,840,32
+18/09/2015,Week 39 '15 Baseload,15,2520,37.5
+23/04/2014,Week 18 '14 Baseload,10,1680,31.5
+4/11/2015,Year 2016 Baseload,5,43920,32.75
+22/10/2014,Year 2017 Baseload,35,306600,32.25
+31/03/2014,April '14 Baseload,5,3600,31.25
+23/03/2016,April '16 Baseload,25,18000,26
+11/11/2015,December '15 Baseload,10,7440,33.35
+23/12/2015,Week 53 '15 Baseload,10,1680,27.25
+18/06/2014,Week 26 '14 Baseload,10,1680,34.3
+4/04/2014,Day-ahead Baseload,10,240,36
+7/01/2015,Week 3 '15 Baseload,10,1680,32
+14/01/2016,February '16 Baseload,10,6960,33.75
+9/05/2014,Week 20 '14 Baseload,10,1680,33
+17/10/2014,Sunday Baseload,5,120,19
+9/09/2013,Week 38 '13 Baseload,10,1680,39.25
+22/09/2014,Day-ahead Baseload,5,120,42.25
+17/09/2013,Year 2014 Baseload,15,131400,38.75
+9/12/2015,Year 2016 Baseload,5,43920,31.7
+8/01/2015,Week 3 '15 Baseload,10,1680,32
+27/02/2015,March '15 Baseload,5,3715,34.2
+15/09/2016,Week 38 '16 Baseload,10,1680,32.5
+11/10/2013,Day-ahead Baseload,25,600,48.75
+9/04/2014,May '14 Baseload,10,7440,31.15
+10/09/2014,Week 39 '14 Baseload,5,840,34.8
+27/04/2016,May '16 Baseload,10,7440,28.25
+15/12/2015,Thursday Baseload,25,600,39
+1/09/2014,Year 2015 Baseload,10,87600,36.25
+26/06/2014,Week 27 '14 Baseload,10,1680,33.5
+8/12/2015,Day-ahead Baseload,20,480,35.5
+8/01/2016,February '16 Baseload,10,6960,34
+3/09/2015,Weekend Baseload,50,2400,18.75
+31/03/2014,April '14 Baseload,10,7200,30.7
+14/04/2014,Day-ahead Baseload,10,240,39.5
+15/11/2013,Day-ahead Baseload,10,240,48.5
+27/05/2014,Day-ahead Baseload,10,240,36.4
+2/10/2013,Day-ahead Baseload,6,144,27
+25/11/2015,Day-ahead Baseload,10,240,48
+3/02/2014,Day-ahead Baseload,10,240,44
+9/07/2014,August '14 Baseload,10,7440,34
+11/08/2016,September '16 Baseload,20,14400,31
+1/09/2015,Day-ahead Baseload,25,600,38.5
+10/07/2014,August '14 Baseload,10,7440,33.3
+23/03/2016,April '16 Baseload,10,7200,25.9
+9/12/2015,Friday Baseload,40,960,34
+24/08/2015,Year 2017 Baseload,10,87600,30.55
+7/11/2014,Year 2015 Baseload,20,175200,35.5
+7/01/2015,Week 4 '15 Baseload,10,1680,36.75
+10/09/2013,Q4 '13 Baseload,5,11045,39.55
+14/01/2016,February '16 Baseload,10,6960,34
+27/09/2013,November '13 Baseload,5,3600,42.65
+15/12/2015,January '16 Baseload,1,744,33
+5/01/2016,Year 2017 Baseload,5,43800,28.65
+13/11/2015,Weekend Baseload,10,480,21.5
+14/01/2015,Day-ahead Baseload,25,600,26.5
+11/08/2015,September '15 Baseload,20,14400,34.5
+31/12/2013,Day-ahead Baseload,25,600,30
+22/12/2015,Q1 '16 Baseload,10,21830,33
+22/05/2014,June '14 Baseload,5,3600,32.3
+10/01/2014,Day-ahead Baseload,5,120,45.75
+28/10/2015,Day-ahead Baseload,15,360,48
+2/12/2015,Week 52 '15 Baseload,5,840,26
+24/03/2016,28/03/2016 Baseload,30,720,11
+25/08/2015,Day-ahead Baseload,25,600,32.55
+10/12/2014,January '15 Baseload,10,7440,38
+28/09/2015,Day-ahead Baseload,5,120,36.5
+23/12/2014,26/12/2014 Baseload,10,240,27
+19/12/2014,Week 1 '15 Baseload,25,4200,30
+10/09/2015,Q4 '15 Baseload,10,22090,33.7
+25/09/2015,Day-ahead Baseload,5,120,38.5
+4/03/2016,Sunday Baseload,10,240,16.3
+9/08/2016,Day-ahead Baseload,20,480,29
+13/07/2016,August '16 Baseload,10,7440,32.35
+16/02/2016,March '16 Baseload,5,3715,24.6
+17/08/2015,Day-ahead Baseload,10,240,44
+11/06/2014,Week 25 '14 Baseload,10,1680,33
+31/07/2013,August '13 Baseload,10,7440,36
+25/10/2013,Day-ahead Peaks,15,180,34
+22/01/2016,Year 2018 Baseload,25,219000,25.5
+23/09/2015,Week 40 '15 Baseload,10,1680,38
+30/04/2014,Friday Baseload,10,240,30.5
+26/08/2014,Q4 '14 Baseload,5,11045,37.75
+7/03/2016,Year 2017 Baseload,20,175200,25.35
+20/07/2015,Day-ahead Baseload,15,360,44.5
+6/08/2015,Week 35 '15 Baseload,50,8400,34
+15/10/2013,November '13 Baseload,5,3600,41.9
+6/03/2014,Day-ahead Baseload,5,120,33.85
+5/02/2016,Week 6 '16 Baseload,10,1680,28
+17/01/2014,Weekend Baseload,5,240,26.7
+8/07/2015,Day-ahead Baseload,40,960,39
+4/09/2015,Weekend Baseload,20,960,22
+14/01/2016,Day-ahead Baseload,10,240,36.25
+30/12/2014,Week 2 '15 Baseload,10,1680,31
+15/01/2015,Weekend Baseload,5,240,31
+10/05/2016,Week 20 '16 Baseload,25,4200,27
+26/03/2014,Year 2015 Baseload,5,43800,34.8
+20/01/2016,Year 2018 Baseload,25,219000,25.5
+6/08/2015,Day-ahead Baseload,30,720,36.25
+6/02/2015,Saturday Baseload,10,240,28.25
+12/02/2015,Q2 '15 Baseload,5,10920,34
+15/09/2015,Day-ahead Baseload,25,600,41.5
+13/10/2015,Day-ahead Baseload,20,480,49
+1/08/2013,Day-ahead Baseload,5,120,38
+21/08/2013,September '13 Baseload,35,25200,37.75
+21/02/2014,Sunday Baseload,10,240,22
+3/09/2015,Weekend Baseload,25,1200,19
+7/09/2015,Day-ahead Baseload,5,120,41
+22/06/2015,Day-ahead Baseload,10,240,33.25
+23/11/2015,Day-ahead Baseload,2,48,38
+11/11/2015,Year 2016 Baseload,5,43920,32.5
+27/11/2015,December '15 Baseload,20,14880,32.5
+13/11/2014,Week 47 '14 Baseload,13,2184,38
+1/08/2013,Day-ahead Baseload,10,240,37.25
+18/09/2014,Week 39 '14 Baseload,15,2520,34.75
+4/12/2014,January '15 Baseload,5,3720,38
+20/07/2016,August '16 Baseload,5,3720,31.75
+3/01/2014,Sunday Baseload,10,240,23.6
+16/03/2016,April '16 Baseload,5,3600,25.3
+17/12/2013,Year 2014 Peaks,5,15660,49
+10/06/2014,Day-ahead Baseload,10,240,41
+20/07/2016,August '16 Baseload,7,5208,31.9
+21/01/2016,Week 4 '16 Baseload,10,1680,34.5
+18/12/2014,Day-ahead Baseload,25,600,36.5
+3/04/2014,Day-ahead Baseload,10,240,33
+19/12/2013,Week 52 '13 Baseload,25,4200,16.25
+8/01/2014,February '14 Baseload,20,13440,41.9
+9/10/2015,Day-ahead Baseload,10,240,43.25
+12/02/2016,March '16 Baseload,100,74300,26
+3/02/2016,Day-ahead Baseload,10,240,31
+6/08/2015,Week 33 '15 Baseload,20,3360,33.75
+13/10/2015,Thursday Baseload,10,240,48.25
+28/05/2014,Day-ahead Baseload,10,240,29.1
+2/12/2015,Day-ahead Baseload,5,120,42.5
+14/01/2015,Day-ahead Baseload,10,240,26.5
+14/01/2015,Day-ahead Baseload,5,120,27.5
+11/08/2014,Day-ahead Baseload,5,120,27.9
+9/10/2013,Day-ahead Baseload,5,120,55.5
+17/04/2015,May '15 Baseload,10,7440,30.25
+28/01/2015,Friday Baseload,10,240,36.25
+27/05/2015,Day-ahead Baseload,10,240,29
+7/12/2015,Day-ahead Baseload,20,480,37
+27/06/2016,Q3 '16 Baseload,10,22080,32
+10/06/2015,Q3 '15 Baseload,25,55200,30.5
+18/10/2013,Day-ahead Baseload,5,120,42
+16/04/2014,Day-ahead Baseload,25,600,37.5
+24/06/2014,Day-ahead Baseload,20,480,39.6
+27/01/2016,February '16 Baseload,5,3480,33
+27/01/2016,Day-ahead Baseload,10,240,34.25
+24/01/2014,Day-ahead Peaks,5,60,53.3
+22/04/2016,Q3 '16 Baseload,40,88320,28.5
+13/07/2015,Day-ahead Baseload,25,600,46.25
+13/01/2015,Day-ahead Baseload,5,120,32.5
+17/04/2014,18/04/2014 Baseload,10,240,30
+24/07/2014,August '14 Baseload,25,18600,33.4
+5/03/2014,Day-ahead Peaks,5,60,45.8
+8/01/2015,Day-ahead Baseload,32,768,34.5
+20/05/2016,June '16 Baseload,5,3600,29.75
+7/07/2015,Q4 '15 Baseload,10,22090,34.55
+10/11/2015,Day-ahead Baseload,5,120,40
+15/12/2014,Year 2017 Baseload,15,131400,33.7
+28/01/2015,February '15 Baseload,10,6720,36
+6/01/2015,Day-ahead Baseload,25,600,39.5
+15/12/2015,January '16 Baseload,50,37200,33
+13/01/2016,Year 2017 Baseload,5,43800,27.7
+6/10/2015,Thursday Baseload,5,120,48
+2/07/2015,Day-ahead Baseload,10,240,41.25
+1/04/2015,Day-ahead Baseload,10,240,32.5
+3/04/2014,Weekend Baseload,15,720,26.5
+10/06/2015,Q3 '15 Baseload,35,77280,30.5
+22/09/2014,Day-ahead Baseload,10,240,42
+28/04/2015,Q3 '15 Baseload,10,22080,32.3
+22/09/2015,Day-ahead Baseload,10,240,42
+31/07/2015,Weekend Baseload,10,480,25.5
+9/10/2013,Day-ahead Offpeaks,10,120,45
+9/07/2015,Week 29 '15 Baseload,10,1680,34
+4/02/2015,Week 7 '15 Baseload,10,1680,37.4
+27/11/2015,December '15 Baseload,25,18600,32.5
+23/12/2015,Day-ahead Baseload,5,120,19
+6/12/2013,Weekend Baseload,10,480,29.5
+10/06/2015,August '15 Baseload,2,1488,27.75
+19/06/2015,Q3 '15 Baseload,10,22080,31.45
+13/10/2014,Day-ahead Baseload,10,240,43
+20/05/2015,Q4 '15 Baseload,10,22090,34.9
+13/01/2016,Day-ahead Baseload,10,240,35
+4/12/2015,Weekend Baseload,10,480,26
+14/12/2015,Day-ahead Baseload,15,360,44.25
+17/06/2015,July '15 Baseload,10,7440,30.85
+4/03/2015,Year 2016 Baseload,5,43920,34.9
+29/09/2015,Year 2016 Baseload,5,43920,32.6
+22/10/2014,Year 2016 Baseload,10,87840,33.5
+7/09/2015,October '15 Baseload,10,7450,33.5
+14/10/2015,Day-ahead Baseload,10,240,49
+1/04/2014,Day-ahead Baseload,5,120,40.5
+5/12/2014,Q1 '15 Baseload,5,10795,37.5
+5/02/2014,Year 2015 Baseload,15,131400,36.35
+19/10/2015,Day-ahead Peaks,5,60,59
+4/08/2014,Q1 '15 Baseload,15,32385,38.25
+21/01/2014,Day-ahead Baseload,5,120,47.15
+24/04/2015,Week 18 '15 Baseload,25,4200,26.5
+19/01/2015,Week 5 '15 Baseload,5,840,36.5
+28/03/2014,Sunday Baseload,5,115,21.6
+23/10/2015,November '15 Baseload,10,7200,36.5
+19/11/2014,December '14 Baseload,10,7440,34.9
+16/09/2014,Week 40 '14 Baseload,10,1680,33.25
+21/07/2015,Day-ahead Baseload,10,240,53
+31/12/2013,Day-ahead Baseload,15,360,27.75
+21/01/2014,Day-ahead Baseload,5,120,47
+23/02/2015,Day-ahead Baseload,5,120,34
+28/11/2014,January '15 Baseload,10,7440,38.85
+18/12/2015,January '16 Baseload,5,3720,33.75
+8/06/2016,Day-ahead Baseload,10,240,37.5
+20/01/2015,Week 5 '15 Baseload,5,840,34
+23/08/2016,September '16 Baseload,10,7200,30.45
+30/10/2014,December '14 Baseload,10,7440,34.85
+9/01/2015,Saturday Baseload,5,120,13
+25/10/2013,Day-ahead Baseload,5,120,25
+23/01/2015,Day-ahead Baseload,5,120,36.5
+25/09/2015,Day-ahead Baseload,10,240,38
+3/04/2014,Day-ahead Baseload,5,120,33
+11/09/2015,Day-ahead Baseload,15,360,36
+23/12/2015,May '16 Baseload,50,37200,29.75
+17/06/2016,Year 2017 Baseload,5,43800,29.8
+21/10/2015,November '15 Baseload,5,3600,36.2
+22/12/2015,January '16 Baseload,10,7440,33.6
+8/01/2016,Year 2017 Baseload,10,87600,28.5
+15/10/2015,Day-ahead Peaks,10,120,59.5
+4/09/2015,Week 37 '15 Baseload,10,1680,37
+8/01/2015,Day-ahead Baseload,5,120,35
+28/11/2014,Weekend Baseload,10,480,31
+15/01/2015,February '15 Baseload,5,3360,37.25
+24/09/2014,October '14 Baseload,5,3725,35.95
+12/10/2015,Day-ahead Baseload,15,360,52.5
+17/12/2015,January '16 Baseload,5,3720,33.55
+12/02/2016,Weekend Baseload,5,240,20
+15/06/2016,July '16 Baseload,15,11160,30.4
+10/02/2015,Year 2016 Baseload,5,43920,34.9
+7/11/2013,Day-ahead Baseload,5,120,45.45
+21/10/2013,Day-ahead Baseload,5,120,40.1
+30/06/2014,Day-ahead Baseload,5,120,36.8
+2/03/2015,Day-ahead Baseload,10,240,28.75
+8/07/2015,Day-ahead Baseload,10,240,39.4
+13/05/2014,June '14 Baseload,10,7200,31.95
+10/10/2014,Week 42 '14 Baseload,10,1680,34.95
+11/11/2015,Year 2017 Baseload,5,43800,30.75
+9/01/2014,Year 2015 Baseload,5,43800,35.85
+15/12/2015,Weekend Baseload,30,1440,25
+8/10/2014,December '14 Baseload,5,3720,35
+16/07/2015,Day-ahead Baseload,20,480,46.5
+18/12/2013,Q1 '14 Baseload,10,21590,40.3
+9/10/2014,Day-ahead Baseload,5,120,39.75
+6/02/2015,Week 7 '15 Baseload,25,4200,37
+17/02/2015,Year 2016 Baseload,5,43920,35.5
+10/06/2015,Q3 '15 Baseload,15,33120,30.55
+17/03/2015,Year 2017 Baseload,10,87600,32.6
+10/12/2014,Day-ahead Baseload,5,120,37
+8/09/2015,Day-ahead Baseload,20,480,37.75
+5/12/2013,Year 2014 Baseload,6,52560,37.1
+4/09/2013,Q4 '13 Baseload,10,22090,39
+15/08/2013,Day-ahead Baseload,10,240,35
+27/08/2015,September '15 Baseload,25,18000,33.4
+8/04/2014,Day-ahead Baseload,20,480,31
+2/01/2015,Day-ahead Baseload,5,120,40
+14/01/2016,Q2 '16 Baseload,10,21840,29.5
+2/09/2014,Week 37 '14 Baseload,10,1680,33.1
+2/04/2014,Year 2015 Baseload,5,43800,33.75
+24/06/2014,Day-ahead Baseload,7,168,39.65
+17/10/2014,Day-ahead Baseload,10,240,29
+15/10/2015,Day-ahead Baseload,10,240,49.2
+4/12/2014,Week 50 '14 Baseload,10,1680,38.5
+5/11/2013,Day-ahead Baseload,5,120,32.65
+27/11/2014,Day-ahead Baseload,10,240,35.5
+22/10/2015,Year 2016 Baseload,5,43920,32
+8/01/2015,Q4 '15 Baseload,20,44180,37
+21/01/2016,Q2 '16 Baseload,10,21840,28.5
+17/10/2013,Day-ahead Baseload,5,120,42.5
+5/11/2013,Day-ahead Peaks,5,60,39.5
+21/10/2014,Day-ahead Baseload,10,240,38
+28/11/2014,Week 51 '14 Baseload,5,840,39.2
+2/04/2015,Weekend Baseload,10,480,28.25
+8/09/2015,Day-ahead Baseload,10,240,37.5
+27/01/2016,Day-ahead Baseload,5,120,34.75
+22/09/2014,Day-ahead Baseload,2,48,42
+20/12/2013,Sunday Baseload,20,480,15
+11/01/2016,Day-ahead Baseload,10,240,38
+23/10/2014,Day-ahead Baseload,10,240,39
+23/06/2015,Day-ahead Baseload,5,120,32.5
+22/10/2013,Day-ahead Baseload,5,120,33.5
+7/01/2015,Q2 '15 Baseload,25,54600,32.5
+7/02/2014,Day-ahead Baseload,5,120,38
+1/04/2015,Day-ahead Baseload,10,240,32.75
+11/09/2015,Day-ahead Baseload,20,480,35.5
+30/09/2015,Week 41 '15 Baseload,10,1680,40
+10/04/2014,Weekend Baseload,25,1200,27
+15/07/2014,Week 30 '14 Baseload,25,4200,32.25
+30/07/2014,August '14 Baseload,5,3720,33.1
+15/02/2016,Day-ahead Baseload,5,120,32.5
+16/01/2014,Day-ahead Baseload,5,120,39.3
+24/07/2014,August '14 Baseload,5,3720,33.5
+2/10/2013,Weekend Baseload,25,1200,39
+15/04/2014,Day-ahead Baseload,5,120,40.75
+9/12/2014,Week 52 '14 Baseload,5,840,22
+21/08/2015,Day-ahead Baseload,10,240,32
+7/04/2014,Day-ahead Baseload,5,120,31.9
+1/04/2015,03/04/2015 Baseload,10,240,31
+17/05/2016,June '16 Baseload,20,14400,29.8
+13/11/2015,Weekend Baseload,5,240,22
+4/02/2014,Year 2016 Baseload,5,43920,35.3
+8/08/2013,Year 2014 Baseload,10,87600,35.75
+28/10/2013,November '13 Baseload,10,7200,40.75
+23/12/2014,Day-ahead Baseload,25,600,9.25
+18/12/2014,Week 52 '14 Baseload,5,840,23.75
+2/06/2015,Day-ahead Baseload,10,240,27
+25/02/2016,Day-ahead Baseload,25,600,27.5
+16/01/2015,February '15 Baseload,10,6720,36
+10/12/2013,Day-ahead Baseload,10,240,59.75
+11/06/2015,Q3 '15 Baseload,25,55200,30.7
+21/11/2014,Year 2015 Baseload,5,43800,36.25
+12/06/2015,Year 2016 Baseload,15,131760,32.7
+16/12/2015,Day-ahead Baseload,5,120,39
+20/12/2013,January '14 Peaks,5,1380,54.6
+27/08/2014,September '14 Baseload,5,3600,35.35
+9/01/2015,March '15 Baseload,75,55725,34
+12/09/2016,Day-ahead Baseload,5,120,34.85
+26/01/2015,Week 6 '15 Baseload,5,840,37.5
+19/12/2013,January '14 Baseload,100,74400,40.6
+3/03/2016,April '16 Baseload,10,7200,23.75
+29/08/2014,Day-ahead Baseload,30,720,36
+22/01/2015,February '15 Baseload,10,6720,35.15
+13/07/2016,Year 2017 Baseload,25,219000,29.8
+23/04/2014,May '14 Baseload,50,37200,32.4
+3/12/2014,January '15 Baseload,5,3720,38
+13/09/2016,October '16 Baseload,5,3725,31.5
+5/01/2015,Day-ahead Baseload,15,360,38
+13/01/2015,Year 2016 Baseload,5,43920,34.25
+23/10/2015,Year 2016 Baseload,5,43920,32.2
+23/12/2014,Day-ahead Baseload,10,240,9
+24/02/2016,March '16 Baseload,10,7430,23.5
+20/02/2015,Weekend Baseload,10,480,27.35
+14/08/2014,Week 34 '14 Baseload,10,1680,29
+24/02/2014,March '14 Baseload,30,22290,32.65
+10/09/2014,Week 39 '14 Baseload,10,1680,34.5
+26/11/2013,Day-ahead Baseload,10,240,44
+17/01/2014,February '14 Baseload,25,16800,40
+5/05/2015,Q3 '15 Baseload,5,11040,32.1
+8/07/2016,August '16 Baseload,50,37200,31.1
+31/07/2014,Week 32 '14 Baseload,5,840,31.75
+6/02/2014,Day-ahead Baseload,5,120,28.35
+13/10/2015,Day-ahead Baseload,25,600,49.5
+2/06/2015,Day-ahead Baseload,20,480,27
+22/01/2014,Day-ahead Baseload,5,120,46.2
+18/11/2015,Day-ahead Baseload,5,120,35
+9/06/2015,Day-ahead Baseload,10,240,32.55
+14/04/2015,June '15 Baseload,10,7200,32.2
+25/10/2013,Week 45 '13 Baseload,10,1680,39
+7/11/2014,Year 2015 Baseload,25,219000,35.5
+28/01/2015,Day-ahead Baseload,4,96,33.25
+11/12/2015,Day-ahead Baseload,5,120,44
+23/12/2013,Friday Baseload,10,240,25
+8/08/2013,Day-ahead Baseload,10,240,52.5
+21/11/2013,December '13 Baseload,10,7440,36.75
+1/08/2014,Weekend Baseload,10,480,25.25
+28/07/2015,Day-ahead Baseload,25,600,28.75
+9/10/2014,November '14 Baseload,5,3600,36.5
+28/09/2015,Day-ahead Baseload,25,600,36.7
+11/09/2014,Week 39 '14 Baseload,5,840,35.5
+15/08/2014,Weekend Baseload,10,480,13.75
+29/09/2015,Year 2016 Baseload,25,219600,32.45
+1/10/2015,Day-ahead Baseload,35,840,43
+22/12/2015,Day-ahead Baseload,10,240,26
+9/12/2013,February '14 Baseload,5,3360,43.2
+30/04/2014,Day-ahead Baseload,10,240,24.5
+20/01/2016,February '16 Baseload,40,27840,33.25
+20/03/2014,Day-ahead Extended-Peaks,5,80,32.2
+7/11/2013,Week 46 '13 Baseload,10,1680,38
+17/06/2014,August '14 Baseload,25,18600,34.15
+5/03/2015,April '15 Baseload,5,3600,34
+18/11/2014,Day-ahead Baseload,10,240,48
+9/08/2013,Weekend Baseload,5,240,26.5
+7/01/2015,Week 4 '15 Baseload,5,840,36.5
+15/12/2015,Thursday Baseload,5,120,38.25
+2/09/2015,Year 2017 Baseload,15,131400,30.75
+7/01/2015,Day-ahead Baseload,10,240,34
+20/02/2015,Week 9 '15 Baseload,30,5040,32.5
+16/10/2015,Day-ahead Baseload,10,240,47.75
+9/07/2015,Day-ahead Baseload,10,240,36.8
+16/07/2014,August '14 Baseload,25,18600,33.5
+21/01/2016,Year 2017 Baseload,5,43800,26.15
+13/07/2015,Day-ahead Baseload,15,360,45.75
+30/07/2015,Day-ahead Baseload,35,840,33.75
+3/09/2014,October '14 Baseload,10,7450,36.3
+11/01/2016,Day-ahead Baseload,5,120,38
+2/01/2014,Day-ahead Baseload,10,240,27.2
+15/10/2013,Weekend Baseload,10,480,28
+7/08/2013,Day-ahead Baseload,10,240,48.5
+14/04/2015,Q3 '15 Baseload,5,11040,33.5
+12/09/2013,Weekend Baseload,5,240,30.5
+30/11/2015,Day-ahead Baseload,5,120,38.95
+11/05/2015,Year 2016 Baseload,5,43920,32.8
+4/05/2016,Weekend Baseload,20,960,19
+23/06/2014,Day-ahead Baseload,10,240,39.9
+2/01/2015,Day-ahead Baseload,10,240,40.5
+12/10/2015,Day-ahead Peaks,10,120,66
+30/05/2014,Weekend Baseload,5,240,26.5
+14/09/2016,Friday Baseload,3,72,38
+26/08/2015,September '15 Baseload,5,3600,33.45
+4/10/2013,Weekend Baseload,5,240,37.5
+7/01/2015,Day-ahead Baseload,5,120,34.05
+22/01/2014,Year 2015 Baseload,5,43800,36.35
+27/01/2016,Year 2018 Baseload,25,219000,25.75
+30/07/2015,Q4 '15 Baseload,5,11045,35
+8/08/2013,Day-ahead Baseload,5,120,56
+1/08/2016,September '16 Baseload,5,3600,33.5
+8/07/2014,Day-ahead Baseload,5,120,34.1
+28/02/2014,Weekend Baseload,5,240,29.8
+21/05/2014,Day-ahead Baseload,10,240,36.35
+17/04/2014,18/04/2014 Baseload,5,120,30
+21/11/2014,Q1 '15 Baseload,25,53975,38
+13/08/2013,Day-ahead Baseload,10,240,37.75
+28/10/2015,Week 45 '15 Baseload,5,840,41
+23/03/2016,April '16 Baseload,5,3600,25.85
+8/01/2014,Day-ahead Baseload,5,120,30.85
+14/06/2016,July '16 Baseload,10,7440,30.5
+21/10/2015,Week 45 '15 Baseload,50,8400,35.5
+30/10/2015,Weekend Baseload,50,2400,32
+5/02/2014,Day-ahead Baseload,5,120,33.7
+14/01/2014,February '14 Baseload,10,6720,40.6
+1/10/2013,Year 2014 Baseload,5,43800,37.7
+13/10/2014,Day-ahead Baseload,30,720,43
+4/11/2015,Day-ahead Baseload,30,720,42.35
+28/01/2015,Day-ahead Baseload,25,600,33.25
+22/12/2015,Q2 '16 Baseload,10,21840,30
+28/10/2015,Week 45 '15 Baseload,10,1680,41
+9/04/2015,Year 2016 Baseload,15,131760,34.1
+27/11/2014,Week 49 '14 Baseload,5,840,44.75
+2/10/2013,Day-ahead Baseload,5,120,26.75
+4/11/2015,December '15 Baseload,10,7440,33.2
+1/12/2015,Weekend Baseload,20,960,25
+5/02/2014,Day-ahead Baseload,10,240,33.9
+3/10/2013,Weekend Baseload,10,480,38
+9/12/2014,Day-ahead Baseload,10,240,34.8
+2/12/2015,Q1 '16 Baseload,10,21830,33.5
+2/03/2015,Day-ahead Baseload,10,240,29
+27/04/2016,May '16 Baseload,10,7440,27.75
+3/01/2014,Weekend Baseload,5,240,24.2
+13/01/2014,February '14 Baseload,10,6720,40.95
+8/10/2015,Year 2016 Baseload,5,43920,32.4
+12/05/2015,Year 2017 Baseload,5,43800,32.95
+23/09/2015,Day-ahead Baseload,25,600,37.5
+19/02/2016,March '16 Baseload,25,18575,24
+1/08/2016,September '16 Baseload,5,3600,33.1
+19/11/2014,Day-ahead Baseload,10,240,46.75
+8/12/2015,Year 2017 Baseload,15,131400,29.5
+21/01/2016,Year 2017 Baseload,5,43800,26.25
+2/09/2015,Year 2017 Baseload,10,87600,30.7
+10/04/2014,Weekend Baseload,5,240,27
+2/10/2015,Year 2016 Baseload,10,87840,32.1
+24/10/2013,Weekend Baseload,5,245,18.25
+6/05/2014,July '14 Baseload,50,37200,34.5
+3/09/2014,October '14 Baseload,10,7450,35.45
+15/10/2015,December '15 Baseload,10,7440,32.1
+13/07/2015,Day-ahead Baseload,10,240,46
+31/10/2013,Day-ahead Baseload,10,240,28.5
+28/04/2014,June '14 Baseload,25,18000,33
+22/12/2014,Wednesday Baseload,5,120,8
+4/09/2015,Weekend Baseload,5,240,20
+7/09/2015,October '15 Baseload,25,18625,33.4
+1/10/2013,Day-ahead Baseload,10,240,52.6
+31/01/2014,Day-ahead Baseload,5,120,44
+9/01/2015,Weekend Baseload,20,960,10
+1/09/2014,Year 2015 Baseload,5,43800,36.25
+10/04/2015,Week 16 '15 Baseload,10,1680,31.25
+21/03/2014,Week 13 '14 Baseload,10,1670,33.65
+10/07/2015,Saturday Baseload,25,600,36
+22/10/2015,Weekend Baseload,49,2401,27.55
+1/12/2015,Week 50 '15 Baseload,15,2520,34.25
+9/12/2015,January '16 Baseload,10,7440,32.2
+24/09/2014,Week 40 '14 Baseload,5,840,36.4
+16/09/2014,Day-ahead Baseload,10,240,34.95
+12/06/2015,Year 2016 Baseload,5,43920,32.65
+24/01/2014,February '14 Baseload,30,20160,40.5
+28/03/2014,Day-ahead Peaks,10,120,36
+9/01/2015,February '15 Baseload,20,13440,36.95
+3/03/2015,Q4 '15 Baseload,25,55225,37.5
+23/11/2015,Day-ahead Baseload,3,72,38
+10/10/2013,Week 42 '13 Baseload,5,840,45.5
+19/08/2015,Day-ahead Baseload,25,600,38.7
+28/08/2014,Day-ahead Baseload,5,120,36.6
+7/10/2013,November '13 Baseload,5,3600,44
+27/01/2016,Day-ahead Baseload,20,480,35
+21/04/2016,Year 2018 Baseload,5,43800,25.6
+30/09/2015,Week 41 '15 Baseload,10,1680,39.25
+14/10/2013,November '13 Baseload,10,7200,41.9
+18/08/2014,Day-ahead Baseload,3,72,33.5
+26/03/2015,Week 14 '15 Baseload,10,1680,27
+7/06/2016,Year 2019 Baseload,30,262800,29.1
+15/01/2016,Year 2017 Baseload,5,43800,27
+14/01/2015,Day-ahead Baseload,15,360,26.5
+8/07/2015,Day-ahead Baseload,30,720,41.5
+4/02/2014,Day-ahead Baseload,5,120,36.5
+29/01/2015,Day-ahead Baseload,10,240,39
+28/01/2014,Week 6 '14 Baseload,10,1680,39
+13/10/2015,Day-ahead Peaks,20,240,57
+29/07/2014,Week 32 '14 Baseload,10,1680,31.75
+28/04/2014,Day-ahead Baseload,10,240,42.5
+8/01/2016,Saturday Baseload,5,120,34
+3/09/2015,Weekend Baseload,10,480,20
+29/09/2014,October '14 Baseload,5,3725,35.75
+15/10/2013,December '13 Baseload,10,7440,38.75
+15/04/2014,Day-ahead Baseload,10,240,39
+12/08/2014,September '14 Baseload,10,7200,34.55
+12/01/2015,Day-ahead Baseload,5,120,34
+15/09/2015,Year 2016 Baseload,10,87840,31.9
+27/08/2014,September '14 Baseload,10,7200,35.5
+25/11/2015,Weekend Baseload,5,240,23.5
+3/12/2015,Year 2016 Baseload,1,8784,32.2
+28/07/2015,Day-ahead Baseload,10,240,28.85
+8/01/2015,Day-ahead Baseload,10,240,34.75
+19/11/2015,Year 2016 Baseload,5,43920,32.95
+17/12/2013,Day-ahead Baseload,10,240,49.5
+25/04/2014,Day-ahead Baseload,5,120,40.5
+18/04/2016,Day-ahead Baseload,15,360,24
+13/01/2016,February '16 Baseload,25,17400,33.75
+16/07/2014,August '14 Baseload,5,3720,33.4
+12/02/2016,Weekend Baseload,55,2640,21
+19/02/2016,March '16 Baseload,50,37150,24
+27/02/2015,Saturday Baseload,10,240,30.75
+4/08/2016,Week 32 '16 Baseload,5,840,29.3
+10/01/2014,Weekend Baseload,10,480,26.5
+12/09/2014,Week 40 '14 Baseload,10,1680,33.05
+7/07/2015,Day-ahead Baseload,35,840,48
+20/02/2014,Day-ahead Baseload,5,120,35.4
+15/07/2014,Day-ahead Baseload,5,120,36.5
+2/12/2015,Weekend Baseload,10,480,24.5
+26/02/2015,March '15 Baseload,10,7430,34.28
+3/06/2014,Week 24 '14 Baseload,15,2520,31
+1/10/2013,Weekend Baseload,50,2400,38
+14/09/2016,Day-ahead Baseload,9,216,36.5
+14/08/2014,Week 34 '14 Baseload,10,1680,28.75
+23/10/2014,Week 44 '14 Baseload,10,1680,34.2
+16/03/2016,April '16 Baseload,10,7200,25.3
+7/04/2014,Year 2015 Baseload,5,43800,34.25
+9/10/2013,Day-ahead Baseload,5,120,56
+5/01/2016,Year 2017 Baseload,5,43800,28.7
+19/10/2015,Year 2016 Peaks,5,15660,40.4
+25/04/2014,Day-ahead Baseload,10,240,41
+16/09/2015,Day-ahead Baseload,15,360,42.5
+11/02/2014,Day-ahead Baseload,5,120,36.4
+1/07/2015,Day-ahead Baseload,5,120,34.25
+9/06/2015,July '15 Baseload,5,3720,29.75
+4/10/2013,Day-ahead Baseload,10,240,54.5
+27/07/2016,Year 2017 Baseload,5,43800,29.7
+9/11/2015,Day-ahead Baseload,10,240,35.7
+15/12/2014,Day-ahead Baseload,25,600,47.2
+10/10/2013,Weekend Baseload,10,480,31
+2/08/2013,Saturday Peaks,10,120,30
+10/02/2014,Day-ahead Baseload,5,120,37.2
+18/05/2015,June '15 Baseload,25,18000,30.8
+3/12/2015,Day-ahead Baseload,10,240,35
+11/03/2015,April '15 Baseload,5,3600,34.05
+25/10/2013,Sunday Baseload,5,125,11
+12/09/2014,Q4 '14 Baseload,10,22090,36.7
+18/11/2014,December '14 Peaks,10,2760,45.9
+23/06/2015,July '15 Baseload,5,3720,32.35
+7/09/2015,Q1 '16 Baseload,5,10915,33.5
+8/07/2015,Day-ahead Baseload,10,240,39
+20/12/2013,Weekend Baseload,5,240,20.6
+1/10/2013,November '13 Baseload,10,7200,42.4
+18/12/2014,Day-ahead Baseload,10,240,34.5
+9/02/2015,Week 8 '15 Baseload,10,1680,33.5
+7/01/2014,Year 2015 Baseload,5,43800,35.65
+14/12/2015,Wednesday Baseload,55,1320,37
+1/10/2013,Weekend Baseload,10,480,38
+4/12/2013,Friday Baseload,10,240,30
+4/11/2015,Day-ahead Baseload,19,456,42.25
+6/07/2015,Day-ahead Baseload,10,240,48.4
+9/12/2015,Q1 '16 Baseload,5,10915,32.5
+20/02/2015,Sunday Baseload,10,240,28.5
+12/11/2015,Week 47 '15 Baseload,5,840,35.8
+4/12/2014,Q1 '15 Baseload,15,32385,37.5
+1/12/2015,Day-ahead Baseload,15,360,38
+24/09/2013,October '13 Baseload,5,3725,41.1
+4/12/2013,Day-ahead Baseload,5,120,31
+15/01/2016,February '16 Baseload,10,6960,33.5
+17/03/2016,April '16 Baseload,15,10800,25.7
+15/04/2014,Day-ahead Baseload,5,120,39.5
+23/12/2014,Monday Baseload,10,240,34
+26/03/2014,Year 2015 Extended-Peaks,10,41760,45
+31/12/2014,Day-ahead Baseload,5,120,17
+10/04/2015,Week 16 '15 Baseload,10,1680,30.8
+10/02/2016,Day-ahead Baseload,25,600,27.5
+18/09/2015,Weekend 26-27 Sep '15 Baseload,10,480,29
+1/04/2015,Day-ahead Baseload,10,240,33
+18/10/2013,Day-ahead Baseload,5,120,41.5
+8/08/2013,Weekend Baseload,25,1200,33.5
+24/03/2015,Week 14 '15 Baseload,10,1680,26
+15/09/2014,Week 39 '14 Baseload,5,840,36.75
+23/03/2016,April '16 Baseload,10,7200,26.1
+1/10/2014,Day-ahead Baseload,5,120,48.75
+28/09/2015,Year 2016 Baseload,25,219600,32.5
+18/01/2016,Q2 '16 Baseload,10,21840,29.25
+1/07/2015,Day-ahead Baseload,25,600,34
+20/09/2013,Weekend Baseload,10,480,35.25
+6/05/2014,June '14 Baseload,50,36000,32.5
+25/09/2014,October '14 Baseload,5,3725,36.3
+26/01/2015,Week 6 '15 Baseload,5,840,37.45
+9/09/2015,Day-ahead Baseload,20,480,33.75
+22/10/2015,November '15 Baseload,5,3600,36.25
+12/12/2013,January '14 Baseload,10,7440,39.55
+8/09/2016,Year 2017 Baseload,5,43800,27.5
+27/02/2015,Sunday Baseload,10,240,14
+19/12/2014,Year 2017 Baseload,10,87600,33.35
+24/07/2014,August '14 Baseload,10,7440,33.5
+10/09/2014,Week 40 '14 Baseload,25,4200,33.75
+22/05/2014,Day-ahead Baseload,10,240,39.1
+25/11/2013,Year 2014 Baseload,5,43800,37
+5/11/2015,Day-ahead Baseload,5,120,37.75
+15/09/2014,Year 2015 Baseload,10,87600,35.5
+8/04/2016,May '16 Baseload,5,3720,24.9
+19/06/2014,Week 26 '14 Baseload,10,1680,34.75
+23/10/2015,Weekend Baseload,10,490,29.6
+26/09/2016,Week 40 '16 Baseload,10,1680,34
+11/11/2014,Weekend Baseload,10,480,25.25
+11/01/2016,Day-ahead Extended-Peaks,10,160,45.5
+29/12/2015,January '16 Baseload,22,16368,34.2
+6/07/2015,Day-ahead Baseload,10,240,49.5
+19/08/2013,Day-ahead Baseload,5,120,46.5
+5/01/2015,February '15 Baseload,10,6720,38
+7/07/2015,Q4 '15 Baseload,30,66270,34.5
+24/09/2015,October '15 Baseload,5,3725,36.2
+21/10/2015,Day-ahead Baseload,5,120,36.5
+10/12/2013,Day-ahead Baseload,5,120,59.55
+23/10/2015,Weekend Baseload,10,490,29.25
+9/02/2016,Day-ahead Baseload,10,240,28
+23/08/2016,Year 2017 Baseload,20,175200,28.25
+4/02/2015,Sunday Baseload,10,240,20
+3/12/2013,Day-ahead Baseload,20,480,43.4
+10/09/2014,Week 39 '14 Baseload,5,840,34.75
+13/12/2013,Day-ahead Baseload,5,120,39
+16/09/2016,Year 2017 Baseload,10,87600,28.15
+25/10/2013,Day-ahead Baseload,10,240,25
+26/02/2015,Day-ahead Baseload,5,120,39.4
+21/06/2016,Day-ahead Baseload,8,192,34.3
+16/02/2015,Week 9 '15 Baseload,45,7560,30.5
+15/08/2014,Week 34 '14 Baseload,5,840,28.35
+9/01/2015,February '15 Baseload,10,6720,37.25
+3/12/2015,Year 2016 Baseload,5,43920,32.1
+3/09/2013,Year 2014 Baseload,5,43800,36.8
+20/01/2015,Day-ahead Peaks,25,300,52
+11/12/2013,Day-ahead Baseload,10,240,59.45
+12/11/2013,Day-ahead Baseload,10,240,50.5
+20/02/2015,Weekend Baseload,5,240,27
+16/07/2015,Day-ahead Baseload,20,480,47
+9/08/2013,Weekend Baseload,10,480,28
+9/09/2013,Day-ahead Peaks,5,60,60
+15/10/2015,Day-ahead Baseload,5,120,49.25
+3/12/2015,Weekend Baseload,5,240,24
+11/03/2014,Q2 '14 Baseload,20,43680,30.95
+28/04/2016,May '16 Baseload,5,3720,28.1
+8/07/2015,August '15 Baseload,5,3720,30.4
+6/07/2015,August '15 Baseload,20,14880,31
+17/12/2015,Day-ahead Peaks,25,300,47
+2/01/2014,Day-ahead Baseload,5,120,27.8
+25/09/2015,Week 40 '15 Baseload,10,1680,38
+4/11/2013,Day-ahead Baseload,2,48,35
+16/09/2015,Day-ahead Baseload,10,240,42.5
+16/10/2014,November '14 Baseload,10,7200,35.25
+13/01/2016,Year 2017 Baseload,5,43800,27.75
+11/02/2014,Week 8 '14 Baseload,10,1680,36.85
+25/11/2013,Day-ahead Baseload,5,120,51.5
+11/12/2014,Day-ahead Baseload,10,240,36.85
+22/12/2014,26/12/2014 Baseload,20,480,25.75
+22/12/2014,Weekend Baseload,15,720,21.75
+15/09/2015,Day-ahead Baseload,25,600,41
+20/10/2014,November '14 Baseload,10,7200,36
+7/11/2014,Week 46 '14 Baseload,18,3024,37.5
+11/06/2014,Day-ahead Baseload,10,240,46.5
+27/11/2014,Day-ahead Baseload,10,240,34.75
+22/10/2015,November '15 Baseload,10,7200,36.25
+23/10/2014,November '14 Baseload,10,7200,34.9
+17/03/2015,Year 2017 Baseload,5,43800,32.55
+17/12/2013,Thursday Baseload,25,600,40
+4/11/2015,Year 2016 Baseload,10,87840,32.85
+6/10/2015,Year 2016 Baseload,5,43920,32.6
+10/12/2015,February '16 Baseload,10,6960,34.1
+22/05/2015,June '15 Baseload,10,7200,30.05
+22/10/2015,Year 2016 Baseload,20,175680,32
+21/08/2015,September '15 Baseload,5,3600,33.75
+15/04/2015,May '15 Baseload,5,3720,30.9
+4/08/2014,Q1 '15 Baseload,5,10795,38.25
+25/03/2014,Day-ahead Baseload,10,240,35.6
+15/01/2015,February '15 Baseload,10,6720,37.45
+15/11/2013,Day-ahead Baseload,10,240,47
+15/10/2015,Day-ahead Baseload,10,240,49
+16/01/2014,March '14 Baseload,25,18575,35.55
+16/04/2014,Day-ahead Baseload,6,144,37
+13/10/2015,Day-ahead Baseload,15,360,49
+31/05/2016,Year 2017 Baseload,5,43800,28.85
+9/04/2015,Weekend Baseload,25,1200,24.25
+30/10/2014,November '14 Baseload,10,7200,35.7
+28/04/2015,June '15 Baseload,10,7200,31.25
+8/04/2015,Day-ahead Baseload,10,240,40.75
+1/10/2015,Year 2016 Baseload,25,219600,32.35
+25/11/2014,Year 2017 Baseload,30,262800,34.85
+27/11/2014,Day-ahead Baseload,10,240,35.25
+11/03/2015,Q2 '15 Baseload,10,21840,33.6
+8/09/2015,Day-ahead Baseload,25,600,38
+27/04/2015,Q3 '15 Baseload,5,11040,32.5
+16/12/2014,Weekend Baseload,10,480,22
+16/06/2015,Day-ahead Baseload,10,240,34
+14/10/2015,November '15 Baseload,5,3600,36.1
+16/10/2013,Week 43 '13 Baseload,5,845,38
+8/11/2013,December '13 Baseload,10,7440,38
+17/12/2013,Year 2014 Peaks,5,153468,49
+16/10/2013,Weekend Baseload,10,480,27
+15/04/2014,Day-ahead Baseload,5,120,40.5
+17/09/2014,October '14 Baseload,25,18625,35.25
+12/02/2016,Weekend Baseload,25,1200,21
+20/05/2016,June '16 Baseload,5,3600,29.95
+3/11/2015,Day-ahead Baseload,19,456,40.5
+10/11/2015,December '15 Baseload,25,18600,33.25
+18/09/2014,Week 39 '14 Baseload,10,1680,34.75
+23/04/2014,May '14 Baseload,10,7440,32.4
+29/04/2015,May '15 Baseload,5,3720,29.65
+7/01/2016,Year 2017 Baseload,25,219000,28.4
+16/10/2015,Weekend Baseload,10,480,36.75
+17/07/2015,Weekend Baseload,5,240,34
+14/10/2014,November '14 Baseload,5,3600,35.5
+1/10/2015,Day-ahead Baseload,25,600,43
+7/08/2013,Day-ahead Baseload,5,120,49.7
+8/07/2015,Day-ahead Baseload,10,240,41
+22/07/2016,Year 2017 Baseload,5,43800,29.5
+16/10/2015,Day-ahead Baseload,5,120,47.75
+11/11/2013,December '13 Baseload,10,7440,38.6
+18/09/2015,Week 39 '15 Baseload,10,1680,38.75
+21/10/2013,Day-ahead Baseload,5,120,39.85
+12/11/2013,Day-ahead Baseload,5,120,49.9
+1/12/2015,Day-ahead Baseload,5,120,38.25
+28/04/2014,Year 2015 Baseload,5,43800,35.65
+12/02/2015,Q2 '15 Baseload,45,98280,34
+8/12/2015,Day-ahead Baseload,30,720,35.5
+13/10/2015,Day-ahead Baseload,10,240,50.15
+3/04/2014,Day-ahead Baseload,5,120,33.25
+27/01/2016,Day-ahead Baseload,10,240,33.85
+7/11/2014,Weekend Baseload,10,480,28
+9/03/2015,Q2 '15 Baseload,10,21840,33.3
+1/10/2015,Day-ahead Baseload,15,360,44
+10/03/2015,Year 2016 Baseload,5,43920,34.25
+1/08/2014,September '14 Baseload,10,7200,36.4
+1/07/2016,Year 2017 Baseload,5,43800,29.1
+7/12/2015,Year 2018 Baseload,5,43800,28.5
+28/03/2014,Weekend Baseload,20,940,24.5
+14/01/2015,Year 2016 Baseload,5,43920,34.25
+10/02/2014,March '14 Baseload,10,7430,33.85
+16/04/2015,May '15 Baseload,2,1488,30.9
+3/10/2013,Day-ahead Baseload,25,600,38
+27/08/2014,Week 36 '14 Baseload,25,4200,33.75
+30/10/2014,Day-ahead Baseload,5,120,37.5
+23/10/2014,Day-ahead Extended-Peaks,10,160,46.5
+27/03/2015,Day-ahead Baseload,25,600,20
+15/04/2015,May '15 Baseload,5,3720,31
+5/06/2014,Week 24 '14 Baseload,10,1680,30.4
+28/05/2014,Q3 '14 Baseload,50,110400,35.9
+20/06/2014,July '14 Baseload,10,7440,34.9
+16/04/2014,Day-ahead Peaks,10,120,40
+17/07/2015,Day-ahead Baseload,10,240,47
+29/04/2016,June '16 Baseload,5,3600,28.5
+5/10/2015,Day-ahead Baseload,10,240,46
+15/08/2014,Weekend Baseload,10,480,13.65
+29/12/2014,Day-ahead Baseload,20,480,41.5
+2/04/2015,Week 15 '15 Baseload,20,3360,34
+25/07/2016,August '16 Baseload,5,3720,31
+8/12/2015,Year 2018 Baseload,5,43800,28
+29/09/2014,October '14 Baseload,10,7450,35.75
+12/06/2015,Q3 '15 Baseload,10,22080,30.8
+28/07/2015,Day-ahead Baseload,5,120,29
+30/11/2015,Day-ahead Baseload,20,480,38.75
+14/10/2015,Day-ahead Baseload,15,360,48.25
+26/06/2014,Day-ahead Baseload,10,240,38.5
+27/08/2014,September '14 Baseload,10,7200,35.45
+5/09/2013,Week 37 '13 Baseload,5,840,42.3
+8/07/2015,Friday Baseload,30,720,36
+11/02/2016,Q2 '16 Baseload,5,10920,26.65
+27/03/2014,Week 14 '14 Baseload,10,1680,31.5
+19/12/2013,Week 52 '13 Baseload,10,1680,16.25
+20/10/2015,Day-ahead Baseload,49,1176,43.25
+8/12/2014,Q1 '15 Baseload,10,21590,37.4
+9/12/2015,Day-ahead Baseload,15,360,36
+7/01/2016,February '16 Baseload,100,69600,34.75
+9/06/2015,Day-ahead Baseload,50,1200,32.6
+4/02/2016,Year 2017 Peaks,10,31200,35.65
+16/09/2015,Q1 '16 Baseload,5,10915,33.55
+25/02/2014,Year 2015 Baseload,5,43800,35.35
+17/04/2014,18/04/2014 Baseload,5,120,31
+23/02/2015,March '15 Baseload,25,18575,33.5
+17/02/2015,Week 9 '15 Baseload,10,1680,31.5
+23/08/2016,September '16 Baseload,5,3600,30.45
+18/10/2013,November '13 Baseload,5,3600,42
+13/11/2014,December '14 Baseload,20,14880,33.95
+16/05/2014,Weekend Baseload,5,240,27.6
+13/12/2013,Weekend Baseload,10,480,33
+12/11/2015,Year 2017 Baseload,25,219000,30.35
+26/02/2015,March '15 Baseload,10,7430,34.22
+8/09/2014,October '14 Baseload,5,3725,35.5
+14/11/2013,Week 47 '13 Baseload,10,1680,46.5
+30/10/2015,November '15 Baseload,10,7200,38
+17/06/2015,Week 28 '15 Baseload,15,2520,31.9
+16/12/2015,Year 2016 Baseload,5,43920,31.7
+15/12/2015,Day-ahead Baseload,40,960,38
+21/05/2015,Q3 '15 Baseload,5,11040,30.75
+13/11/2014,Day-ahead Baseload,10,240,36.6
+8/04/2014,Day-ahead Baseload,5,120,31.6
+13/10/2015,Friday Baseload,10,240,46.5
+13/01/2016,February '16 Baseload,10,6960,33.75
+25/11/2013,Day-ahead Baseload,5,120,51.75
+3/12/2015,Year 2016 Baseload,5,43920,32.25
+15/08/2013,Day-ahead Baseload,2,48,35
+20/08/2015,Weekend Baseload,10,480,22.5
+6/08/2015,Weekend Baseload,10,480,24
+1/12/2015,Week 50 '15 Baseload,25,4200,34.25
+29/11/2013,Day-ahead Baseload,5,120,52.8
+6/03/2015,Year 2016 Baseload,5,43920,34.3
+19/01/2016,Year 2017 Baseload,5,43800,27
+16/01/2015,February '15 Baseload,10,6720,35.8
+3/09/2013,Day-ahead Baseload,10,240,51.4
+28/10/2015,Year 2016 Baseload,5,43920,32.35
+6/10/2015,Day-ahead Baseload,25,600,45
+8/07/2015,Friday Baseload,20,480,36
+5/09/2013,October '13 Baseload,10,7450,39.5
+11/09/2015,Week 38 '15 Baseload,25,4200,33.25
+11/04/2014,May '14 Baseload,10,7440,31.1
+3/01/2014,Day-ahead Baseload,5,120,29
+21/02/2014,Day-ahead Baseload,10,240,31.5
+17/12/2013,January '14 Baseload,10,7440,39.8
+14/09/2015,Day-ahead Baseload,5,120,34
+11/09/2014,Week 39 '14 Baseload,10,1680,35.5
+27/04/2016,Q3 '16 Baseload,5,11040,29.5
+24/03/2016,April '16 Offpeaks,15,3780,22.9
+9/04/2014,May '14 Baseload,25,18600,31.2
+17/10/2013,Day-ahead Baseload,10,240,42.5
+4/09/2015,Day-ahead Baseload,5,120,41
+12/12/2014,Week 51 '14 Baseload,5,840,36.25
+7/04/2014,Year 2015 Baseload,5,43800,34.15
+25/02/2014,March '14 Baseload,27,20061,32.25
+8/01/2014,February '14 Baseload,3,2016,41.65
+26/05/2015,Q3 '15 Baseload,25,55200,30.7
+20/05/2014,Day-ahead Baseload,10,240,38.35
+19/11/2014,Week 48 '14 Baseload,18,3024,39.5
+11/10/2013,Weekend Baseload,5,240,30.85
+22/07/2015,Day-ahead Baseload,10,240,50
+23/11/2015,Year 2016 Baseload,5,43920,32.6
+5/09/2016,October '16 Baseload,1,745,31.6
+13/01/2015,Day-ahead Baseload,63,1512,33
+17/03/2014,Day-ahead Baseload,10,240,32.3
+13/02/2015,Saturday Baseload,10,240,31.5
+16/02/2015,Day-ahead Baseload,10,240,43.85
+6/10/2015,Day-ahead Baseload,10,240,44
+30/10/2015,Sunday Baseload,10,240,31.5
+5/08/2014,Q4 '14 Baseload,5,11045,37.35
+29/10/2014,Weekend Baseload,25,1200,24.75
+8/06/2016,Day-ahead Baseload,5,120,37.5
+2/07/2015,Day-ahead Baseload,20,480,41
+2/04/2015,03/04/2015 Baseload,10,240,29.5
+29/07/2014,Day-ahead Baseload,5,120,33.95
+20/04/2015,Q3 '15 Baseload,5,11040,32.9
+16/10/2013,Week 43 '13 Baseload,5,845,37.9
+7/11/2014,Saturday Baseload,10,240,29.5
+27/11/2014,December '14 Baseload,10,7440,37.45
+18/08/2015,Day-ahead Baseload,5,120,41
+30/09/2015,Day-ahead Baseload,5,120,43
+25/07/2014,Year 2015 Baseload,15,131400,36.15
+5/02/2015,Q4 '15 Baseload,10,22090,37.75
+19/11/2015,December '15 Baseload,5,3720,34
+14/10/2014,Day-ahead Baseload,10,240,41.5
+4/11/2015,Day-ahead Baseload,15,360,42.3
+29/10/2013,Day-ahead Baseload,10,240,42.5
+17/08/2016,Year 2017 Baseload,10,87600,28.85
+9/12/2014,Week 52 '14 Baseload,3,504,22
+23/07/2014,Year 2015 Baseload,10,87600,35.8
+22/10/2014,Year 2016 Baseload,25,219600,33.5
+4/07/2016,Q4 '16 Baseload,5,11045,34
+16/10/2015,Day-ahead Baseload,50,1200,47.75
+25/04/2014,Day-ahead Baseload,25,600,40.75
+17/12/2013,Day-ahead Baseload,10,240,50.5
+22/07/2014,Day-ahead Baseload,2,48,32.5
+14/08/2014,Week 34 '14 Peaks,10,600,37.1
+26/05/2015,June '15 Baseload,5,3600,30.05
+16/12/2013,Day-ahead Baseload,5,120,53.15
+16/07/2014,August '14 Baseload,5,3720,33.5
+7/05/2015,June '15 Baseload,5,3600,30.5
+27/07/2015,August '15 Baseload,10,7440,32.3
+26/10/2015,November '15 Baseload,20,14400,36.9
+26/11/2014,December '14 Baseload,5,3720,37.75
+26/11/2015,Weekend Baseload,25,1200,23
+11/12/2014,Week 1 '15 Peaks,10,600,34
+8/07/2015,August '15 Baseload,15,11160,30.55
+28/07/2015,August '15 Baseload,5,3720,32.1
+2/12/2015,Day-ahead Baseload,10,240,42
+19/02/2015,Week 9 '15 Baseload,5,840,32.25
+10/12/2013,January '14 Baseload,10,7440,40.3
+16/01/2015,February '15 Baseload,10,6720,36.25
+10/12/2014,Day-ahead Baseload,10,240,37.5
+15/09/2014,Week 39 '14 Baseload,10,1680,36.25
+23/10/2015,Weekend Baseload,10,490,29.3
+29/10/2015,November '15 Baseload,5,3600,38.5
+23/12/2014,Weekend Baseload,15,720,27
+22/12/2015,Q2 '16 Baseload,20,43680,30
+19/02/2015,Day-ahead Baseload,25,600,37
+10/07/2015,Weekend Baseload,10,480,31.5
+6/08/2015,Weekend Baseload,5,240,25
+2/10/2014,Day-ahead Baseload,25,600,40
+13/01/2015,Thursday Baseload,15,360,30.5
+13/10/2014,Day-ahead Baseload,25,600,43
+20/12/2013,Q3 '14 Baseload,5,11040,36.1
+8/01/2015,March '15 Baseload,10,7430,33.5
+31/03/2014,May '14 Baseload,5,3720,31
+5/02/2015,Year 2017 Baseload,10,87600,33.5
+25/09/2015,Year 2018 Baseload,10,87600,30.7
+10/03/2015,April '15 Baseload,5,3600,33.75
+29/10/2015,November '15 Baseload,10,7200,38.75
+20/12/2013,Q3 '14 Baseload,10,22080,36
+16/10/2015,November '15 Baseload,5,3600,36
+23/12/2013,26/12/2013 Baseload,15,360,13
+22/10/2015,Year 2018 Baseload,10,87600,30.3
+10/02/2015,Year 2017 Baseload,10,87600,34.25
+5/11/2015,Day-ahead Baseload,20,480,37.75
+7/10/2015,Day-ahead Baseload,5,120,48.5
+5/11/2015,December '15 Baseload,50,37200,33.25
+4/03/2014,Q2 '14 Baseload,10,21840,31.65
+24/11/2015,December '15 Baseload,5,3720,33
+9/12/2015,Q1 '16 Baseload,10,21830,32.5
+30/07/2015,Week 32 '15 Baseload,10,1680,36
+30/07/2015,Day-ahead Baseload,10,240,33.25
+15/07/2015,Day-ahead Baseload,10,240,55
+5/08/2014,Week 34 '14 Baseload,25,4200,31.5
+6/06/2016,July '16 Baseload,10,7440,30.6
+21/10/2015,Day-ahead Baseload,5,120,35.75
+12/11/2015,Weekend Baseload,10,480,22
+3/01/2014,Day-ahead Baseload,15,360,29
+27/02/2014,Year 2015 Baseload,5,43800,35.3
+17/12/2014,Day-ahead Baseload,20,480,39.65
+6/08/2013,Day-ahead Baseload,5,120,45
+22/01/2015,Q4 '15 Baseload,10,22090,37.25
+21/01/2014,February '14 Baseload,5,3360,39.95
+15/04/2014,Day-ahead Baseload,5,120,38.75
+21/05/2015,Week 22 '15 Baseload,100,16800,26.5
+8/01/2015,Week 3 '15 Baseload,5,840,32
+22/07/2015,Day-ahead Baseload,5,120,50
+6/08/2015,Day-ahead Baseload,5,120,36.5
+12/11/2015,Year 2017 Baseload,5,43800,30.3
+19/11/2015,Year 2017 Baseload,10,87600,31
+9/11/2015,Wednesday Baseload,10,240,40
+6/01/2015,February '15 Baseload,10,6720,37.25
+17/07/2015,August '15 Baseload,5,3720,32.35
+23/10/2015,Week 44 '15 Baseload,5,840,36.5
+2/12/2015,January '16 Baseload,10,7440,32.75
+19/12/2013,Weekend Baseload,30,1440,20.5
+7/08/2013,Weekend Baseload,20,960,28
+7/03/2016,Year 2017 Baseload,5,43800,25.35
+15/10/2013,Day-ahead Baseload,10,240,51
+24/01/2014,Day-ahead Peaks,5,60,52.65
+27/03/2014,Weekend Baseload,10,470,24.5
+6/10/2015,Thursday Baseload,10,240,48
+19/08/2015,September '15 Baseload,5,3600,34.4
+27/04/2015,Day-ahead Baseload,10,240,36.9
+8/04/2015,Day-ahead Baseload,10,240,41.5
+23/10/2015,Weekend Baseload,10,490,29
+9/02/2016,Q2 '16 Baseload,25,54600,27.5
+12/07/2016,August '16 Baseload,5,3720,32.25
+14/01/2014,Day-ahead Baseload,5,120,45.75
+4/09/2015,Week 37 '15 Baseload,20,3360,35.5
+25/06/2014,Day-ahead Baseload,5,120,40.55
+5/12/2014,Q1 '15 Baseload,5,10795,37.35
+24/11/2015,December '15 Baseload,10,7440,33
+9/01/2015,Weekend Baseload,12,576,10
+17/06/2015,Day-ahead Baseload,25,600,33
+4/12/2013,January '14 Baseload,25,18600,39.9
+20/09/2013,October '13 Baseload,5,3725,40.8
+3/03/2015,Day-ahead Baseload,10,240,29.4
+13/07/2015,August '15 Baseload,10,7440,32.05
+25/06/2015,July '15 Baseload,10,7440,32.75
+18/05/2015,June '15 Baseload,20,14400,30.8
+29/01/2015,Day-ahead Baseload,10,240,38.5
+2/12/2014,Q1 '15 Baseload,50,107950,38
+17/10/2013,Day-ahead Baseload,10,240,41.55
+29/10/2013,Thursday Baseload,10,240,36
+16/01/2015,February '15 Baseload,10,6720,35.6
+6/11/2014,Week 46 '14 Baseload,5,840,37.75
+7/04/2014,May '14 Baseload,10,7440,31
+9/10/2013,Day-ahead Baseload,10,240,55.6
+1/10/2013,Year 2015 Baseload,5,43800,37.4
+24/09/2013,Day-ahead Baseload,5,120,52.8
+4/10/2013,Day-ahead Baseload,10,240,55
+23/02/2015,Day-ahead Baseload,5,120,34.5
+2/07/2015,Week 28 '15 Baseload,10,1680,37.85
+22/10/2015,Day-ahead Baseload,39,936,36.75
+21/03/2014,April '14 Baseload,5,3600,31.2
+14/04/2014,Day-ahead Baseload,6,144,38
+2/12/2013,Day-ahead Baseload,5,120,55.75
+9/05/2014,Week 20 '14 Baseload,10,1680,33.5
+21/05/2015,June '15 Baseload,50,36000,30
+8/07/2015,Day-ahead Baseload,20,480,39
+16/12/2015,Day-ahead Baseload,10,240,39
+26/03/2014,Weekend Baseload,10,470,24.75
+14/11/2013,Day-ahead Baseload,10,240,50.25
+5/01/2016,Day-ahead Baseload,10,240,35.75
+25/06/2015,Week 28 '15 Baseload,10,1680,34.75
+11/08/2016,September '16 Baseload,25,18000,30.8
+17/12/2014,Day-ahead Baseload,5,120,40
+9/07/2014,Day-ahead Baseload,5,120,34.5
+18/12/2014,Day-ahead Baseload,10,240,37.3
+23/09/2014,Day-ahead Baseload,10,240,39
+29/04/2016,May '16 Baseload,10,7440,27.75
+17/07/2015,Weekend Baseload,25,1200,36
+10/01/2014,Day-ahead Extended-Peaks,5,80,56.45
+29/07/2015,Day-ahead Baseload,10,240,29
+10/02/2016,Q2 '16 Baseload,5,10920,26.5
+8/07/2015,August '15 Baseload,5,3720,30.6
+8/10/2015,Year 2016 Baseload,5,43920,32.5
+19/01/2016,Year 2017 Baseload,5,43800,27.15
+8/01/2014,February '14 Baseload,25,16800,41.8
+12/08/2013,Day-ahead Baseload,10,240,51.5
+7/08/2014,September '14 Baseload,10,7200,34.6
+2/12/2015,Weekend Baseload,20,960,24.25
+15/04/2015,May '15 Baseload,10,7440,30.9
+15/01/2016,Weekend Baseload,5,240,31
+19/12/2014,Week 52 '14 Baseload,10,1680,22
+21/04/2015,Q3 '15 Baseload,5,11040,32.75
+23/02/2016,March '16 Baseload,5,3715,23.5
+24/09/2013,October '13 Baseload,5,3725,41.15
+25/09/2013,October '13 Baseload,10,7450,41.25
+23/12/2014,Monday Baseload,20,480,34.25
+13/11/2015,Weekend Baseload,4,192,22
+16/12/2015,Year 2016 Baseload,1,8784,31.7
+14/01/2014,February '14 Baseload,5,3360,40.7
+21/07/2015,Day-ahead Baseload,10,240,52
+23/04/2014,Day-ahead Baseload,2,48,38.5
+10/02/2015,Year 2016 Baseload,10,87840,35
+16/12/2013,Year 2014 Baseload,5,43800,37.25
+22/02/2016,Q2 '16 Baseload,5,10920,25.9
+15/10/2013,Weekend Baseload,10,480,27.5
+17/04/2014,Year 2015 Baseload,25,219000,35.2
+30/06/2015,Day-ahead Baseload,45,1080,34.55
+21/05/2015,June '15 Baseload,25,18000,30
+4/02/2016,Day-ahead Baseload,10,240,30.8
+6/02/2015,Week 7 '15 Baseload,10,1680,37
+29/11/2013,Day-ahead Peaks,5,60,67
+3/03/2014,Wednesday Baseload,5,120,45
+17/12/2015,Year 2016 Baseload,5,43920,31.65
+2/10/2013,Day-ahead Baseload,5,120,26
+15/04/2014,Day-ahead Baseload,25,600,40.5
+28/04/2014,Day-ahead Baseload,5,120,42.5
+12/11/2014,Day-ahead Baseload,10,240,45.75
+4/09/2015,Weekend Baseload,10,480,23
+7/07/2014,Day-ahead Baseload,10,240,35.4
+16/01/2015,Weekend Baseload,5,240,29.4
+16/10/2015,Weekend Baseload,25,1200,36.5
+8/10/2013,Day-ahead Baseload,25,600,49.95
+23/03/2015,April '15 Baseload,20,14400,33.35
+2/02/2016,Day-ahead Baseload,10,240,29.5
+29/11/2013,Day-ahead Baseload,5,120,53
+11/11/2015,Year 2016 Baseload,5,43920,32.55
+23/03/2016,April '16 Baseload,20,14400,25.6
+7/08/2013,Day-ahead Baseload,10,240,47
+8/10/2015,Day-ahead Baseload,10,240,48.75
+4/11/2014,Year 2015 Baseload,25,219000,35.3
+18/06/2015,August '15 Baseload,25,18600,28.5
+4/11/2015,Day-ahead Baseload,10,240,42.35
+24/11/2015,Week 49 '15 Baseload,25,4200,36.5
+12/02/2016,Week 7 '16 Baseload,5,840,26.8
+2/10/2015,Weekend Baseload,25,1200,31.5
+25/06/2015,Day-ahead Baseload,15,360,36.5
+25/09/2015,Sunday Baseload,10,240,30
+11/01/2016,Day-ahead Baseload,10,240,38.5
+11/10/2013,Weekend Baseload,10,480,31
+17/02/2014,March '14 Baseload,10,7430,32.75
+28/01/2016,Year 2017 Baseload,10,87600,27.4
+2/10/2013,Weekend Baseload,10,480,39
+25/11/2014,December '14 Baseload,5,3720,37.35
+12/04/2016,May '16 Baseload,5,3720,25.6
+19/10/2015,Day-ahead Peaks,15,180,59
+7/12/2015,Day-ahead Baseload,40,960,37.5
+31/01/2014,Week 6 '14 Baseload,5,840,35.75
+9/05/2014,Weekend Baseload,10,480,14.5
+8/09/2014,October '14 Baseload,5,3725,35.4
+7/04/2015,June '15 Baseload,10,7200,32.5
+10/10/2013,Day-ahead Baseload,5,120,45.25
+13/10/2015,Q1 '16 Baseload,5,10915,33.3
+13/03/2014,Weekend Baseload,10,480,15.35
+14/07/2015,Day-ahead Baseload,10,240,53
+19/06/2014,Week 26 '14 Baseload,5,840,35
+9/12/2015,Day-ahead Baseload,10,240,35.5
+9/07/2015,Day-ahead Baseload,5,120,37.5
+9/10/2015,November '15 Baseload,25,18000,36.3
+15/12/2014,Weekend Baseload,20,960,22
+10/12/2013,Year 2014 Baseload,1,8760,37.45
+11/12/2015,Weekend Baseload,10,480,29.5
+10/03/2015,April '15 Baseload,5,3600,34
+16/02/2016,March '16 Peaks,5,1380,33
+12/01/2015,Day-ahead Baseload,10,240,33.4
+22/03/2016,April '16 Baseload,5,3600,26.25
+29/11/2013,Week 49 '13 Baseload,10,1680,39.75
+11/12/2013,January '14 Baseload,25,18600,40.15
+12/12/2014,Weekend Baseload,15,720,33.5
+8/12/2014,Q1 '15 Baseload,15,32385,37.4
+30/10/2015,Sunday Baseload,10,240,32
+13/07/2015,August '15 Baseload,10,7440,32
+10/12/2015,Weekend Baseload,25,1200,30.25
+10/12/2014,Friday Baseload,25,600,37
+26/06/2015,Week 28 '15 Baseload,10,1680,36
+6/11/2013,December '13 Baseload,5,3720,38.05
+4/08/2014,September '14 Baseload,5,3600,34.85
+31/07/2015,August '15 Baseload,5,3720,32
+1/03/2016,Day-ahead Baseload,5,120,22.75
+5/12/2013,January '14 Baseload,10,7440,40.15
+25/09/2014,Week 40 '14 Baseload,5,840,37.25
+21/10/2014,Thursday Baseload,10,240,48
+11/12/2014,Day-ahead Baseload,4,96,35.5
+14/07/2016,August '16 Baseload,5,3720,32.4
+15/12/2015,Week 52 '15 Baseload,10,1680,20.5
+7/04/2014,Year 2015 Baseload,5,43800,34
+25/09/2013,October '13 Baseload,20,14900,41.25
+22/05/2014,June '14 Baseload,5,3600,32.4
+20/11/2014,December '14 Baseload,26,19344,34.85
+9/01/2015,Saturday Baseload,10,240,13
+6/08/2013,Day-ahead Baseload,15,360,45
+27/09/2013,November '13 Baseload,10,7200,42.8
+10/12/2015,Weekend Baseload,10,480,30
+2/01/2015,Day-ahead Baseload,5,120,41.5
+29/03/2016,April '16 Baseload,5,3600,26.25
+12/12/2014,Week 51 '14 Baseload,25,4200,36.25
+7/11/2013,Day-ahead Baseload,10,240,45.5
+24/06/2014,Day-ahead Baseload,5,120,39.6
+11/12/2014,Weekend Baseload,10,480,32
+17/12/2014,Day-ahead Peaks,10,120,49
+27/02/2015,Sunday Baseload,45,1080,14
+25/11/2015,Weekend Baseload,10,480,23.5
+12/10/2015,Day-ahead Baseload,10,240,51.75
+13/05/2016,June '16 Baseload,17,12240,29
+17/05/2016,Q3 '16 Baseload,15,33120,30.5
+1/10/2015,Day-ahead Baseload,60,1440,44
+7/05/2014,Week 20 '14 Baseload,10,1680,32.5
+17/09/2014,Day-ahead Baseload,5,120,37.7
+12/01/2015,Day-ahead Baseload,25,600,32
+8/08/2016,September '16 Baseload,5,3600,31.2
+17/10/2014,Saturday Baseload,10,240,30.45
+15/05/2014,Day-ahead Baseload,5,120,32.9
+25/05/2016,Day-ahead Baseload,10,240,28.5
+16/08/2013,Weekend Baseload,5,240,28.5
+8/01/2015,Day-ahead Baseload,10,240,33
+10/09/2015,Day-ahead Baseload,10,240,32.2
+20/09/2013,Weekend Baseload,5,240,35.15
+14/01/2015,Day-ahead Peaks,20,240,35
+13/11/2015,Weekend Baseload,10,480,22.5
+10/11/2014,Year 2015 Baseload,5,43800,35.7
+19/07/2016,Year 2017 Peaks,10,31200,38.8
+30/04/2014,Day-ahead Baseload,5,120,24.5
+22/04/2015,May '15 Baseload,5,3720,30.25
+14/01/2014,February '14 Baseload,10,6720,40.95
+11/02/2014,March '14 Baseload,10,7430,34.25
+10/09/2014,Q2 '15 Baseload,10,21840,32.45
+29/12/2014,Day-ahead Baseload,10,240,41.5
+8/09/2016,Year 2017 Peaks,10,31200,36.75
+4/02/2014,Year 2016 Baseload,30,263520,35.3
+8/01/2015,Week 3 '15 Baseload,50,8400,31.75
+9/07/2014,Day-ahead Baseload,10,240,34.1
+17/04/2014,18/04/2014 Baseload,50,1200,30
+23/09/2016,Week 39 '16 Baseload,7,1176,29.25
+28/03/2014,Sunday Baseload,10,230,21.5
+26/01/2015,Week 6 '15 Baseload,10,1680,37.5
+21/07/2015,August '15 Baseload,10,7440,32.5
+20/04/2016,Year 2018 Baseload,5,43800,24.75
+23/10/2015,Weekend Baseload,10,490,28.5
+7/09/2015,Day-ahead Extended-Peaks,10,160,50
+17/06/2015,Day-ahead Baseload,5,120,33
+24/03/2015,April '15 Baseload,10,7200,33.1
+8/04/2014,Day-ahead Baseload,10,240,31.6
+20/10/2015,Week 44 '15 Baseload,20,3360,36
+19/12/2013,January '14 Baseload,20,14880,40.55
+30/10/2015,Week 45 '15 Baseload,10,1680,40
+11/10/2013,Week 42 '13 Baseload,10,1680,43.45
+22/09/2015,October '15 Baseload,10,7450,36
+5/12/2013,Day-ahead Baseload,5,120,26
+27/03/2014,Weekend Baseload,10,470,25
+6/08/2015,Day-ahead Baseload,25,600,36.25
+2/07/2015,Weekend Baseload,10,480,33.5
+10/07/2015,August '15 Baseload,5,3720,30.5
+24/02/2016,May '16 Baseload,10,7440,24.25
+8/01/2016,Year 2018 Baseload,10,87600,27.5
+21/12/2015,February '16 Baseload,25,17400,34.15
+24/08/2015,September '15 Baseload,5,3600,33.35
+19/01/2016,Year 2017 Baseload,5,43800,27.1
+28/11/2013,Day-ahead Baseload,5,120,36.75
+4/12/2014,Q1 '15 Baseload,5,10795,37.5
+13/11/2014,Week 47 '14 Baseload,3,504,38
+16/12/2014,Day-ahead Peaks,10,120,52
+28/04/2015,Q3 '15 Baseload,15,33120,32.3
+8/01/2014,Year 2017 Baseload,5,43800,35.8
+12/03/2014,Q2 '14 Baseload,5,10920,30.85
+14/10/2015,Friday Baseload,25,600,47
+5/08/2016,Day-ahead Baseload,5,120,28.7
+6/01/2016,Q2 '16 Baseload,15,32760,30
+23/09/2015,Year 2017 Baseload,10,87600,31
+23/05/2014,June '14 Baseload,10,7200,32.3
+14/01/2014,February '14 Baseload,5,3360,40.85
+9/05/2016,Q3 '16 Baseload,5,11040,28.8
+8/01/2014,Day-ahead Baseload,5,120,30.25
+1/10/2015,Day-ahead Baseload,10,240,42.8
+24/01/2014,February '14 Baseload,10,6720,40.6
+11/09/2015,Weekend Baseload,10,480,29
+27/02/2014,March '14 Baseload,20,14860,31.6
+16/01/2014,February '14 Baseload,50,33600,40.2
+12/05/2015,Year 2017 Baseload,5,43800,32.9
+20/11/2015,Year 2016 Baseload,5,43920,33.15
+20/08/2015,Weekend Baseload,10,480,22
+19/09/2013,October '13 Baseload,10,7450,41.2
+18/12/2013,Year 2017 Baseload,5,324120,37
+17/12/2014,Friday Baseload,10,240,37
+7/02/2014,March '14 Baseload,5,3715,34
+13/08/2014,Week 34 '14 Baseload,5,840,30.25
+12/05/2015,June '15 Baseload,5,3600,30.6
+11/12/2015,Saturday Baseload,15,360,30
+19/01/2016,Day-ahead Baseload,10,240,47.9
+2/10/2015,Year 2016 Baseload,5,43920,32.1
+27/07/2015,Day-ahead Baseload,25,600,29
+31/10/2013,Day-ahead Baseload,15,360,28.25
+28/01/2014,Year 2016 Baseload,5,43920,35.6
+7/07/2015,Day-ahead Baseload,10,240,49
+30/09/2013,Year 2014 Baseload,25,219000,37.9
+14/09/2015,October '15 Baseload,10,7450,35
+21/01/2016,Q2 '16 Baseload,10,21840,29
+18/08/2016,October '16 Baseload,5,3725,33
+26/06/2014,Day-ahead Baseload,10,240,38
+21/07/2015,August '15 Baseload,10,7440,32.4
+28/05/2014,Week 23 '14 Baseload,10,1680,33.5
+24/07/2015,August '15 Baseload,5,3720,32.8
+23/10/2014,November '14 Baseload,5,3600,35.25
+11/02/2015,March '15 Baseload,10,7430,33.35
+20/05/2015,June '15 Baseload,10,7200,30.2
+18/04/2016,Day-ahead Baseload,5,120,24
+22/03/2016,Weekend Baseload,10,470,16.5
+19/12/2013,February '14 Peaks,10,2400,57.85
+15/09/2014,Year 2015 Baseload,10,87600,35.7
+5/11/2013,December '13 Baseload,10,7440,38.3
+4/05/2016,Day-ahead Baseload,10,240,24
+8/07/2014,August '14 Baseload,10,7440,34
+7/01/2015,Week 4 '15 Baseload,25,4200,36
+15/09/2014,Week 39 '14 Baseload,5,840,36.25
+26/03/2014,April '14 Baseload,10,7200,30.6
+14/01/2015,Day-ahead Baseload,10,240,27
+28/01/2015,Day-ahead Baseload,3,72,33.25
+2/04/2014,Day-ahead Baseload,10,240,39.5
+21/10/2014,Day-ahead Baseload,10,240,40.5
+23/12/2015,Year 2018 Baseload,25,219000,28.3
+2/12/2014,Week 52 '14 Baseload,10,1680,23.75
+30/04/2014,Friday Baseload,5,120,30.75
+17/09/2014,Day-ahead Extended-Peaks,5,80,43.4
+30/04/2014,Friday Baseload,10,240,30.75
+26/01/2016,Year 2017 Baseload,10,87600,26.7
+27/04/2016,May '16 Baseload,5,3720,27.8
+25/04/2014,Day-ahead Baseload,5,120,41
+23/09/2014,Year 2015 Baseload,5,43800,35.3
+15/01/2014,Day-ahead Baseload,10,240,40
+27/01/2016,Day-ahead Baseload,10,240,34
+15/10/2014,Day-ahead Baseload,10,240,41.9
+21/04/2016,May '16 Baseload,10,7440,26.45
+19/10/2015,Day-ahead Baseload,10,240,49.25
+29/10/2013,Day-ahead Baseload,10,240,41.5
+8/04/2015,Week 16 '15 Baseload,10,1680,31.5
+20/10/2014,November '14 Baseload,10,7200,35.9
+26/09/2014,Saturday Baseload,5,120,32.05
+21/04/2015,May '15 Baseload,5,3720,30.5
+4/02/2014,Day-ahead Peaks,5,60,42
+15/04/2014,Day-ahead Baseload,10,240,40
+31/07/2013,Day-ahead Baseload,5,120,38.75
+12/08/2013,Day-ahead Baseload,5,120,52.75
+23/12/2015,Week 53 '15 Baseload,10,1680,26
+30/10/2015,Sunday Baseload,4,96,32
+2/12/2015,January '16 Baseload,10,7440,33
+20/02/2014,March '14 Baseload,30,22290,32.7
+25/03/2015,April '15 Baseload,30,21600,33.4
+13/10/2015,November '15 Baseload,10,7200,36.35
+14/01/2015,Day-ahead Peaks,5,60,35
+2/10/2015,Weekend Baseload,10,480,31.5
+26/11/2015,Week 49 '15 Baseload,25,4200,34
+15/04/2015,Q3 '15 Baseload,10,22080,33.3
+22/10/2014,Week 44 '14 Baseload,5,840,33.9
+11/05/2015,June '15 Baseload,5,3600,30.6
+6/09/2016,October '16 Baseload,5,3725,31.2
+28/11/2014,Week 50 '14 Baseload,5,840,41.9
+9/02/2015,Day-ahead Baseload,25,600,41.5
+16/12/2014,Weekend Baseload,15,720,22
+14/02/2014,Q2 '14 Baseload,25,54600,31.85
+23/03/2016,April '16 Baseload,5,3600,25.75
+25/09/2014,Week 40 '14 Baseload,10,1680,37.25
+21/01/2016,February '16 Baseload,10,6960,33
+11/08/2016,September '16 Baseload,25,18000,31
+12/06/2014,Day-ahead Baseload,15,360,33
+7/01/2015,Weekend Baseload,10,480,14
+23/07/2015,Day-ahead Baseload,20,480,49
+9/12/2013,January '14 Baseload,5,3720,40.6
+5/01/2015,Day-ahead Baseload,10,240,38
+20/04/2015,Year 2016 Baseload,10,87840,33.65
+21/10/2014,Day-ahead Baseload,10,240,40
+11/11/2014,Day-ahead Baseload,5,120,40.6
+13/10/2015,Q1 '16 Baseload,25,54575,33.45
+13/09/2016,Week 38 '16 Baseload,40,6720,32
+13/01/2015,Day-ahead Baseload,10,240,32.25
+7/04/2014,Day-ahead Baseload,10,240,31.5
+8/09/2014,Week 40 '14 Baseload,25,4200,34.75
+5/03/2014,Year 2015 Baseload,5,43800,35.9
+19/08/2015,September '15 Baseload,5,3600,34
+17/10/2014,Saturday Baseload,5,120,30.1
+18/11/2013,Day-ahead Baseload,5,120,49.45
+30/09/2013,Year 2015 Baseload,25,219000,37.75
+13/02/2015,Q2 '15 Baseload,5,10920,34.25
+7/04/2015,Week 16 '15 Baseload,10,1680,31.75
+18/05/2016,June '16 Baseload,5,3600,30.1
+23/12/2014,25/12/2014 Baseload,10,240,14.75
+26/01/2015,February '15 Baseload,10,6720,35.3
+4/07/2014,August '14 Baseload,10,7440,34.1
+20/07/2015,Day-ahead Baseload,10,240,44.5
+14/01/2016,February '16 Baseload,5,3480,33.75
+16/07/2015,Weekend Baseload,15,720,31.5
+9/01/2015,March '15 Baseload,50,37150,34
+23/10/2014,November '14 Baseload,5,3600,35.1
+25/08/2015,Day-ahead Baseload,35,840,32.25
+15/06/2016,Year 2019 Baseload,10,87600,28.5
+8/09/2014,October '14 Baseload,10,7450,35.6
+20/01/2015,Week 5 '15 Baseload,5,840,34.9
+9/12/2015,January '16 Baseload,15,11160,32.4
+4/04/2014,Week 15 '14 Baseload,5,840,32.5
+18/08/2014,September '14 Baseload,5,3600,34.85
+4/09/2015,Week 37 '15 Baseload,10,1680,34
+29/07/2014,August '14 Baseload,20,14880,33.35
+8/07/2016,Weekend Baseload,5,240,19
+12/05/2015,June '15 Baseload,10,7200,30.6
+28/04/2014,June '14 Baseload,10,7200,32.75
+22/06/2016,Year 2017 Baseload,5,43800,30.1
+1/07/2016,Year 2017 Baseload,5,43800,29.15
+11/08/2015,September '15 Baseload,5,3600,34.75
+3/02/2015,Q2 '15 Baseload,10,21840,32.9
+24/08/2015,Q4 '15 Baseload,10,22090,33.7
+23/12/2014,Monday Baseload,10,240,34.5
+22/10/2014,Week 44 '14 Baseload,10,1680,33.8
+18/03/2014,Year 2015 Baseload,10,87600,35.05
+25/11/2013,Day-ahead Baseload,10,240,51.25
+4/01/2016,Wednesday Baseload,5,120,35.75
+9/04/2015,Day-ahead Baseload,10,240,37.5
+4/04/2016,Year 2017 Baseload,15,131400,25.25
+30/09/2014,Day-ahead Baseload,10,240,47
+22/10/2015,Day-ahead Baseload,10,240,37
+7/11/2014,Saturday Baseload,10,240,29.75
+20/03/2014,Weekend Baseload,10,480,24.1
+8/10/2013,Day-ahead Baseload,10,240,50
+23/04/2014,Day-ahead Baseload,5,120,38.75
+14/01/2016,Day-ahead Baseload,10,240,36.1
+23/01/2015,Week 5 '15 Baseload,25,4200,32.25
+1/12/2015,Year 2016 Baseload,27,237168,32.55
+17/12/2013,Day-ahead Baseload,5,120,50
+5/02/2014,Week 7 '14 Baseload,12,2016,32.4
+15/08/2013,Day-ahead Baseload,3,72,35
+10/12/2013,Year 2014 Baseload,5,43800,37.45
+17/09/2013,Q4 '13 Baseload,5,11045,40.5
+15/04/2014,Day-ahead Baseload,20,480,40.75
+19/05/2015,June '15 Baseload,50,36000,30.5
+22/12/2015,Q1 '16 Baseload,10,21830,32.75
+4/02/2015,Weekend Baseload,10,480,25.75
+3/03/2016,Q3 '16 Baseload,10,22080,26.5
+12/01/2015,Day-ahead Baseload,10,240,33.5
+29/12/2014,January '15 Baseload,10,7440,34.25
+8/01/2015,Week 3 '15 Baseload,5,840,31.75
+7/01/2015,Q2 '15 Baseload,100,218400,32.1
+13/05/2016,June '16 Baseload,5,3600,29
+15/01/2016,Q2 '16 Baseload,5,10920,28.7
+30/09/2014,Day-ahead Baseload,5,120,46.9
+17/12/2013,Week 52 '13 Baseload,10,1680,15
+22/06/2015,Day-ahead Baseload,20,480,33.75
+18/06/2014,Day-ahead Baseload,5,120,31
+11/04/2014,Week 17 '14 Baseload,50,8400,29.75
+31/12/2013,Day-ahead Baseload,10,240,28.75
+1/08/2014,Weekend Baseload,5,240,25.3
+9/12/2013,Day-ahead Baseload,10,240,55.75
+15/04/2015,May '15 Baseload,10,7440,30.85
+8/07/2015,Day-ahead Baseload,10,240,39.25
+11/06/2015,July '15 Baseload,5,3720,29.75
+15/04/2014,Day-ahead Baseload,10,240,38.75
+15/07/2015,Day-ahead Baseload,5,120,55.25
+7/09/2015,October '15 Baseload,15,11175,33.5
+18/08/2016,September '16 Baseload,5,3600,30.6
+16/10/2013,Day-ahead Baseload,5,120,34.9
+11/09/2015,Weekend Baseload,15,720,28.15
+21/10/2015,Day-ahead Baseload,44,1056,36
+23/12/2013,Day-ahead Baseload,15,360,0.5
+12/10/2015,November '15 Baseload,5,3600,36.65
+26/10/2015,November '15 Baseload,5,3600,36.75
+17/06/2016,Year 2017 Baseload,5,43800,30.1
+24/09/2015,Day-ahead Baseload,3,72,38.3
+16/01/2015,February '15 Baseload,10,6720,35.5
+23/11/2015,Day-ahead Baseload,10,240,37
+3/04/2014,Day-ahead Baseload,30,720,33
+19/09/2016,Year 2017 Baseload,10,87600,28.6
+20/11/2014,Day-ahead Baseload,10,240,44.1
+24/09/2014,Week 40 '14 Baseload,10,1680,36.5
+25/04/2014,Day-ahead Baseload,10,240,40.9
+14/06/2016,Q3 '16 Baseload,10,22080,31
+6/10/2014,Day-ahead Baseload,10,240,33.25
+27/10/2015,Week 45 '15 Baseload,10,1680,38.75
+18/06/2015,Day-ahead Baseload,10,240,31.7
+13/01/2015,Year 2016 Baseload,5,43920,34
+27/03/2014,Year 2017 Baseload,25,219000,33.05
+10/12/2014,Day-ahead Baseload,5,120,37.9
+11/06/2014,Week 25 '14 Baseload,10,1680,32.75
+29/04/2014,Day-ahead Baseload,5,120,39.25
+19/11/2014,December '14 Baseload,18,13392,34.9
+10/11/2015,Day-ahead Baseload,10,240,39.5
+4/03/2015,Week 11 '15 Peaks,10,600,42.5
+20/10/2015,Week 44 '15 Baseload,5,840,36
+10/04/2015,Q3 '15 Baseload,5,11040,33.7
+15/08/2013,Day-ahead Baseload,10,240,34.75
+4/09/2015,Weekend Baseload,5,240,21
+23/03/2015,Year 2016 Baseload,5,43920,34.6
+4/02/2016,Day-ahead Baseload,5,120,30.8
+8/02/2016,March '16 Baseload,5,3715,27
+15/12/2014,Day-ahead Baseload,15,360,47.2
+14/09/2015,Wednesday Baseload,25,600,38
+25/04/2014,Sunday Baseload,10,240,25
+21/01/2015,Week 5 '15 Baseload,5,840,34.5
+14/08/2013,Day-ahead Baseload,5,120,36.5
+20/02/2015,Weekend Baseload,5,240,27.5
+14/08/2014,Week 34 '14 Baseload,5,840,28.5
+7/01/2015,February '15 Baseload,10,6720,37.2
+14/08/2014,Week 34 '14 Baseload,15,2520,29
+13/01/2014,Day-ahead Baseload,5,120,51.5
+21/01/2014,Day-ahead Baseload,5,120,47.4
+4/12/2015,Weekend Baseload,10,480,28.5
+22/09/2014,October '14 Baseload,5,3725,35.75
+3/12/2013,Year 2015 Baseload,5,43800,36.3
+7/10/2013,Day-ahead Peaks,10,120,63
+22/06/2015,August '15 Baseload,10,7440,29
+15/09/2015,Day-ahead Baseload,5,120,41.5
+12/02/2016,Year 2017 Baseload,25,219000,25.15
+12/09/2014,October '14 Baseload,10,7450,35.6
+23/12/2014,25/12/2014 Baseload,20,480,15
+17/12/2013,Week 52 '13 Baseload,10,1680,15.25
+3/02/2014,Day-ahead Peaks,5,60,53.1
+7/08/2013,Day-ahead Baseload,2,48,49.8
+9/11/2015,Day-ahead Baseload,10,240,35.75
+10/12/2014,Friday Baseload,25,600,35.5
+30/12/2014,January '15 Baseload,10,7440,34.4
+18/11/2014,Day-ahead Baseload,5,120,48
+19/12/2013,Weekend Baseload,20,960,21
+17/04/2014,18/04/2014 Baseload,5,120,29.5
+29/10/2013,Day-ahead Baseload,5,120,41
+10/03/2015,Year 2016 Baseload,5,43920,34.1
+27/09/2013,Week 40 '13 Baseload,5,840,37.5
+4/03/2016,Weekend Baseload,10,480,20
+16/09/2014,October '14 Baseload,5,3725,35.2
+8/08/2013,Week 33 '13 Baseload,25,4200,36
+16/04/2014,Day-ahead Peaks,2,24,41
+1/08/2014,Year 2015 Baseload,5,43800,36
+16/10/2013,Week 43 '13 Baseload,15,2535,38.1
+26/07/2016,Year 2017 Baseload,5,43800,29.3
+20/05/2015,Q3 '15 Baseload,5,11040,31.05
+3/12/2014,January '15 Baseload,5,3720,37.75
+7/11/2013,Day-ahead Peaks,10,120,56
+23/04/2014,Year 2015 Baseload,25,219000,35.05
+18/12/2013,Day-ahead Baseload,10,240,40
+30/10/2013,Day-ahead Baseload,10,240,36.25
+21/05/2014,Day-ahead Baseload,10,240,36.45
+18/12/2014,Day-ahead Baseload,10,240,36.75
+15/10/2013,Weekend Baseload,5,240,28
+11/11/2013,December '13 Baseload,5,3720,38.7
+21/02/2014,Day-ahead Baseload,5,120,31
+15/12/2015,Week 52 '15 Baseload,10,1680,22
+8/10/2014,Year 2015 Baseload,5,43800,34.95
+23/03/2015,May '15 Baseload,10,7440,31.25
+23/10/2015,Day-ahead Baseload,49,1176,39.05
+8/10/2014,November '14 Baseload,10,7200,36.75
+22/04/2016,Q3 '16 Baseload,10,22080,28.4
+9/01/2015,February '15 Baseload,10,6720,37.1
+26/06/2015,July '15 Baseload,10,7440,33.6
+4/11/2015,Day-ahead Baseload,10,240,42.25
+15/12/2014,Day-ahead Baseload,10,240,47.2
+28/05/2014,Week 23 '14 Baseload,20,3360,33.5
+1/10/2015,Day-ahead Baseload,10,240,43
+2/04/2014,Day-ahead Baseload,5,120,39.5
+8/03/2016,Week 11 '16 Baseload,10,1680,24
+14/01/2015,Day-ahead Baseload,5,120,26.25
+9/04/2015,Week 16 '15 Baseload,25,4200,31.4
+18/08/2015,Day-ahead Baseload,10,240,40.75
+24/10/2013,Weekend Baseload,10,490,18.25
+11/11/2013,Day-ahead Peaks,5,60,54
+4/08/2016,Year 2017 Baseload,5,43800,28.85
+2/12/2014,Q1 '15 Baseload,25,53975,38
+2/12/2014,January '15 Baseload,10,7440,38.75
+27/01/2016,Q4 '16 Baseload,25,55225,30.45
+15/01/2016,Year 2017 Baseload,5,43800,26.9
+7/07/2016,Day-ahead Baseload,25,600,30
+11/09/2015,Day-ahead Baseload,20,480,36
+2/12/2015,Day-ahead Baseload,10,240,42.25
+19/12/2014,Weekend Baseload,10,480,18.25
+7/09/2015,Day-ahead Extended-Peaks,5,80,49.5
+14/12/2015,Wednesday Baseload,20,480,37
+15/10/2015,Day-ahead Baseload,10,240,48.6
+14/10/2015,Day-ahead Baseload,10,240,48.6
+2/10/2013,Day-ahead Baseload,10,240,26.75
+11/02/2016,Year 2017 Baseload,10,87600,24.5
+6/09/2013,Weekend Baseload,10,480,32.25
+9/10/2013,Day-ahead Baseload,10,240,55.1
+12/02/2014,Day-ahead Baseload,5,120,34.5
+24/04/2014,May '14 Baseload,40,29760,32.8
+2/10/2013,Day-ahead Baseload,15,360,26
+16/12/2014,Day-ahead Peaks,10,120,52.5
+28/10/2015,November '15 Baseload,10,7200,38
+10/07/2014,Day-ahead Baseload,5,120,32.1
+24/09/2014,October '14 Baseload,5,3725,36
+23/03/2015,Q2 '15 Baseload,5,10920,32.75
+19/12/2013,January '14 Peaks,10,2760,54.3
+1/10/2015,Day-ahead Baseload,10,240,43.25
+15/01/2015,Weekend Baseload,10,480,31.5
+23/12/2015,February '16 Baseload,25,17400,34.15
+20/01/2016,Day-ahead Baseload,10,240,55.5
+23/10/2014,Year 2015 Baseload,10,87600,35.15
+7/07/2015,Day-ahead Baseload,10,240,45.5
+3/03/2016,Year 2017 Baseload,5,43800,25
+15/10/2013,December '13 Baseload,10,7440,38.4
+18/01/2016,Day-ahead Baseload,20,480,42.5
+4/07/2014,August '14 Baseload,25,18600,34.1
+2/10/2013,Day-ahead Baseload,10,240,26.5
+28/07/2015,Day-ahead Baseload,10,240,28.75
+23/12/2013,26/12/2013 Baseload,15,360,8
+6/11/2013,Day-ahead Baseload,5,120,36.3
+11/02/2014,March '14 Baseload,5,3715,34.05
+7/09/2015,Q1 '16 Baseload,10,21830,33.5
+11/12/2014,Day-ahead Baseload,10,240,36.25
+28/04/2014,Day-ahead Baseload,10,240,42.3
+27/08/2014,Weekend Baseload,25,1200,28
+13/11/2015,Weekend Baseload,5,240,21.5
+5/06/2014,Day-ahead Baseload,5,120,32.85
+12/02/2015,Week 8 '15 Peaks,25,1500,46.75
+29/04/2016,May '16 Baseload,5,3720,27.75
+16/07/2015,Weekend Baseload,10,480,31.5
+10/10/2013,Year 2014 Baseload,25,219000,37.1
+29/10/2014,November '14 Baseload,10,7200,35.3
+12/03/2014,Year 2016 Baseload,5,43920,34.65
+15/12/2015,Week 52 '15 Baseload,25,4200,20.5
+21/04/2015,Week 18 '15 Baseload,10,1680,27
+7/06/2016,Year 2018 Baseload,10,87600,29.3
+14/10/2014,November '14 Baseload,5,3600,35.4
+1/08/2014,Day-ahead Baseload,5,120,34
+7/09/2015,Day-ahead Baseload,10,240,40
+26/11/2013,Year 2014 Baseload,10,87600,37.2
+21/05/2014,Day-ahead Baseload,10,240,36.2
+16/04/2014,Year 2015 Baseload,25,219000,35.4
+9/09/2014,Q4 '14 Baseload,5,11045,36.5
+25/09/2015,Day-ahead Baseload,5,120,38
+13/08/2013,Day-ahead Baseload,5,120,40
+6/10/2015,Day-ahead Baseload,30,720,45.25
+16/12/2015,Week 52 '15 Baseload,100,16800,23.65
+17/09/2015,Week 39 '15 Baseload,10,1680,39.5
+17/01/2014,Weekend Baseload,10,480,26.7
+15/04/2015,May '15 Baseload,5,3720,30.85
+25/02/2015,Weekend Baseload,40,1920,25.5
+2/12/2014,Q1 '15 Baseload,10,21590,37.75
+26/06/2015,July '15 Baseload,5,3720,33.6
+26/02/2014,Weekend Baseload,12,576,27.9
+16/10/2015,Weekend Baseload,20,960,36.75
+2/02/2016,Day-ahead Baseload,10,240,30
+10/12/2014,Day-ahead Baseload,5,120,38
+9/09/2013,November '13 Baseload,10,7200,42.35
+13/07/2015,Day-ahead Baseload,10,240,47
+31/05/2016,Year 2017 Baseload,10,87600,29
+19/02/2015,Day-ahead Baseload,5,120,36.75
+11/02/2014,March '14 Baseload,40,29720,34.25
+6/06/2016,Q3 '16 Baseload,5,11040,31.2
+18/09/2015,Week 39 '15 Baseload,35,5880,37.5
+14/09/2016,October '16 Baseload,10,7450,32
+6/05/2014,Year 2017 Baseload,25,219000,32.85
+7/09/2015,Q4 '15 Baseload,10,22090,33.55
+31/12/2013,01/01/2014 Baseload,10,240,19.25
+23/12/2013,25/12/2013 Baseload,15,360,5
+27/03/2014,Day-ahead Peaks,10,120,36.5
+26/11/2013,December '13 Baseload,15,11160,36.35
+15/01/2015,Day-ahead Baseload,5,120,36
+31/07/2015,Day-ahead Baseload,5,120,36
+26/08/2015,Day-ahead Baseload,10,240,33
+10/12/2015,Weekend Baseload,20,960,30
+25/01/2016,Year 2017 Baseload,10,87600,26.45
+10/12/2015,Day-ahead Baseload,10,240,33
+23/12/2014,Monday Baseload,10,240,34.25
+14/01/2015,Day-ahead Baseload,25,600,27
+26/08/2015,Day-ahead Baseload,10,240,33.1
+8/01/2016,February '16 Baseload,15,10440,34
+5/09/2016,October '16 Baseload,15,11175,31.6
+21/10/2014,Day-ahead Baseload,5,120,39.25
+25/04/2014,Day-ahead Baseload,25,600,42
+28/01/2015,Day-ahead Baseload,5,120,33.25
+17/12/2013,Year 2014 Baseload,5,43800,37.25
+7/09/2016,Year 2017 Baseload,5,43800,27.7
+4/05/2016,Q3 '16 Baseload,5,11040,28.45
+28/11/2013,Year 2015 Baseload,5,43800,35.85
+11/10/2013,Week 42 '13 Baseload,10,1680,43.75
+3/12/2013,Day-ahead Baseload,10,240,43.75
+16/04/2014,Day-ahead Peaks,10,120,38.5
+20/08/2015,September '15 Baseload,10,7200,33.7
+15/06/2015,Day-ahead Baseload,10,240,36.5
+7/08/2013,Day-ahead Baseload,10,240,49.5
+23/12/2013,25/12/2013 Baseload,15,360,2
+7/08/2013,Day-ahead Baseload,5,120,49.5
+25/06/2015,Day-ahead Baseload,10,240,36.5
+16/10/2013,Day-ahead Baseload,5,120,35
+1/08/2014,Week 32 '14 Baseload,20,3360,32
+17/06/2014,Day-ahead Baseload,5,120,36
+24/10/2014,Weekend Baseload,20,980,28.75
+28/11/2014,Saturday Baseload,20,480,38
+20/03/2014,Day-ahead Baseload,5,120,27.15
+27/01/2015,Day-ahead Baseload,5,120,35
+21/10/2015,Day-ahead Baseload,50,1200,36.25
+15/10/2015,Day-ahead Baseload,5,120,49.2
+10/04/2014,Day-ahead Baseload,5,120,39
+29/10/2013,Day-ahead Baseload,10,240,41.7
+21/11/2013,December '13 Baseload,6,4464,36.35
+9/09/2013,Week 38 '13 Baseload,25,4200,38.55
+7/10/2013,Day-ahead Baseload,5,120,54.25
+31/07/2013,Week 32 '13 Baseload,10,1680,35.5
+26/10/2015,November '15 Baseload,5,3600,37.15
+10/10/2013,Week 42 '13 Baseload,10,1680,45.5
+7/11/2014,Year 2016 Baseload,15,131760,34.15
+14/01/2014,February '14 Baseload,25,16800,40.85
+28/11/2014,Weekend Baseload,20,960,32.5
+4/06/2014,Day-ahead Baseload,5,120,34.15
+1/04/2015,Day-ahead Baseload,10,240,32.25
+22/10/2013,Weekend Baseload,25,1225,21
+12/01/2015,Day-ahead Baseload,50,1200,33.5
+18/09/2015,October '15 Baseload,5,3725,36
+19/02/2016,March '16 Baseload,5,3715,23.75
+7/04/2014,May '14 Baseload,25,18600,31
+6/01/2015,February '15 Baseload,5,3360,37
+25/04/2014,Year 2015 Baseload,10,87600,35.2
+10/02/2015,Year 2017 Baseload,5,43800,34.15
+11/12/2013,Day-ahead Baseload,10,240,60.5
+26/09/2013,Week 40 '13 Baseload,15,2520,37.5
+10/11/2015,December '15 Baseload,5,3720,33.25
+15/03/2016,Day-ahead Baseload,10,240,26.25
+14/07/2015,Day-ahead Baseload,5,120,53.5
+27/04/2016,Day-ahead Baseload,50,1200,33
+22/09/2014,October '14 Baseload,5,3725,35.65
+25/09/2015,Year 2018 Baseload,25,219000,30.7
+1/12/2015,Day-ahead Baseload,5,120,38.75
+8/08/2013,Day-ahead Baseload,5,120,53
+8/08/2013,Day-ahead Baseload,10,240,56.5
+11/10/2013,December '13 Baseload,15,11160,38.35
+16/02/2015,March '15 Baseload,5,3715,33.65
+7/09/2015,Q1 '16 Baseload,25,54575,33.65
+21/01/2016,Week 4 '16 Baseload,5,840,34
+29/07/2015,Day-ahead Baseload,5,120,29.5
+6/06/2016,Q3 '16 Peaks,5,3960,40.9
+23/09/2015,Week 40 '15 Baseload,10,1680,37.75
+5/11/2015,Day-ahead Baseload,10,240,37.75
+27/11/2013,Day-ahead Baseload,10,240,39.25
+17/11/2015,December '15 Baseload,25,18600,34.5
+11/05/2016,Week 20 '16 Baseload,25,4200,27.5
+4/12/2013,Friday Baseload,30,720,30
+26/11/2014,December '14 Baseload,10,7440,37.75
+10/09/2015,Day-ahead Baseload,10,240,32.25
+30/01/2014,Day-ahead Baseload,5,120,45
+16/12/2013,Year 2014 Peaks,10,31320,48.9
+7/05/2014,Day-ahead Baseload,5,120,30.35
+12/10/2015,Day-ahead Baseload,5,120,54.25
+6/07/2015,Day-ahead Baseload,10,240,48.75
+8/01/2015,Week 4 '15 Baseload,10,1680,36
+13/10/2015,Day-ahead Peaks,15,180,58
+14/07/2015,Day-ahead Baseload,10,240,53.5
+8/12/2015,January '16 Baseload,20,14880,32.25
+16/09/2014,Year 2015 Baseload,10,87600,35.7
+7/08/2013,Day-ahead Baseload,10,240,49
+10/12/2014,Day-ahead Baseload,10,240,38
+27/03/2014,Weekend Baseload,60,2820,24.75
+31/07/2013,Week 32 '13 Baseload,10,1680,35.75
+7/10/2013,Day-ahead Baseload,10,240,53.8
+7/01/2014,February '14 Baseload,10,6720,41.4
+19/03/2014,Day-ahead Baseload,5,120,26.4
+21/10/2014,November '14 Baseload,25,18000,35.8
+7/04/2015,Day-ahead Baseload,10,240,39.5
+2/01/2015,Day-ahead Baseload,35,840,40
+11/05/2015,Q3 '15 Baseload,5,11040,31.5
+23/10/2015,November '15 Baseload,5,3600,36.55
+15/12/2015,Thursday Baseload,10,240,38
+7/04/2015,Week 16 '15 Baseload,10,1680,31.5
+23/09/2015,October '15 Baseload,10,7450,36
+23/12/2013,26/12/2013 Baseload,15,360,16
+16/02/2015,Year 2016 Baseload,5,43920,36.1
+7/07/2015,Day-ahead Baseload,10,240,50
+22/10/2015,Day-ahead Baseload,10,240,37.25
+3/07/2015,Week 28 '15 Baseload,10,1680,38
+9/06/2016,Day-ahead Baseload,15,360,35
+10/10/2013,Day-ahead Baseload,10,240,45
+24/02/2014,March '14 Baseload,10,7430,32.6
+25/08/2015,Day-ahead Baseload,10,240,32.5
+23/10/2014,Day-ahead Baseload,10,240,38
+30/09/2014,November '14 Baseload,10,7200,36.95
+29/10/2013,Thursday Baseload,25,600,36
+5/08/2014,Q4 '14 Baseload,10,22090,37.35
+8/02/2016,Q2 '16 Baseload,5,10920,27.5
+13/01/2016,Day-ahead Baseload,10,240,34.5
+1/09/2014,Year 2015 Baseload,25,219000,36.25
+12/12/2013,Weekend Baseload,20,960,35.75
+16/10/2014,Week 43 '14 Baseload,67,11323,29.6
+12/10/2015,Day-ahead Baseload,10,240,52.5
+27/11/2015,Week 50 '15 Baseload,25,4200,36.5
+25/04/2014,Week 18 '14 Baseload,7,1176,30.75
+9/03/2015,Q4 '15 Baseload,25,55225,37.25
+20/01/2016,February '16 Baseload,5,3480,33.75
+19/12/2013,January '14 Peaks,10,2760,54.4
+18/06/2015,Day-ahead Baseload,5,120,31.7
+6/01/2015,Weekend Baseload,25,1200,10
+18/05/2016,Day-ahead Baseload,5,120,32.8
+7/09/2015,Day-ahead Baseload,10,240,41.5
+24/07/2015,Day-ahead Baseload,10,240,35
+13/05/2015,June '15 Baseload,25,18000,30.6
+23/08/2016,Q4 '16 Baseload,10,22090,32.25
+9/07/2015,Day-ahead Baseload,50,1200,37
+3/04/2014,Day-ahead Baseload,20,480,33
+4/09/2014,December '14 Baseload,10,7440,36.6
+11/07/2014,Weekend Baseload,25,1200,26.75
+29/06/2015,July '15 Baseload,5,3720,34
+19/10/2015,Day-ahead Baseload,10,240,49.15
+27/07/2015,Day-ahead Baseload,10,240,30
+15/02/2016,Day-ahead Baseload,10,240,32.25
+23/09/2015,Day-ahead Baseload,5,120,37.5
+12/11/2015,December '15 Baseload,11,8184,33.5
+15/01/2015,Day-ahead Baseload,25,600,35.75
+12/02/2016,Q3 '16 Baseload,5,11040,27.1
+13/10/2014,Year 2015 Baseload,5,43800,34.55
+4/08/2014,September '14 Baseload,10,7200,35
+28/01/2015,Week 6 '15 Baseload,20,3360,39.5
+11/09/2013,Week 38 '13 Baseload,10,1680,38
+11/02/2014,Weekend Baseload,10,480,20.4
+3/07/2015,Week 28 '15 Baseload,10,1680,38.15
+27/08/2014,September '14 Baseload,10,7200,35.35
+19/09/2013,Weekend Baseload,10,480,35.35
+5/12/2013,Year 2014 Baseload,5,43800,37.45
+15/06/2016,July '16 Baseload,5,3720,30.5
+8/10/2014,November '14 Baseload,10,7200,36.8
+13/10/2015,Day-ahead Baseload,5,120,49.5
+19/09/2013,Weekend Baseload,10,480,35.25
+20/10/2014,Week 44 '14 Baseload,5,840,34.25
+22/04/2015,Year 2016 Baseload,5,43920,33.65
+15/01/2014,Day-ahead Baseload,25,600,39.75
+13/03/2014,Weekend Baseload,5,240,15.5
+17/12/2014,Day-ahead Baseload,10,240,39.5
+22/09/2014,Q4 '14 Baseload,45,99405,1.1
+28/01/2015,February '15 Baseload,10,6720,35.75
+8/04/2016,May '16 Baseload,10,7440,24.7
+28/10/2014,Day-ahead Baseload,5,120,41.4
+11/11/2013,Day-ahead Baseload,10,240,44
+25/09/2015,Weekend Baseload,10,480,30
+12/01/2015,Day-ahead Baseload,25,600,33.5
+14/02/2014,Year 2015 Baseload,5,43800,36.4
+4/11/2015,Week 46 '15 Baseload,5,840,33
+30/04/2014,Friday Baseload,20,480,30.5
+22/12/2014,Day-ahead Baseload,10,240,19.5
+22/09/2014,Year 2015 Baseload,25,219000,35.35
+27/11/2014,Day-ahead Baseload,10,240,35.75
+3/02/2015,Year 2017 Baseload,10,87600,33.4
+17/12/2014,Day-ahead Baseload,100,2400,42
+8/01/2015,Week 4 '15 Baseload,15,2520,35.35
+15/01/2015,Year 2016 Baseload,5,43920,34.05
+15/01/2016,Q2 '16 Baseload,5,10920,28.65
+4/09/2015,Week 37 '15 Baseload,5,840,34
+3/11/2015,Day-ahead Baseload,5,120,40.75
+26/06/2014,July '14 Baseload,25,18600,34
+8/09/2014,October '14 Baseload,10,7450,35.5
+2/09/2014,Week 37 '14 Baseload,28,4704,33.15
+3/02/2016,March '16 Baseload,5,3715,27.75
+8/08/2013,Day-ahead Baseload,5,120,50.75
+25/09/2014,Year 2016 Baseload,5,43920,34.15
+17/12/2014,Day-ahead Baseload,10,240,38.5
+21/10/2014,Day-ahead Baseload,5,120,40.4
+18/12/2013,Week 52 '13 Baseload,5,840,14.75
+10/04/2014,Day-ahead Baseload,10,240,39.25
+23/12/2015,Week 53 '15 Baseload,10,1680,28
+23/05/2016,Day-ahead Baseload,10,240,30.75
+18/06/2015,Day-ahead Baseload,5,120,31.85
+15/12/2015,Thursday Baseload,30,720,38
+16/10/2015,Day-ahead Baseload,25,600,47.75
+3/02/2015,March '15 Baseload,10,7430,33.1
+15/12/2015,Day-ahead Baseload,5,120,37.75
+20/04/2016,Day-ahead Baseload,5,120,25.75
+20/08/2015,September '15 Baseload,5,3600,33.8
+9/01/2014,Day-ahead Baseload,10,240,29
+15/10/2015,Day-ahead Baseload,25,600,49
+16/12/2015,Day-ahead Baseload,60,1440,39
+17/01/2014,March '14 Baseload,10,7430,35.45
+9/04/2014,Day-ahead Baseload,25,600,41.75
+13/11/2015,Weekend Baseload,10,480,22
+8/01/2016,Year 2017 Baseload,25,219000,28.5
+4/03/2014,Q2 '14 Baseload,10,21840,31.7
+2/06/2015,Day-ahead Baseload,10,240,27.25
+22/11/2013,Day-ahead Baseload,10,240,47
+5/12/2013,Year 2014 Baseload,5,43800,37.35
+22/12/2015,Week 1 '16 Baseload,25,4200,33
+20/10/2015,Week 45 '15 Baseload,10,1680,35
+9/12/2014,Week 52 '14 Baseload,50,8400,22
+11/02/2015,March '15 Baseload,10,7430,33.33
+8/01/2014,February '14 Baseload,5,3360,41.9
+2/12/2014,Year 2015 Baseload,5,43800,36.5
+30/07/2015,August '15 Baseload,25,18600,32.25
+4/11/2013,Day-ahead Baseload,25,600,35
+27/04/2015,May '15 Baseload,10,7440,30.05
+17/02/2014,March '14 Baseload,10,7430,33
+10/11/2014,Day-ahead Peaks,10,120,42.5
+2/06/2015,Day-ahead Baseload,70,1680,27
+4/09/2015,Day-ahead Baseload,10,240,41
+21/10/2013,Day-ahead Baseload,5,120,39.8
+27/03/2015,Week 14 '15 Baseload,10,1680,26
+15/12/2015,Day-ahead Baseload,10,240,38.2
+15/04/2014,Day-ahead Baseload,5,120,40
+25/09/2015,Day-ahead Baseload,10,240,40
+1/04/2015,03/04/2015 Baseload,10,240,31.5
+25/08/2015,September '15 Baseload,5,3600,33.4
+3/11/2015,Weekend Baseload,5,240,24
+16/10/2015,Weekend Baseload,10,480,36.5
+15/04/2014,Week 17 '14 Baseload,50,8400,31
+19/02/2015,Day-ahead Baseload,10,240,36.5
+3/02/2014,Day-ahead Baseload,5,120,44.05
+21/07/2014,Day-ahead Baseload,5,120,33.45
+4/11/2015,Year 2016 Baseload,5,43920,32.85
+25/01/2016,Year 2017 Baseload,1,8760,26.6
+8/01/2015,Year 2017 Baseload,5,43800,32.45
+5/12/2013,Day-ahead Baseload,10,240,25.45
+8/04/2015,Day-ahead Baseload,25,600,41.25
+30/09/2013,Year 2014 Baseload,10,87600,37.85
+8/07/2015,Day-ahead Baseload,15,360,37.5
+15/03/2016,Day-ahead Baseload,5,120,26
+16/10/2014,November '14 Baseload,25,18000,35
+27/09/2013,Day-ahead Baseload,10,240,40.75
+5/09/2013,Year 2014 Baseload,5,43800,37.7
+26/05/2016,June '16 Baseload,10,7200,29
+24/03/2015,April '15 Baseload,10,7200,33.25
+9/09/2016,Q4 '16 Baseload,25,55225,30.85
+11/02/2015,Week 8 '15 Baseload,15,2520,35.5
+4/11/2015,Week 46 '15 Baseload,10,1680,33
+20/01/2016,Year 2017 Baseload,5,43800,26.5
+12/10/2015,Wednesday Baseload,10,240,49
+9/12/2014,Day-ahead Baseload,20,480,35.25
+15/10/2013,December '13 Baseload,10,7440,38.65
+3/06/2014,Week 24 '14 Baseload,10,1680,31
+23/09/2015,Year 2017 Baseload,15,131400,31
+25/02/2015,March '15 Baseload,5,3715,34.1
+6/05/2014,Year 2015 Baseload,30,262800,35
+9/06/2015,Day-ahead Baseload,10,240,32.75
+12/10/2015,Day-ahead Baseload,10,240,53.75
+21/01/2016,Year 2018 Baseload,10,87600,25.25
+3/09/2015,Day-ahead Baseload,15,360,40
+4/11/2013,December '13 Baseload,10,7440,37.55
+7/09/2015,Day-ahead Baseload,50,1200,41.5
+27/11/2014,December '14 Baseload,15,11160,37.5
+12/11/2014,Day-ahead Baseload,10,240,44.75
+19/02/2015,Day-ahead Baseload,25,600,37.25
+12/03/2015,April '15 Baseload,10,7200,34
+12/11/2015,Year 2016 Baseload,5,43920,32.35
+10/10/2014,November '14 Baseload,10,7200,36.6
+18/12/2014,Weekend Baseload,25,1200,19.5
+30/10/2013,November '13 Baseload,10,7200,40.8
+27/01/2015,February '15 Baseload,10,6720,36
+4/11/2014,Year 2015 Baseload,5,43800,35.3
+3/09/2013,Day-ahead Baseload,5,120,50.5
+21/01/2016,Year 2017 Baseload,25,219000,26.35
+25/11/2014,Year 2017 Baseload,10,87600,35
+23/10/2013,Weekend Baseload,10,490,18.75
+12/12/2014,Week 51 '14 Baseload,15,2520,36
+25/08/2015,Thursday Baseload,15,360,34.75
+23/05/2016,June '16 Baseload,5,3600,29.25
+26/03/2014,Week 14 '14 Baseload,10,1680,31.5
+13/07/2016,Year 2018 Baseload,5,43800,28.15
+13/11/2015,Week 47 '15 Baseload,25,4200,36.5
+6/07/2015,Wednesday Baseload,10,240,44
+6/10/2015,November '15 Baseload,25,18000,36.35
+18/12/2013,Year 2014 Baseload,5,43800,37.4
+22/10/2015,Weekend Baseload,10,490,27.65
+23/10/2014,Day-ahead Baseload,5,120,39
+8/08/2013,Day-ahead Baseload,10,240,52
+10/09/2014,Day-ahead Peaks,5,60,44.05
+10/07/2015,Day-ahead Baseload,15,360,41.25
+13/02/2015,Week 8 '15 Baseload,5,840,34.5
+7/09/2015,Q4 '15 Baseload,5,11045,33.7
+23/10/2013,Day-ahead Baseload,5,120,41.25
+31/07/2014,August '14 Baseload,10,7440,32.9
+14/03/2014,Year 2015 Baseload,5,43800,35.05
+22/10/2013,Week 44 '13 Baseload,10,1680,31.35
+13/10/2015,Day-ahead Baseload,40,960,49.7
+20/11/2015,Year 2017 Baseload,15,131400,31.25
+7/09/2015,Day-ahead Baseload,5,120,40.5
+18/12/2014,Day-ahead Baseload,10,240,36
+31/10/2013,December '13 Baseload,25,18600,38.5
+17/06/2014,July '14 Baseload,5,3720,34.5
+12/12/2014,Sunday Baseload,5,120,32.25
+7/01/2015,Day-ahead Baseload,5,120,34
+15/01/2014,February '14 Baseload,10,6720,39.6
+10/04/2015,Week 16 '15 Baseload,5,840,30.8
+8/10/2015,December '15 Baseload,25,18600,32.35
+1/06/2015,Day-ahead Baseload,25,600,25.5
+7/04/2014,May '14 Baseload,5,3720,31.2
+16/01/2015,Week 4 '15 Baseload,40,6720,40.75
+20/10/2015,Week 44 '15 Baseload,10,1680,36
+4/12/2015,Weekend Baseload,5,240,28
+28/10/2013,Day-ahead Baseload,10,240,34
+26/11/2013,Year 2014 Baseload,5,43800,37.2
+15/09/2014,Week 39 '14 Baseload,10,1680,36.75
+16/01/2015,February '15 Baseload,10,6720,35.75
+12/09/2013,Day-ahead Baseload,5,120,47.6
+14/04/2015,June '15 Baseload,10,7200,32.35
+30/09/2013,Year 2016 Baseload,5,43920,37.55
+14/01/2014,February '14 Baseload,10,6720,40.7
+21/08/2015,Day-ahead Baseload,25,600,31.75
+10/09/2013,Week 38 '13 Baseload,10,1680,39.8
+11/06/2014,Day-ahead Peaks,5,60,51.5
+18/12/2014,Day-ahead Peaks,10,120,47

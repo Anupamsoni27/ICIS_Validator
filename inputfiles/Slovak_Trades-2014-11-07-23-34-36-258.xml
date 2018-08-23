@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HEML>
+  <Transactions ReportName="Slovak_Trades">
+    <Transaction Date="7/11/2014">
+      <Record RecordId="0">
+        <COLUMN FormalName="date" DisplayName="Date">7/11/2014</COLUMN>
+        <COLUMN FormalName="period" DisplayName="Period">Weekend Baseload</COLUMN>
+        <COLUMN FormalName="volume" DisplayName="Volume">10</COLUMN>
+        <COLUMN FormalName="total" DisplayName="Total">480</COLUMN>
+        <COLUMN FormalName="price" DisplayName="Price">28</COLUMN>
+        <COLUMN FormalName="time" DisplayName="Time">09:06:37</COLUMN>
+      </Record>
+      <Record RecordId="1">
+        <COLUMN FormalName="date" DisplayName="Date">7/11/2014</COLUMN>
+        <COLUMN FormalName="period" DisplayName="Period">Weekend Baseload</COLUMN>
+        <COLUMN FormalName="volume" DisplayName="Volume">10</COLUMN>
+        <COLUMN FormalName="total" DisplayName="Total">480</COLUMN>
+        <COLUMN FormalName="price" DisplayName="Price">28</COLUMN>
+        <COLUMN FormalName="time" DisplayName="Time">08:51:58</COLUMN>
+      </Record>
+      <Record RecordId="2">
+        <COLUMN FormalName="date" DisplayName="Date">7/11/2014</COLUMN>
+        <COLUMN FormalName="period" DisplayName="Period">Year 2015 Baseload</COLUMN>
+        <COLUMN FormalName="volume" DisplayName="Volume">5</COLUMN>
+        <COLUMN FormalName="total" DisplayName="Total">43800</COLUMN>
+        <COLUMN FormalName="price" DisplayName="Price">35.5</COLUMN>
+        <COLUMN FormalName="time" DisplayName="Time">13:31:30</COLUMN>
+      </Record>
+      <Record RecordId="3">
+        <COLUMN FormalName="date" DisplayName="Date">7/11/2014</COLUMN>
+        <COLUMN FormalName="period" DisplayName="Period">Year 2015 Baseload</COLUMN>
+        <COLUMN FormalName="volume" DisplayName="Volume">5</COLUMN>
+        <COLUMN FormalName="total" DisplayName="Total">43800</COLUMN>
+        <COLUMN FormalName="price" DisplayName="Price">35.5</COLUMN>
+        <COLUMN FormalName="time" DisplayName="Time">13:31:30</COLUMN>
+      </Record>
+      <Record RecordId="4">
+        <COLUMN FormalName="date" DisplayName="Date">7/11/2014</COLUMN>
+        <COLUMN FormalName="period" DisplayName="Period">Year 2015 Baseload</COLUMN>
+        <COLUMN FormalName="volume" DisplayName="Volume">20</COLUMN>
+        <COLUMN FormalName="total" DisplayName="Total">175200</COLUMN>
+        <COLUMN FormalName="price" DisplayName="Price">35.5</COLUMN>
+        <COLUMN FormalName="time" DisplayName="Time">13:31:30</COLUMN>
+      </Record>
+      <Record RecordId="5">
+        <COLUMN FormalName="date" DisplayName="Date">7/11/2014</COLUMN>
+        <COLUMN FormalName="period" DisplayName="Period">Year 2015 Baseload</COLUMN>
+        <COLUMN FormalName="volume" DisplayName="Volume">25</COLUMN>
+        <COLUMN FormalName="total" DisplayName="Total">219000</COLUMN>
+        <COLUMN FormalName="price" DisplayName="Price">35.5</COLUMN>
+        <COLUMN FormalName="time" DisplayName="Time">13:31:30</COLUMN>
+      </Record>
+      <Record RecordId="6">
+        <COLUMN FormalName="date" DisplayName="Date">7/11/2014</COLUMN>
+        <COLUMN FormalName="period" DisplayName="Period">Year 2016 Baseload</COLUMN>
+        <COLUMN FormalName="volume" DisplayName="Volume">5</COLUMN>
+        <COLUMN FormalName="total" DisplayName="Total">43920</COLUMN>
+        <COLUMN FormalName="price" DisplayName="Price">34.15</COLUMN>
+        <COLUMN FormalName="time" DisplayName="Time">14:20:54</COLUMN>
+      </Record>
+      <Record RecordId="7">
+        <COLUMN FormalName="date" DisplayName="Date">7/11/2014</COLUMN>
+        <COLUMN FormalName="period" DisplayName="Period">Year 2016 Baseload</COLUMN>
+        <COLUMN FormalName="volume" DisplayName="Volume">5</COLUMN>
+        <COLUMN FormalName="total" DisplayName="Total">43920</COLUMN>
+        <COLUMN FormalName="price" DisplayName="Price">34.15</COLUMN>
+        <COLUMN FormalName="time" DisplayName="Time">14:20:54</COLUMN>
+      </Record>
+      <Record RecordId="8">
+        <COLUMN FormalName="date" DisplayName="Date">7/11/2014</COLUMN>
+        <COLUMN FormalName="period" DisplayName="Period">Year 2016 Baseload</COLUMN>
+        <COLUMN FormalName="volume" DisplayName="Volume">15</COLUMN>
+        <COLUMN FormalName="total" DisplayName="Total">131760</COLUMN>
+        <COLUMN FormalName="price" DisplayName="Price">34.15</COLUMN>
+        <COLUMN FormalName="time" DisplayName="Time">13:49:41</COLUMN>
+      </Record>
+      <Record RecordId="9">
+        <COLUMN FormalName="date" DisplayName="Date">7/11/2014</COLUMN>
+        <COLUMN FormalName="period" DisplayName="Period">Year 2016 Baseload</COLUMN>
+        <COLUMN FormalName="volume" DisplayName="Volume">15</COLUMN>
+        <COLUMN FormalName="total" DisplayName="Total">131760</COLUMN>
+        <COLUMN FormalName="price" DisplayName="Price">34.15</COLUMN>
+        <COLUMN FormalName="time" DisplayName="Time">13:49:41</COLUMN>
+      </Record>
+      <Record RecordId="10">
+        <COLUMN FormalName="date" DisplayName="Date">7/11/2014</COLUMN>
+        <COLUMN FormalName="period" DisplayName="Period">Year 2016 Baseload</COLUMN>
+        <COLUMN FormalName="volume" DisplayName="Volume">15</COLUMN>
+        <COLUMN FormalName="total" DisplayName="Total">131760</COLUMN>
+        <COLUMN FormalName="price" DisplayName="Price">34.15</COLUMN>
+        <COLUMN FormalName="time" DisplayName="Time">13:49:41</COLUMN>
+      </Record>
+      <Record RecordId="11">
+        <COLUMN FormalName="date" DisplayName="Date">7/11/2014</COLUMN>
+        <COLUMN FormalName="period" DisplayName="Period">Saturday Baseload</COLUMN>
+        <COLUMN FormalName="volume" DisplayName="Volume">10</COLUMN>
+        <COLUMN FormalName="total" DisplayName="Total">240</COLUMN>
+        <COLUMN FormalName="price" DisplayName="Price">28.5</COLUMN>
+        <COLUMN FormalName="time" DisplayName="Time">08:29:38</COLUMN>
+      </Record>
+      <Record RecordId="12">
+        <COLUMN FormalName="date" DisplayName="Date">7/11/2014</COLUMN>
+        <COLUMN FormalName="period" DisplayName="Period">Saturday Baseload</COLUMN>
+        <COLUMN FormalName="volume" DisplayName="Volume">10</COLUMN>
+        <COLUMN FormalName="total" DisplayName="Total">240</COLUMN>
+        <COLUMN FormalName="price" DisplayName="Price">29.5</COLUMN>
+        <COLUMN FormalName="time" DisplayName="Time">09:18:00</COLUMN>
+      </Record>
+      <Record RecordId="13">
+        <COLUMN FormalName="date" DisplayName="Date">7/11/2014</COLUMN>
+        <COLUMN FormalName="period" DisplayName="Period">Saturday Baseload</COLUMN>
+        <COLUMN FormalName="volume" DisplayName="Volume">10</COLUMN>
+        <COLUMN FormalName="total" DisplayName="Total">240</COLUMN>
+        <COLUMN FormalName="price" DisplayName="Price">29.75</COLUMN>
+        <COLUMN FormalName="time" DisplayName="Time">09:38:50</COLUMN>
+      </Record>
+      <Record RecordId="14">
+        <COLUMN FormalName="date" DisplayName="Date">7/11/2014</COLUMN>
+        <COLUMN FormalName="period" DisplayName="Period">Saturday Baseload</COLUMN>
+        <COLUMN FormalName="volume" DisplayName="Volume">50</COLUMN>
+        <COLUMN FormalName="total" DisplayName="Total">1200</COLUMN>
+        <COLUMN FormalName="price" DisplayName="Price">29.75</COLUMN>
+        <COLUMN FormalName="time" DisplayName="Time">09:36:24</COLUMN>
+      </Record>
+      <Record RecordId="15">
+        <COLUMN FormalName="date" DisplayName="Date">7/11/2014</COLUMN>
+        <COLUMN FormalName="period" DisplayName="Period">Sunday Baseload</COLUMN>
+        <COLUMN FormalName="volume" DisplayName="Volume">10</COLUMN>
+        <COLUMN FormalName="total" DisplayName="Total">240</COLUMN>
+        <COLUMN FormalName="price" DisplayName="Price">25.75</COLUMN>
+        <COLUMN FormalName="time" DisplayName="Time">11:53:39</COLUMN>
+      </Record>
+      <Record RecordId="16">
+        <COLUMN FormalName="date" DisplayName="Date">7/11/2014</COLUMN>
+        <COLUMN FormalName="period" DisplayName="Period">Sunday Baseload</COLUMN>
+        <COLUMN FormalName="volume" DisplayName="Volume">10</COLUMN>
+        <COLUMN FormalName="total" DisplayName="Total">240</COLUMN>
+        <COLUMN FormalName="price" DisplayName="Price">25.75</COLUMN>
+        <COLUMN FormalName="time" DisplayName="Time">11:53:39</COLUMN>
+      </Record>
+      <Record RecordId="17">
+        <COLUMN FormalName="date" DisplayName="Date">7/11/2014</COLUMN>
+        <COLUMN FormalName="period" DisplayName="Period">Sunday Baseload</COLUMN>
+        <COLUMN FormalName="volume" DisplayName="Volume">10</COLUMN>
+        <COLUMN FormalName="total" DisplayName="Total">240</COLUMN>
+        <COLUMN FormalName="price" DisplayName="Price">26</COLUMN>
+        <COLUMN FormalName="time" DisplayName="Time">11:48:08</COLUMN>
+      </Record>
+      <Record RecordId="18">
+        <COLUMN FormalName="date" DisplayName="Date">7/11/2014</COLUMN>
+        <COLUMN FormalName="period" DisplayName="Period">Sunday Baseload</COLUMN>
+        <COLUMN FormalName="volume" DisplayName="Volume">10</COLUMN>
+        <COLUMN FormalName="total" DisplayName="Total">240</COLUMN>
+        <COLUMN FormalName="price" DisplayName="Price">26</COLUMN>
+        <COLUMN FormalName="time" DisplayName="Time">10:32:31</COLUMN>
+      </Record>
+      <Record RecordId="19">
+        <COLUMN FormalName="date" DisplayName="Date">7/11/2014</COLUMN>
+        <COLUMN FormalName="period" DisplayName="Period">Week 46 '14 Baseload</COLUMN>
+        <COLUMN FormalName="volume" DisplayName="Volume">18</COLUMN>
+        <COLUMN FormalName="total" DisplayName="Total">3024</COLUMN>
+        <COLUMN FormalName="price" DisplayName="Price">37.5</COLUMN>
+        <COLUMN FormalName="time" DisplayName="Time">10:09:15</COLUMN>
+      </Record>
+    </Transaction>
+  </Transactions>
+</HEML>
