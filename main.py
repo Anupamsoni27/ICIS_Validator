@@ -36,11 +36,11 @@ m.category = '""" + dataset_name + """' and p.name=m.default_attribute;"""
         all_list = []
         query = query_part_1
 
-        svr = "DHUB2"
-        server_name = "10.0.9.97"
-        user_name = "gdm"
-        pswd = "gdm"
-        database_name = "GDM"
+        # svr = "DHUB2"
+        # server_name = "10.0.9.97"
+        # user_name = "gdm"
+        # pswd = "gdm"
+        # database_name = "GDM"
         conn = pymssql.connect(server=server_name, user=user_name, password=pswd, database=database_name)
         cursor = conn.cursor()
 
@@ -53,6 +53,7 @@ m.category = '""" + dataset_name + """' and p.name=m.default_attribute;"""
         print(data)
         for d in data:
             print(d)
+
 
     def data_call(self):
         def divide_chunks(l, n):
@@ -71,6 +72,7 @@ m.category = '""" + dataset_name + """' and p.name=m.default_attribute;"""
         for chunk in chunks:
             line = ""
             for aa in chunk:
+                print(aa)
                 line = line +  "<dat:JavaLangstring>" + aa[0] + "/" + aa[1] +"/ALL</dat:JavaLangstring>"
             print(line)
             final_df = pd.DataFrame()
@@ -82,7 +84,7 @@ m.category = '""" + dataset_name + """' and p.name=m.default_attribute;"""
             # print(new_start_date,new_end_date)
             # a=pd.DatetimeIndex(start=new_start_date,end=new_end_date, freq=BDay())
 
-            url = "http://10.0.9.95:80/gdm/DataActionsService"
+            url = api_server +"/gdm/DataActionsService"
             headers = {'content-type': 'application/soap+xml'}
             # headers = {'content-type': 'text/xml'}
             body1 = """<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:dat="http://www.datagenicgroup.com">
@@ -199,6 +201,7 @@ m.category = '""" + dataset_name + """' and p.name=m.default_attribute;"""
             final_df1 = final_df1.append(final_df)
         final_df1.to_csv("files_to_validate/model_data.csv", index=False)
 
+
     def read_input(self):
         list1 = []
         for root, dir, files in os.walk("inputfiles/"):
@@ -236,10 +239,32 @@ m.category = '""" + dataset_name + """' and p.name=m.default_attribute;"""
 
 dbObj = ICIS_Validator("Connect MS SQL")
 
-dataset_list = ['TRAF_MONEY']
+dataset_name = input("Enter dataset category name...")
+eia_data_file_name = input("Enter EIA data file name...")
+server = input("Enter server name...")
+if server == "DHUB1":
+    server_name = "dgukhub05"
+    user_name = "gdm"
+    pswd = "gdm"
+    database_name = "GDM"
+    api_server = "http://10.0.9.106:80"
+elif server == "DHUB2":
+    server_name = "10.0.9.97"
+    user_name = "gdm"
+    pswd = "gdm"
+    database_name = "GDM"
+    api_server = "http://10.0.9.95:80"
+elif server == "UAT-61":
+    server_name = "DGUKENIDB01"
+    user_name = "GDM_UAT"
+    pswd = "GDM_UAT"
+    database_name = "GDM_UAT"
+    api_server = "http://10.0.9.61:80"
+
+dataset_list = [dataset_name]
 for dataset_name in dataset_list:
 
     dbObj.make_global()
     dbObj.model_call()
     dbObj.data_call()
-    dbObj.read_input()
+    # dbObj.read_input()
